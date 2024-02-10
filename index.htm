@@ -1,0 +1,2567 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1"
+    />
+    <link
+      rel="preload"
+      as="font"
+      href="dist/fonts/icomoon.ttf"
+      type="font/ttf"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload"
+      as="font"
+      href="dist/fonts/slick.woff"
+      type="font/woff"
+      crossorigin="anonymous"
+      media="screen and (min-width: 768px)"
+    />
+    <link
+      rel="preload"
+      as="font"
+      href="s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload"
+      as="font"
+      href="s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload"
+      as="font"
+      href="s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload preconnect"
+      as="style"
+      href="npm/bootstrap%404.6.1/dist/css/bootstrap.min.css"
+      integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload preconnect"
+      as="style"
+      href="dist/css/libs.css?v=3332363636"
+    />
+    <link
+      rel="preload preconnect"
+      as="style"
+      href="dist/css/common.css?v=3336373734"
+    />
+    <link
+      rel="stylesheet"
+      href="npm/bootstrap%404.6.1/dist/css/bootstrap.min.css"
+      integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="dist/css/libs.css?v=3332363636" />
+    <link rel="stylesheet" href="dist/css/bundle.css?v=323036323731" />
+    <link rel="stylesheet" href="dist/css/common.css?v=3336373734" />
+
+    <link rel="preload stylesheet" as="style" href="gui/lib/chatbot.min.css" />
+
+    <meta
+      name="facebook-domain-verification"
+      content="0tat82h1d8qjbhnbppzq61gobw8pcb"
+    />
+
+    <style>
+      @font-face {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2) format("woff2");
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+          U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2) format("woff2");
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+          U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(s/lato/v23/S6u9w4BMUTPHh6UVSwaPGR_p.woff2) format("woff2");
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+          U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2) format("woff2");
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+          U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(s/lato/v23/S6u9w4BMUTPHh50XSwaPGR_p.woff2) format("woff2");
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+          U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(s/lato/v23/S6u9w4BMUTPHh50XSwiPGQ.woff2) format("woff2");
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+          U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+    </style>
+
+    <title>AudiPsalm - Software Development Company</title>
+    <meta
+      name="description"
+      content="AudiPsalm is a global software development company that helps world’s leading organizations achieve lasting business value using advanced technology."
+    />
+    <meta name="keywords" content="software development company" />
+    <link rel="canonical" href="index.htm" />
+    <meta
+      property="og:title"
+      content="Global Software Development Outsourcing Provider"
+    />
+    <meta
+      property="og:description"
+      content="AudiPsalm is a global software solutions and engineering services company that helps world’s leading organizations achieve lasting business value using advanced technology."
+    />
+    <meta
+      property="og:image"
+      content="https://src.n-ix.com/uploads/2023/06/23/2c268919-f72f-48c3-bf8a-d5fd2e75664e.png"
+    />
+    <meta
+      name="twitter:title"
+      content="Global Software Development Outsourcing Provider"
+    />
+    <meta
+      name="twitter:description"
+      content="AudiPsalm is a global software solutions and engineering services company that helps world’s leading organizations achieve lasting business value using advanced technology."
+    />
+    <meta
+      name="twitter:image"
+      content="https://src.n-ix.com/uploads/2023/06/23/81530160-b3a3-40e4-9ad0-e120f9cafe64.png"
+    />
+    <meta
+      name="robots"
+      content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.n-ix.com/" />
+    <meta
+      property="og:site_name"
+      content="Software Development Company - N-iX"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@N_iX" />
+  </head>
+  <body>
+    <header id="header" class="">
+      <div class="header-wrapper white">
+        <div class="container-fluid column">
+          <div class="header-nav header-nav-new">
+            <div class="navTrigger"></div>
+            <a href="index.htm" class="logo mr-3 me-3">
+              <!-- <svg xmlns="http://www.w3.org/2000/svg" width="74" height="28">
+                <g fill="none">
+                  <path
+                    d="M1 2.44222C1 1.89859 1.44908 1.47314 1.96907 1.47314H5.0181C5.56173 1.47314 6.41262 1.56769 6.93261 1.68587C6.93261 1.68587 7.73623 1.87495 8.3035 2.72585L15.5597 14.0002C15.8434 14.4493 16.3161 15.2056 16.5761 15.6547C16.5761 15.6547 18.0415 18.1365 19.3651 21.3509C18.6797 17.9237 18.5142 16.3165 18.5142 14.2602V2.44222C18.5142 1.89859 18.9633 1.47314 19.4833 1.47314H23.0287C23.5723 1.47314 23.9977 1.92223 23.9977 2.44222V26.0309C23.9977 26.5745 23.5487 26.9999 23.0287 26.9999H20.0033C19.4596 26.9999 18.6088 26.9054 18.0888 26.7872C18.0888 26.7872 17.2851 26.5981 16.7179 25.7472L9.46166 14.4729C9.17802 14.0238 8.70531 13.2675 8.44531 12.8184C8.44531 12.8184 6.97989 10.3366 5.65627 7.12213C6.29444 10.5493 6.50717 12.1566 6.50717 14.1656V26.0309C6.50717 26.5745 6.05809 26.9999 5.53809 26.9999H1.99271C1.44908 26.9999 1.02364 26.5508 1.02364 26.0309V2.44222H1Z"
+                    fill="#FF6900"
+                  ></path>
+                  <path
+                    fill-rule="evenodd"
+                    clip-rule="evenodd"
+                    d="M42.3393 9.48529C41.8193 9.48529 41.3702 9.91074 41.3702 10.4544V26.0304C41.3702 26.5504 41.7957 26.9995 42.3393 26.9995H45.8847C46.4047 26.9995 46.8538 26.5741 46.8538 26.0304V10.4544C46.8538 9.93437 46.4283 9.48529 45.8847 9.48529H42.3393ZM44.112 6.48353C45.6247 6.48353 46.8538 5.25446 46.8538 3.74177C46.8538 2.22907 45.6247 1 44.112 1C42.5993 1 41.3702 2.22907 41.3702 3.74177C41.3702 5.25446 42.5993 6.48353 44.112 6.48353ZM28.1817 14.1179C27.6617 14.1179 27.2126 14.5434 27.2126 15.087V17.5688C27.2126 18.0888 27.6381 18.5378 28.1817 18.5378H37.4234C37.9434 18.5378 38.3924 18.1124 38.3924 17.5688V15.087C38.3924 14.567 37.967 14.1179 37.4234 14.1179H28.1817ZM48.437 26.9996C50.257 23.7851 52.9042 19.4833 55.2678 15.938L55.7878 15.1343C56.0006 14.8232 56.2135 14.4894 56.3557 14.2665C56.4187 14.1677 56.4678 14.0907 56.4969 14.0471C56.5914 13.8816 56.5914 13.6216 56.4969 13.4798C56.4239 13.3521 56.2102 13.0415 55.9752 12.7L55.9749 12.6995C55.9055 12.5986 55.8342 12.495 55.7641 12.3926C55.7641 12.3926 54.4642 10.4781 53.7787 9.41444C52.5969 7.61811 51.0606 5.15998 50.2806 3.7891L49.8079 2.96184C49.5479 2.48912 49.2406 1.96913 49.1225 1.80368C49.0043 1.63823 49.3588 1.47278 49.9024 1.47278H54.9605C55.5042 1.47278 56.0241 1.61459 56.1187 1.80368C56.1651 1.89659 56.263 2.0751 56.3785 2.28592C56.4981 2.50417 56.6366 2.75705 56.7569 2.98548C56.7569 2.98548 59.3095 6.93267 61.3895 9.95807C61.9506 10.773 63.0856 12.2827 64.0177 13.5225L64.0178 13.5225C64.7347 14.4761 65.3316 15.27 65.4549 15.4652C65.4549 15.4652 68.2203 19.2943 69.6621 21.5869C70.112 22.3253 70.5844 23.0185 71.0299 23.6723L71.03 23.6725C71.4972 24.358 71.9348 25.0001 72.2856 25.605C72.5275 26.0008 72.6875 26.2738 73.0321 26.8617L73.0327 26.8626L73.1129 26.9996H66.9676C66.4239 26.9996 65.7858 26.6214 65.5494 26.1487C65.5494 26.1487 64.6512 24.4469 63.564 22.5324L63.2284 21.9374C62.1061 19.9471 61.5056 18.8822 60.4913 17.2852L60.3022 17.5925C60.193 17.7745 60.0627 17.9987 59.9276 18.2312C59.7119 18.6022 59.4839 18.9945 59.3095 19.2706C59.3095 19.2706 56.6623 23.856 55.3623 26.2905C55.1732 26.6923 54.5587 26.9996 54.0387 26.9996H48.437ZM65.8332 2.13442C64.2969 4.94709 62.2169 8.4452 62.2169 8.4452L65.5023 12.7706L66.5896 10.9979L71.7186 2.93804C71.8524 2.7261 71.9915 2.4931 72.1136 2.28874C72.2501 2.06007 72.3652 1.86725 72.4276 1.77988C72.5222 1.59079 72.1913 1.44897 71.6476 1.44897H67.1568C66.6368 1.44897 66.0223 1.75624 65.8332 2.13442Z"
+                    fill="#54565A"
+                  ></path>
+                </g>
+              </svg> -->
+              <p>AudiPsalm</p>
+            </a>
+            <nav class="new-menu nav ms-auto me-4 ml-auto mr-4">
+              <div class="nav-item">
+                <div class="nav-link-wrapper">
+                  <a
+                    class="nav-link d-block toggled text-small text-uppercase"
+                    href="#"
+                    >Services <span class="d-none d-xl-inline icon arrow"></span
+                  ></a>
+                </div>
+                <div class="hidden-menu services-intro">
+                  <div class="gray-background d-xl-block d-none"></div>
+                  <div class="container-fluid column">
+                    <div class="row">
+                      <div
+                        class="col-xl-3 pt-xl-1 px-0 px-xl-3 services-list-wrapper"
+                      >
+                        <ul class="services-list">
+                          <li>
+                            <a href="#">Technology consulting</a>
+                          </li>
+                          <li>
+                            <a href="#">Digital Transformation</a>
+                          </li>
+                          <li>
+                            <a href="#">Custom Solution Development</a>
+                          </li>
+                          <li>
+                            <a href="#">Team Extension</a>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-xl-9 service-intro">
+                        <div class="row services-nav justify-content-between">
+                          <div class="col-xl-12 px-4 px-xl-3">
+                            <div class="row px-1 px-xl-0 pb-xl-5">
+                              <div
+                                class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper"
+                              >
+                                <div class="main-item toggled">
+                                  <a href="#">
+                                    <div class="h3">Software engineering</div>
+                                  </a>
+                                </div>
+                                <div class="header-title-subitems">
+                                  <ul class="rounded-bullet">
+                                    <li>
+                                      <a href="#">Software QA &amp; Testing</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">Mobile App development</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">UI/UX</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">Project Management</a>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                              <div
+                                class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper"
+                              >
+                                <div class="main-item toggled">
+                                  <a href="#">
+                                    <div class="h3">Data Analytics</div>
+                                  </a>
+                                </div>
+                                <div class="header-title-subitems">
+                                  <ul class="rounded-bullet">
+                                    <li>
+                                      <a href="#">Big Data</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">Data Warehouse Consulting</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">Data Governance</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">Business Intelligence</a>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                              <div
+                                class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper"
+                              >
+                                <div class="main-item toggled">
+                                  <a href="#">
+                                    <div class="h3">
+                                      AI, ML &amp; Data Science
+                                    </div>
+                                  </a>
+                                </div>
+                                <div class="header-title-subitems">
+                                  <ul class="rounded-bullet">
+                                    <li>
+                                      <a href="#">Data Science</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">AI &amp; Machine Learning</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">Generative AI Consulting</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">MLOps</a>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row px-1 px-xl-0">
+                              <div
+                                class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper"
+                              >
+                                <div class="main-item toggled">
+                                  <a href="#">
+                                    <div class="h3">Cloud Solutions</div>
+                                  </a>
+                                </div>
+                                <div class="header-title-subitems">
+                                  <ul class="rounded-bullet">
+                                    <li>
+                                      <a href="#">Cloud Migration</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">DevOps</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">AWS</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">Azure</a>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                              <div
+                                class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper"
+                              >
+                                <div class="main-item toggled">
+                                  <a href="#">
+                                    <div class="h3">
+                                      Enterprise Platforms &amp; RPA
+                                    </div>
+                                  </a>
+                                </div>
+                                <div class="header-title-subitems">
+                                  <ul class="rounded-bullet">
+                                    <li>
+                                      <a href="#">SAP</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">OpenText</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">Mendix</a>
+                                    </li>
+                                    <li>
+                                      <a href="#">UiPath</a>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Cybersecurity</div>
+                                  </a>
+                                </div>
+                                <div class="main-item mt-xl-4 pt-xl-1">
+                                  <a href="#">
+                                    <div class="h3">
+                                      Embedded Software &amp; IoT
+                                    </div>
+                                  </a>
+                                </div>
+                                <div class="main-item mt-xl-4 pt-xl-1">
+                                  <a href="#">
+                                    <div class="h3">
+                                      Game Development &amp; VR Studio
+                                    </div>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="nav-item">
+                <div class="nav-link-wrapper">
+                  <a
+                    class="nav-link d-block text-small toggled text-uppercase"
+                    href="#"
+                    >Industries
+                    <span class="d-none d-xl-inline icon arrow"></span
+                  ></a>
+                </div>
+                <div class="hidden-menu expertise-intro">
+                  <div class="gray-background d-xl-block d-none"></div>
+                  <div class="container-fluid column">
+                    <div class="row">
+                      <div class="col-xl-3 d-none d-xl-block">
+                        <div class="article-preview col-8 ps-0 pl-0">
+                          <a href="#">
+                            <div
+                              class="article-img cover"
+                              style="
+                                background-image: url('uploads/2023/09/20/8bf6b3d2-2474-4322-b93a-9c8415b61a2c.webp');
+                              "
+                            ></div>
+                            <p>
+                              5 conversational AI use cases that are reshaping
+                              industries
+                            </p>
+                          </a>
+                          <a href="#" class="link-list">Featured insights</a>
+                        </div>
+                      </div>
+                      <div class="col-xl-9 service-intro">
+                        <div class="row px-1 px-xl-0 services-nav">
+                          <div class="col-xl-12 px-4 px-xl-3">
+                            <div class="row px-1 px-xl-0 pb-xl-5">
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Finance</div>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Manufacturing</div>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">
+                                      Logistics &amp; Supply Chain
+                                    </div>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row px-1 px-xl-0 pb-xl-5">
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Retail</div>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Telecom</div>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Automotive</div>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row px-1 px-xl-0">
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Healthcare</div>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Energy &amp; Utilities</div>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-xl-4 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Agritech</div>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="nav-item">
+                <div class="nav-link-wrapper">
+                  <a
+                    class="nav-link d-block text-small text-uppercase toggled"
+                    href="#"
+                    >About us <span class="d-none d-xl-inline icon arrow"></span
+                  ></a>
+                </div>
+                <div class="hidden-menu about-intro">
+                  <div class="gray-background d-xl-block d-none"></div>
+                  <div class="container-fluid column">
+                    <div class="row">
+                      <div class="col-xl-3 d-none d-xl-block">
+                        <div class="article-preview col-8 ps-0 pl-0">
+                          <a href="#">
+                            <div
+                              class="article-img cover"
+                              style="
+                                background-image: url('uploads/2022/09/26/66a6d098-f524-4e76-a12f-64335db5a097.jpg');
+                              "
+                            ></div>
+                            <p>
+                              AudiPsalm issues 2021-2022 Sustainability Report
+                            </p>
+                          </a>
+                          <a href="#" class="link-list">Company news</a>
+                        </div>
+                      </div>
+                      <div class="col-xl-6 service-intro">
+                        <div
+                          class="row px-1 px-xl-0 services-nav justify-content-between"
+                        >
+                          <div class="col-xl-12 px-4 px-xl-3">
+                            <div class="row px-1 px-xl-0 pb-xl-5">
+                              <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Company Overview</div>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Partnerships</div>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row px-1 px-xl-0 pb-xl-5">
+                              <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Leadership Team</div>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Clients</div>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row px-1 px-xl-0">
+                              <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                <div class="main-item">
+                                  <a href="#">
+                                    <div class="h3">Industry Recognition</div>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="col-xl-3 px-0 px-xl-3 position-relative services-list-wrapper"
+                      >
+                        <ul class="services-list">
+                          <li>
+                            <a href="#">News</a>
+                          </li>
+                          <li>
+                            <a href="#">Events</a>
+                          </li>
+                          <li>
+                            <a href="#">Sustainability</a>
+                          </li>
+                          <li>
+                            <a href="#">Careers</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="nav-item">
+                <div class="nav-link-wrapper">
+                  <a
+                    class="nav-link d-block text-small text-uppercase"
+                    href="#"
+                  >
+                    SUCCESS STORIES
+                  </a>
+                </div>
+              </div>
+              <div class="nav-item">
+                <div class="nav-link-wrapper">
+                  <a
+                    class="nav-link d-block text-small text-uppercase"
+                    href="#"
+                  >
+                    Insights
+                  </a>
+                </div>
+              </div>
+              <div class="underline"></div>
+            </nav>
+            <a href="#" class="nix-btn primary"> Contact Us </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="header-menu-overlay-new"></div>
+
+    <section
+      class="header-banner-slider d-none d-md-flex mb-0"
+      data-slick='{
+        "lazyLoad": "progressive",
+        "slidesToShow": 1,
+        "slidesToScroll": 1,
+        "autoplay": true,
+        "arrows": false,
+        "dots": true         }'
+    >
+      <section class="header-banner d-flex">
+        <div class="banner-img overlay">
+          <img
+            loading="lazy"
+            src="uploads/2021/08/26/a03b146e-baf0-4958-99ad-6da44cd4bf97.webp"
+            alt="AudiPsalm"
+            title=""
+          />
+          <noscript>
+            <img
+              loading="lazy"
+              src="uploads/2021/08/26/a03b146e-baf0-4958-99ad-6da44cd4bf97.webp"
+              alt="AudiPsalm"
+              title=""
+            />
+          </noscript>
+        </div>
+
+        <div class="container-fluid column">
+          <div class="header-banner-content">
+            <h1 class="title pr-md-0 pr-4">
+              Trusted Software Development Partner Since 2002
+            </h1>
+            <div class="font-weight-normal h4 pr-md-0 pr-4">
+              AudiPsalm is a global provider of software development outsourcing
+              services with delivery centers across Europe and over 2,200 expert
+              software developers. We partner with technology businesses
+              globally helping them to build successful engineering teams and
+              create innovative software products.
+            </div>
+
+            <div>
+              <img class="banner-right-image" alt="" src="" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div
+        class="header-banner d-flex align-items-center justify-content-center"
+      >
+        <div class="banner-img overlay">
+          <img
+            loading="lazy"
+            src="uploads/2023/06/07/afa64d28-1530-495f-8b47-2051957dd621.webp"
+            data-lazy="https://src.n-ix.com/uploads/2023/06/07/afa64d28-1530-495f-8b47-2051957dd621.webp"
+            alt="Banner"
+          />
+          <noscript>
+            <img
+              loading="lazy"
+              src="uploads/2023/06/07/afa64d28-1530-495f-8b47-2051957dd621.webp"
+              alt="Banner"
+            />
+          </noscript>
+        </div>
+        <div class="mw-lg text-center slide-content">
+          <div class="text-primary text-uppercase font-weight-bold">
+            Top Article
+          </div>
+          <div class="h6">
+            <a class="text-white text-decoration-none" href="#">
+              Azure cost optimization: 9 effective strategies
+            </a>
+          </div>
+          <div class="mt-3"></div>
+          <div class="mt-3 mt-lg-5">
+            <a href="#" class="nix-btn primary text-uppercase small">
+              Read more
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="header-banner d-flex align-items-center justify-content-center"
+      >
+        <div class="banner-img overlay">
+          <img
+            loading="lazy"
+            src="uploads/2023/09/21/8b56ec02-b24e-4682-b33f-9ab2710b242c.webp"
+            data-lazy="https://src.n-ix.com/uploads/2023/09/21/8b56ec02-b24e-4682-b33f-9ab2710b242c.webp"
+            alt="Banner"
+          />
+          <noscript>
+            <img
+              loading="lazy"
+              src="uploads/2023/09/21/8b56ec02-b24e-4682-b33f-9ab2710b242c.webp"
+              alt="Banner"
+            />
+          </noscript>
+        </div>
+        <div class="mw-lg text-center slide-content">
+          <div class="text-primary text-uppercase font-weight-bold">
+            Top News
+          </div>
+          <div class="h6">
+            <a class="text-white text-decoration-none" href="#">
+              CRN has named N-iX to its 2023 Solution Provider 500 List
+            </a>
+          </div>
+          <div class="mt-3"></div>
+          <div class="mt-3 mt-lg-5">
+            <a href="#" class="nix-btn primary text-uppercase small">
+              Read more
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="header-banner d-flex align-items-center justify-content-center"
+      >
+        <div class="banner-img overlay">
+          <img
+            loading="lazy"
+            src="uploads/2023/07/24/f39e4b58-0148-4b19-9f8b-00a3079289af.webp"
+            data-lazy="https://src.n-ix.com/uploads/2023/07/24/f39e4b58-0148-4b19-9f8b-00a3079289af.webp"
+            alt="Banner"
+          />
+          <noscript>
+            <img
+              loading="lazy"
+              src="uploads/2023/07/24/f39e4b58-0148-4b19-9f8b-00a3079289af.webp"
+              alt="Banner"
+            />
+          </noscript>
+        </div>
+        <div class="mw-lg text-center slide-content">
+          <div class="text-primary text-uppercase font-weight-bold">
+            Top Article
+          </div>
+          <div class="h6">
+            <a class="text-white text-decoration-none" href="#">
+              Generative AI use cases and applications
+            </a>
+          </div>
+          <div class="mt-3"></div>
+          <div class="mt-3 mt-lg-5">
+            <a href="#" class="nix-btn primary text-uppercase small">
+              Read more
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="header-banner d-flex align-items-center justify-content-center"
+      >
+        <div class="banner-img overlay">
+          <img
+            loading="lazy"
+            src="uploads/2023/09/13/b924198f-e2ac-4e79-8952-9a438599177a.webp"
+            data-lazy="https://src.n-ix.com/uploads/2023/09/13/b924198f-e2ac-4e79-8952-9a438599177a.webp"
+            alt="Banner"
+          />
+          <noscript>
+            <img
+              loading="lazy"
+              src="uploads/2023/09/13/b924198f-e2ac-4e79-8952-9a438599177a.webp"
+              alt="Banner"
+            />
+          </noscript>
+        </div>
+        <div class="mw-lg text-center slide-content">
+          <div class="text-primary text-uppercase font-weight-bold">
+            Top Article
+          </div>
+          <div class="h6">
+            <a class="text-white text-decoration-none" href="#">
+              Software development in Latin America: 2023 market report
+            </a>
+          </div>
+          <div class="mt-3"></div>
+          <div class="mt-3 mt-lg-5">
+            <a href="#" class="nix-btn primary text-uppercase small">
+              Read more
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="header-banner d-flex align-items-center justify-content-center"
+      >
+        <div class="banner-img overlay">
+          <img
+            loading="lazy"
+            src="uploads/2023/09/20/089d2149-d133-453c-9af5-aeaa74dfeba6.webp"
+            data-lazy="https://src.n-ix.com/uploads/2023/09/20/089d2149-d133-453c-9af5-aeaa74dfeba6.webp"
+            alt="Banner"
+          />
+          <noscript>
+            <img
+              loading="lazy"
+              src="uploads/2023/09/20/089d2149-d133-453c-9af5-aeaa74dfeba6.webp"
+              alt="Banner"
+            />
+          </noscript>
+        </div>
+        <div class="mw-lg text-center slide-content">
+          <div class="text-primary text-uppercase font-weight-bold">
+            Top Article
+          </div>
+          <div class="h6">
+            <a class="text-white text-decoration-none" href="#">
+              5 conversational AI use cases that are reshaping industries
+            </a>
+          </div>
+          <div class="mt-3"></div>
+          <div class="mt-3 mt-lg-5">
+            <a href="#" class="nix-btn primary text-uppercase small">
+              Read more
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="header-banner d-flex align-items-center justify-content-center"
+      >
+        <div class="banner-img overlay">
+          <img
+            loading="lazy"
+            src="uploads/2023/10/30/d50446a9-c221-4d1d-be08-5dfa4543a13d.webp"
+            data-lazy="https://src.n-ix.com/uploads/2023/10/30/d50446a9-c221-4d1d-be08-5dfa4543a13d.webp"
+            alt="Banner"
+          />
+          <noscript>
+            <img
+              loading="lazy"
+              src="uploads/2023/10/30/d50446a9-c221-4d1d-be08-5dfa4543a13d.webp"
+              alt="Banner"
+            />
+          </noscript>
+        </div>
+        <div class="mw-lg text-center slide-content">
+          <div class="text-primary text-uppercase font-weight-bold">
+            Top Article
+          </div>
+          <div class="h6">
+            <a class="text-white text-decoration-none" href="#">
+              Building a data warehouse: A step-by-step guide
+            </a>
+          </div>
+          <div class="mt-3"></div>
+          <div class="mt-3 mt-lg-5">
+            <a href="#" class="nix-btn primary text-uppercase small">
+              Read more
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="header-banner homepage-banner d-flex d-md-none">
+      <div class="banner-img overlay">
+        <link
+          rel="preload"
+          as="image"
+          href="uploads/2021/08/26/9107987d-8e8b-4eb1-bdce-cce7fec20130.webp"
+        />
+        <img
+          width="848"
+          height="480"
+          src="uploads/2021/08/26/9107987d-8e8b-4eb1-bdce-cce7fec20130.webp"
+          alt=""
+          title=""
+        />
+        <noscript>
+          <img
+            width="848"
+            height="480"
+            src="uploads/2021/08/26/9107987d-8e8b-4eb1-bdce-cce7fec20130.webp"
+            alt=""
+            title=""
+          />
+        </noscript>
+      </div>
+      <div class="container-fluid column">
+        <div class="header-banner-content">
+          <h6 class="title">Trusted Software Development Partner Since 2002</h6>
+          <h4 class="font-weight-normal pr-md-0 pr-4">
+            AudiPsalm is a global provider of software development outsourcing
+            services with delivery centers across Europe and over 2,200 expert
+            software developers. We partner with technology businesses globally
+            helping them to build successful engineering teams and create
+            innovative software products.
+          </h4>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-pd bg-grey pt-4">
+      <div
+        class="container-fluid column pt-lg-4 mt-lg-2 pb-1 animated animated-fade-in-up"
+      >
+        <div class="text-center pb-4 mb-1">
+          <h2 class="title text-center mb-4">Our clients</h2>
+        </div>
+        <section class="section-pd pt-0 mb-2">
+          <div class="client-list-simple">
+            <div
+              class="row justify-content-center grid-gap d-flex align-items-center"
+            >
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://src.n-ix.com/uploads/2023/12/28/c48a4e47-5f07-4705-b5ef-f0bbe4b43cc0.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2023/12/28/c48a4e47-5f07-4705-b5ef-f0bbe4b43cc0.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://src.n-ix.com/uploads/2023/12/28/b59571b9-3d86-4665-8483-33c1d024d04d.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2023/12/28/b59571b9-3d86-4665-8483-33c1d024d04d.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://src.n-ix.com/uploads/2023/07/03/ee1d3a4a-38bd-4f82-86d8-b4fe07cc758b.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2023/07/03/ee1d3a4a-38bd-4f82-86d8-b4fe07cc758b.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://src.n-ix.com/uploads/2023/12/12/8eca9408-fc72-4b1c-87b7-4d56b5e5ca3f.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2023/12/12/8eca9408-fc72-4b1c-87b7-4d56b5e5ca3f.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://src.n-ix.com/uploads/2022/06/02/2064b7ae-3e2b-478c-9e2e-80e3e8e513ee.webp"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2022/06/02/2064b7ae-3e2b-478c-9e2e-80e3e8e513ee.webp"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://src.n-ix.com/uploads/2023/06/15/f3a7f127-8fe2-4fd3-b247-66d798ce67a7.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2023/06/15/f3a7f127-8fe2-4fd3-b247-66d798ce67a7.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <a href="">
+                  <img
+                    loading="lazy"
+                    src="dist/images/load.svg"
+                    data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/10/29/d2ac9bc8-bd36-4feb-8853-0887e908c114.png"
+                    alt="client-logo"
+                  />
+                  <noscript>
+                    <img
+                      loading="lazy"
+                      src="uploads/2019/10/29/d2ac9bc8-bd36-4feb-8853-0887e908c114.png"
+                      alt="client-logo"
+                    />
+                  </noscript>
+                </a>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/06/16/23acbead-9b9f-4a94-82f2-b42e970ed432.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2021/06/16/23acbead-9b9f-4a94-82f2-b42e970ed432.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <a href="">
+                  <img
+                    loading="lazy"
+                    src="dist/images/load.svg"
+                    data-src="https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2016/03/21085459/fluke-big.png"
+                    alt="client-logo"
+                  />
+                  <noscript>
+                    <img
+                      loading="lazy"
+                      src="img3.n-ix.com/wp-content/uploads/2016/03/21085459/fluke-big.png"
+                      alt="client-logo"
+                    />
+                  </noscript>
+                </a>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://src.n-ix.com/uploads/2022/02/28/954136fb-b020-441a-92c9-caa0ee142f01.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2022/02/28/954136fb-b020-441a-92c9-caa0ee142f01.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://src.n-ix.com/uploads/2023/01/03/453d0bc3-6f22-4ca7-902a-fb25b9654ab6.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2023/01/03/453d0bc3-6f22-4ca7-902a-fb25b9654ab6.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+              <div class="col-6 col-md-3 col-lg-2">
+                <img
+                  loading="lazy"
+                  src="dist/images/load.svg"
+                  data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/09/07/957c467b-0e6c-4027-8175-310af16706f4.png"
+                  alt="client-logo"
+                />
+                <noscript>
+                  <img
+                    loading="lazy"
+                    src="uploads/2021/09/07/957c467b-0e6c-4027-8175-310af16706f4.png"
+                    alt="client-logo"
+                  />
+                </noscript>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <section class="section-pd animated animated-fade-in-up">
+      <div class="container-fluid column">
+        <div class="text-center">
+          <div
+            class="testimonial-slider text-center text-sm-left gallery-slider-videos"
+          >
+            <div
+              class="slider"
+              data-slick='{
+                    "lazyLoad": "progressive",
+                    "dots": false,
+                    "slidesToScroll": 1,
+                    "slidesToShow": 1,
+                    "autoplay": true,
+                    "autoplaySpeed": 4000,
+                    "arrows": true,
+                    "responsive": [
+                        {
+                            "breakpoint": 768,
+                            "settings": {
+                                "arrows": false
+                            }
+                        }
+                    ]
+
+            }'
+            >
+              <div class="testimonial-item">
+                <div class="row">
+                  <div class="col-md-4 text-center">
+                    <div class="avatar">
+                      <img
+                        loading="lazy"
+                        src="dist/images/load.svg"
+                        data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/10/29/4dc8342a-903c-4592-a26c-2b2c2410ab28.png"
+                        alt=""
+                      />
+                      <noscript>
+                        <img
+                          loading="lazy"
+                          src="uploads/2019/10/29/4dc8342a-903c-4592-a26c-2b2c2410ab28.png"
+                          alt=""
+                        />
+                      </noscript>
+                    </div>
+                  </div>
+                  <div class="col-md-8">
+                    <div class="d-md-flex">
+                      <div class="icon small">
+                        <img
+                          loading="lazy"
+                          src="dist/images/load.svg"
+                          data-src="https://www.n-ix.com/dist/images/quote.webp"
+                          alt=""
+                        />
+
+                        <noscript>
+                          <img
+                            loading="lazy"
+                            src="dist/images/quote.webp"
+                            alt=""
+                          />
+                        </noscript>
+                      </div>
+                      <div class="content p-2 p-md-0">
+                        <div class="h4 pb-4 font-weight-normal">
+                          In our technology organization we have about 35 people
+                          in London. At AudiPsalm we have little over a hundred
+                          people. So the majority of our operation is at
+                          AudiPsalm.
+                        </div>
+                        <div class="name font-weight-bold h4 mb-1">
+                          Lars Hoogweg
+                        </div>
+                        <div class="position">CTO, Lebara</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="testimonial-item">
+                <div class="row">
+                  <div class="col-md-4 text-center">
+                    <div class="avatar">
+                      <img
+                        loading="lazy"
+                        src="dist/images/load.svg"
+                        data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/10/29/c054ae24-2160-4c6c-b453-a5f04326e6e7.png"
+                        alt=""
+                      />
+                      <noscript>
+                        <img
+                          loading="lazy"
+                          src="uploads/2019/10/29/c054ae24-2160-4c6c-b453-a5f04326e6e7.png"
+                          alt=""
+                        />
+                      </noscript>
+                    </div>
+                  </div>
+                  <div class="col-md-8">
+                    <div class="d-md-flex">
+                      <div class="icon small">
+                        <img
+                          loading="lazy"
+                          src="dist/images/load.svg"
+                          data-src="https://www.n-ix.com/dist/images/quote.webp"
+                          alt=""
+                        />
+
+                        <noscript>
+                          <img
+                            loading="lazy"
+                            src="dist/images/quote.webp"
+                            alt=""
+                          />
+                        </noscript>
+                      </div>
+                      <div class="content p-2 p-md-0">
+                        <div class="h4 pb-4 font-weight-normal">
+                          I would definitely refer AudiPsalm as an excellent
+                          nearshoring partner and have already made several
+                          personal recommendations.
+                        </div>
+                        <div class="name font-weight-bold h4 mb-1">
+                          Liam McAndrew
+                        </div>
+                        <div class="position">
+                          Head of Development, Currencycloud
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="testimonial-item">
+                <div class="row">
+                  <div class="col-md-4 text-center">
+                    <div class="avatar">
+                      <img
+                        loading="lazy"
+                        src="dist/images/load.svg"
+                        data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/09/07/4baa0c4a-8155-461c-820e-4673f591520d.png"
+                        alt=""
+                      />
+                      <noscript>
+                        <img
+                          loading="lazy"
+                          src="uploads/2021/09/07/4baa0c4a-8155-461c-820e-4673f591520d.png"
+                          alt=""
+                        />
+                      </noscript>
+                    </div>
+                  </div>
+                  <div class="col-md-8">
+                    <div class="d-md-flex">
+                      <div class="icon small">
+                        <img
+                          loading="lazy"
+                          src="dist/images/load.svg"
+                          data-src="https://www.n-ix.com/dist/images/quote.webp"
+                          alt=""
+                        />
+
+                        <noscript>
+                          <img
+                            loading="lazy"
+                            src="dist/images/quote.webp"
+                            alt=""
+                          />
+                        </noscript>
+                      </div>
+                      <div class="content p-2 p-md-0">
+                        <div class="h4 pb-4 font-weight-normal">
+                          AudiPsalm are the key development group for one of our
+                          applications.
+                        </div>
+                        <div class="name font-weight-bold h4 mb-1">
+                          Phil O&#039;Malley
+                        </div>
+                        <div class="position">
+                          Software Development Manager, Travelport Locomote
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="arrows d-none d-md-flex">
+              <div class="stats"></div>
+            </div>
+
+            <script type="application/ld+json">
+              {
+                "@context": "https://schema.org",
+                "@type": "LocalBusiness",
+                "name": "AudiPsalm",
+                "address": {
+                  "@type": "PostalAddress",
+                  "streetAddress": "32 Storozhenka St. Lviv",
+                  "postalCode": "79018"
+                },
+                "telePhone": "+442037407669",
+                "@id": "https://www.AudiPsalm.com/",
+                "url": "https://www.AudiPsalm.com/",
+                "logo": "https://src.n-ix.com/uploads/2022/10/26/8056532a-5d01-49be-a6db-5adb848944d3.png",
+                "image": "https://src.n-ix.com/uploads/2022/10/26/8056532a-5d01-49be-a6db-5adb848944d3.png",
+                "priceRange": "$$",
+                "aggregateRating": {
+                  "@type": "AggregateRating",
+                  "ratingValue": "4.75",
+                  "ratingCount": "3"
+                },
+                "location": [
+                  {
+                    "@context": "https://schema.org",
+                    "@type": "Place",
+                    "name": "USA",
+                    "telePhone": "+17273415669",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "streetAddress": "15805 Biscayne Blvd Unit 207",
+                      "addressLocality": "North Miami Beach",
+                      "addressRegion": "FL",
+                      "postalCode": "33160",
+                      "addressCountry": "US"
+                    }
+                  },
+                  {
+                    "@context": "https://schema.org",
+                    "@type": "Place",
+                    "name": "UK",
+                    "telePhone": "+442037407669",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "streetAddress": "CH1 2EY, 41 Northgate St, Office 4 3/F Coachworks Arcade",
+                      "addressLocality": "Chester",
+                      "addressCountry": "UK"
+                    }
+                  }
+                ],
+                "review": [
+                  {
+                    "@type": "Review",
+                    "name": "CTO, Lebara",
+                    "author": {
+                      "@type": "Person",
+                      "name": "Lars Hoogweg"
+                    },
+                    "datePublished": "2024-02-02",
+                    "reviewBody": "In our technology organization we have about 35 people in London. At AudiPsalm we have little over a hundred people. So the majority of our operation is at AudiPsalm.",
+                    "reviewRating": {
+                      "@type": "Rating",
+                      "bestRating": "5",
+                      "ratingValue": "5",
+                      "worstRating": "1"
+                    }
+                  },
+                  {
+                    "@type": "Review",
+                    "name": "Head of Development, Currencycloud",
+                    "author": {
+                      "@type": "Person",
+                      "name": "Liam McAndrew"
+                    },
+                    "datePublished": "2024-02-04",
+                    "reviewBody": "I would definitely refer AudiPsalm as an excellent nearshoring partner and have already made several personal recommendations.",
+                    "reviewRating": {
+                      "@type": "Rating",
+                      "bestRating": "5",
+                      "ratingValue": "5",
+                      "worstRating": "1"
+                    }
+                  },
+                  {
+                    "@type": "Review",
+                    "name": "Software Development Manager, Travelport Locomote",
+                    "author": {
+                      "@type": "Person",
+                      "name": "Phil O&#039;Malley"
+                    },
+                    "datePublished": "2024-02-04",
+                    "reviewBody": "AudiPsalm are the key development group for one of our applications.",
+                    "reviewRating": {
+                      "@type": "Rating",
+                      "bestRating": "5",
+                      "ratingValue": "4",
+                      "worstRating": "1"
+                    }
+                  }
+                ]
+              }
+            </script>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="expertise section-pd animated animated-fade-in-up">
+      <div class="container-fluid column">
+        <div class="text-center">
+          <h2 class="title text-center mb-4 pb-md-3 mb-md-5">
+            Our tech expertise
+          </h2>
+        </div>
+        <div class="row grid-gap">
+          <div class="col-sm-6 col-lg-4">
+            <a href="#" class="item">
+              <div class="inner">
+                <div class="cap">Cloud Solutions</div>
+                <div class="txt">
+                  Starting from cloud readiness assessment and cloud strategy
+                  development to infrastructure set up, architecture redesign,
+                  migration, and maintenance - we will support you at any stage
+                  of your cloud journey.
+                </div>
+                <div
+                  class="icon ic-testimonial-right-arrow text-primary mt-3"
+                ></div>
+              </div>
+            </a>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <a href="#" class="item">
+              <div class="inner">
+                <div class="cap">Data Analytics</div>
+                <div class="txt">
+                  With over 200 data experts, we can cover all your data needs,
+                  from data strategy design to cloud migration or implementation
+                  of Machine Learning and AI.
+                </div>
+                <div
+                  class="icon ic-testimonial-right-arrow text-primary mt-3"
+                ></div>
+              </div>
+            </a>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <a href="#" class="item">
+              <div class="inner">
+                <div class="cap">Machine Learning & AI</div>
+                <div class="txt">
+                  Our experts can help you extract insights from massive amounts
+                  of structured and unstructured data, implement computer vision
+                  solutions, establish deep learning models, and more.
+                </div>
+                <div
+                  class="icon ic-testimonial-right-arrow text-primary mt-3"
+                ></div>
+              </div>
+            </a>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <a href="#" class="item">
+              <div class="inner">
+                <div class="cap">Embedded Software and IoT</div>
+                <div class="txt">
+                  We can help you with every aspect of your IoT project, from
+                  validating your idea and building a prototype of your hardware
+                  to designing scalable cloud architecture and unlocking the
+                  value of predictive analytics.
+                </div>
+                <div
+                  class="icon ic-testimonial-right-arrow text-primary mt-3"
+                ></div>
+              </div>
+            </a>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <a href="#" class="item">
+              <div class="inner">
+                <div class="cap">Enterprise VR</div>
+                <div class="txt">
+                  AudiPsalm develops cutting-edge virtual reality solutions for
+                  enterprise customers. We help businesses apply immersive
+                  technologies to manufacturing, supply chain, retail,
+                  education, and other domains
+                </div>
+                <div
+                  class="icon ic-testimonial-right-arrow text-primary mt-3"
+                ></div>
+              </div>
+            </a>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <a href="#" class="item">
+              <div class="inner">
+                <div class="cap">RPA and Enterprise Platforms</div>
+                <div class="txt">
+                  We work with numerous digital platforms and RPA tools helping
+                  our clients automate operations, optimize business processes,
+                  increase profitability and more.
+                </div>
+                <div
+                  class="icon ic-testimonial-right-arrow text-primary mt-3"
+                ></div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="text-center section-pd pb-0">
+          <a href="#" class="nix-btn primary"> All Expertise </a>
+        </div>
+      </div>
+    </section>
+    <section class="section-pd animated animated-fade-in-up">
+      <div class="container-fluid column">
+        <div class="text-center">
+          <h2 class="title text-center mb-4 pb-md-3 mb-md-5">
+            Success stories
+
+            <span class="title-nav-item d-none">Case studies</span>
+          </h2>
+        </div>
+        <div class="cases">
+          <div class="grid">
+            <div class="grid-item">
+              <a
+                href="#"
+                class="item lazy"
+                data-src="https://src.n-ix.com/uploads/2022/07/29/396dd8e7-15f5-4af9-873f-660193fd00aa.webp"
+              >
+                <div class="inner">
+                  <div class="font-weight-normal text-tiny mb-3">
+                    Embedded Software Development
+                  </div>
+                  <div class="h4 font-weight-normal mb-4 pb-1">
+                    Enhancing embedded solutions for vehicle parking and safe
+                    storage
+                  </div>
+                  <div
+                    class="location text-tiny lt-spacing text-white text-uppercase"
+                  >
+                    Australia
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="grid-item">
+              <a
+                href="#"
+                class="item lazy"
+                data-src="https://src.n-ix.com/uploads/2022/12/06/62d2d882-e52f-4deb-9c95-d9e707cf9e21.webp"
+              >
+                <div class="inner">
+                  <div class="font-weight-normal text-tiny mb-3">
+                    Data Warehouse Consulting Services
+                  </div>
+                  <div class="h4 font-weight-normal mb-4 pb-1">
+                    Automation, cloud migration, and cost optimization for a
+                    global tech company
+                  </div>
+                  <div
+                    class="location text-tiny lt-spacing text-white text-uppercase"
+                  >
+                    USA
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="grid-item">
+              <a
+                href="#"
+                class="item lazy"
+                data-src="https://src.n-ix.com/uploads/2022/12/06/94f84f40-020d-45a2-a538-60af584a4a08.webp"
+              >
+                <div class="inner">
+                  <div class="font-weight-normal text-tiny mb-3">
+                    Cloud Solutions
+                  </div>
+                  <div class="h4 font-weight-normal mb-4 pb-1">
+                    Optimizing costs and operations for enterprise-grade IoT
+                    service provider
+                  </div>
+                  <div
+                    class="location text-tiny lt-spacing text-white text-uppercase"
+                  >
+                    USA
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="grid-item">
+              <a
+                href="#"
+                class="item lazy"
+                data-src="https://src.n-ix.com/uploads/2022/12/21/3e416a8d-1b16-4f69-9ed7-50be7b148a5c.webp"
+              >
+                <div class="inner">
+                  <div class="font-weight-normal text-tiny mb-3">
+                    Cloud Solutions
+                  </div>
+                  <div class="h4 font-weight-normal mb-4 pb-1">
+                    Streamlining operations and optimizing costs in energy
+                  </div>
+                  <div
+                    class="location text-tiny lt-spacing text-white text-uppercase"
+                  >
+                    United Kingdom
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="grid-item">
+              <a
+                href="#"
+                class="item lazy"
+                data-src="https://src.n-ix.com/uploads/2023/04/20/62408447-864f-4e11-a2e9-3ac0569c84d2.webp"
+              >
+                <div class="inner">
+                  <div class="font-weight-normal text-tiny mb-3">UI/UX</div>
+                  <div class="h4 font-weight-normal mb-4 pb-1">
+                    Designing an intuitive UI for effective product demand
+                    forecasting in retail
+                  </div>
+                  <div
+                    class="location text-tiny lt-spacing text-white text-uppercase"
+                  >
+                    USA
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="grid-item">
+              <a
+                href="#"
+                class="item lazy"
+                data-src="https://src.n-ix.com/uploads/2023/03/07/0ef8e4c9-6a1c-4753-bebf-94b9c2b05c5f.webp"
+              >
+                <div class="inner">
+                  <div class="font-weight-normal text-tiny mb-3">
+                    Cloud Solutions
+                  </div>
+                  <div class="h4 font-weight-normal mb-4 pb-1">
+                    Improving product pricing strategies in retail with near
+                    real-time competitor analysis
+                  </div>
+                  <div
+                    class="location text-tiny lt-spacing text-white text-uppercase"
+                  >
+                    USA
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="text-center section-pd pb-0">
+            <a href="#" class="nix-btn secondary"> Show All Cases </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="featured-slider-wrapper animated animated-fade-in-up">
+      <div class="contaier-fluid column mx-auto">
+        <div class="text-center pt-5">
+          <h2 class="title text-center mb-0">AudiPsalm in Media</h2>
+        </div>
+      </div>
+      <div class="pb-4">
+        <div
+          class="featured-slider container-fluid column"
+          data-slick='{"slidesToShow": 4, "slidesToScroll": 4, "infinite": false, "responsive": [{"breakpoint": 1024, "settings": { "slidesToShow": 4, "slidesToScroll": 4, "infinite": false}}, {"breakpoint": 820, "settings": { "slidesToShow": 3, "slidesToScroll": 3, "infinite": false}},  {"breakpoint": 680, "settings": { "slidesToShow": 2, "slidesToScroll": 2, "infinite": false}},{"breakpoint": 480, "settings": { "slidesToShow": 1, "slidesToScroll": 1, "infinite": false}}]}'
+        >
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2022/05/12/7b7a73b1-e96f-4332-80ac-4ec405e69b69.png"
+              alt="AudiPsalm in media: Bloomberg"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2022/05/12/78d84207-ec98-448e-9b19-a38527ab51f1.png"
+              alt="AudiPsalm in media: The Wall Street Journal"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2022/05/12/9726cc80-0a53-49d5-99f6-bf31895e02a9.png"
+              alt="AudiPsalm in media: BBC"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/08/27/36fd75f9-2932-4379-9f0a-88f7b418f61c.png"
+              alt="AudiPsalm in media: The New York Times"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2022/05/12/3dff70fe-b265-431f-8e0e-dacc56d9f9b7.png"
+              alt="AudiPsalm in media: Forbes"
+            />
+          </a>
+
+          <div class="featured-wrapper">
+            <img
+              loading="lazy"
+              src="uploads/2021/08/27/7e1014ed-b384-490a-9558-e5f89e171795.png"
+              alt="AudiPsalm in media: Raconteur"
+            />
+          </div>
+          <a class="featured-wrapper" target="_blank" href="">
+            <img
+              loading="lazy"
+              src="uploads/2021/08/27/47a462db-44dc-47d2-a6f4-170350581d6d.png"
+              alt="AudiPsalm in media: TNW"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2022/05/12/ecc08d6a-b472-4ac8-b25d-ced35990b808.png"
+              alt="AudiPsalm in media: Yahoo Finance"
+            />
+          </a>
+
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/08/27/9bea8555-d4c7-4571-8ad5-e01d1b37cbb8.webp"
+              alt="AudiPsalm in media: Financial Post"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2022/05/12/81aade77-2100-4c1a-84c1-1e074c48d9c0.png"
+              alt="AudiPsalm in media: Handelsblatt"
+            />
+          </a>
+
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2022/12/14/ddc37df1-4886-4e49-94e0-64d526de4119.png"
+              alt="AudiPsalm in media: The Economist"
+            />
+          </a>
+
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2022/05/12/68b7f7ed-40a5-41c0-8958-757b340457e4.png"
+              alt="AudiPsalm in media: Sydsvenskan"
+            />
+          </a>
+
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/08/27/c41a386a-b3e4-4b38-9576-19b4c6b70d1d.png"
+              alt="AudiPsalm in media: Huffpost"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/04/28/0503ca55-537a-43f4-b020-461145225600.png"
+              alt="AudiPsalm in media: ZDNET"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/04/28/92f83ebc-6144-4971-b91b-585d5d544347.png"
+              alt="AudiPsalm in media: Atlantic Council"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/04/28/b9a4e0d0-912d-4393-bfde-c717a608f19d.png"
+              alt="AudiPsalm in media: FinanceInnovation"
+            />
+          </a>
+          <div class="featured-wrapper">
+            <img
+              loading="lazy"
+              src="uploads/2021/04/28/69585eac-8d97-4b04-b92a-c161015143a6.png"
+              alt="AudiPsalm in media: Kyiv Post"
+            />
+          </div>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/04/28/5db99c8e-e457-431d-81cf-09f11c01a8e9.png"
+              alt="AudiPsalm in media: Emerging Europe"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/04/28/69df6987-60f1-45d0-8af8-29221fd95088.png"
+              alt="AudiPsalm in media: European Business Association"
+            />
+          </a>
+          <a class="featured-wrapper" target="_blank" href="#">
+            <img
+              loading="lazy"
+              src="uploads/2021/08/27/b32d42b2-a911-419a-80fe-2c600f4b47cf.png"
+              alt="AudiPsalm in media: The Ukrainians"
+            />
+          </a>
+          <div class="featured-wrapper">
+            <img
+              loading="lazy"
+              src="uploads/2021/05/12/655812f9-c59f-456e-9c2e-4dfe8f56d20e.png"
+              alt="AudiPsalm in media: DI"
+            />
+          </div>
+          <div class="featured-wrapper">
+            <img
+              loading="lazy"
+              src="uploads/2021/08/27/a54b965d-180f-4f66-a9c9-925e2c5ddf7a.webp"
+              alt="AudiPsalm in media: AIN"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section-pd animated animated-fade-in-up">
+      <div class="container-fluid column">
+        <div class="row company-facts">
+          <div class="col-6 col-md-4 col-lg-3 text-center">
+            <div class="py-4 py-lg-0">
+              <div
+                class="display-1 d-inline-flex align-items-center text-uppercase"
+              >
+                21
+              </div>
+              <div class="description">Years on the market</div>
+            </div>
+          </div>
+          <div class="col-6 col-md-4 col-lg-3 text-center">
+            <div class="py-4 py-lg-0">
+              <div
+                class="display-1 d-inline-flex align-items-center text-uppercase"
+              >
+                160<span>+</span>
+              </div>
+              <div class="description">Active clients</div>
+            </div>
+          </div>
+          <div class="col-6 col-md-4 col-lg-3 text-center">
+            <div class="py-4 py-lg-0">
+              <div
+                class="display-1 d-inline-flex align-items-center text-uppercase"
+              >
+                Top 100
+              </div>
+              <div class="description">Global outsourcing company</div>
+            </div>
+          </div>
+          <div class="col-6 col-md-4 col-lg-3 text-center">
+            <div class="py-4 py-lg-0">
+              <div
+                class="display-1 d-inline-flex align-items-center text-uppercase"
+              >
+                2,200<span>+</span>
+              </div>
+              <div class="description">Professionals</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="about-company animated animated-fade-in-up">
+      <div class="overlay section-pd">
+        <div class="container-fluid column">
+          <div class="row">
+            <div class="col-lg-6">
+              <h2 class="title text-center text-lg-left">About AudiPsalm</h2>
+              <div class="text-big mb-5 font-weight-normal">
+                <p>
+                  AudiPsalm is a global software solutions and engineering
+                  services company that helps world’s leading organizations turn
+                  challenges into lasting business value, operational
+                  efficiency, and revenue growth using modern technology. With
+                  over 2,200 professionals in 25 countries across Europe and the
+                  Americas, AudiPsalm offers expert solutions in cloud, data
+                  analytics, embedded software, IoT, AI, machine learning, and
+                  other tech domains. Being in business for over two decades, we
+                  have worked with dozens industry-leading enterprises and
+                  Fortune 500 companies creating value across a wide variety of
+                  sectors, including finance, manufacturing, supply chain,
+                  retail, and more.
+                </p>
+              </div>
+              <div
+                class="d-flex flex-wrap awards justify-content-center justify-content-md-start text-center text-md-left"
+              >
+                <a
+                  href="#"
+                  class="award text-center col-xl-3 d-flex align-items-center px-3 mb-5"
+                >
+                  <img
+                    src="dist/images/load.svg"
+                    data-src="https://src.n-ix.com/uploads/2022/07/19/ea7af8be-b9ac-431a-9910-172f40ba7f8d.png"
+                    alt="award-ico"
+                  />
+                  <noscript>
+                    <img
+                      src="uploads/2022/07/19/ea7af8be-b9ac-431a-9910-172f40ba7f8d.png"
+                      alt="award-ico"
+                    />
+                  </noscript>
+                </a>
+                <a
+                  href="#"
+                  class="award text-center col-xl-3 d-flex align-items-center px-3 mb-5"
+                >
+                  <img
+                    src="dist/images/load.svg"
+                    data-src="https://src.n-ix.com/uploads/2022/12/28/a6abb1a4-94c6-4841-af41-27edc5b27858.png"
+                    alt="award-ico"
+                  />
+                  <noscript>
+                    <img
+                      src="uploads/2022/12/28/a6abb1a4-94c6-4841-af41-27edc5b27858.png"
+                      alt="award-ico"
+                    />
+                  </noscript>
+                </a>
+                <a
+                  href="#"
+                  class="award text-center col-xl-3 d-flex align-items-center px-3 mb-5"
+                >
+                  <img
+                    src="dist/images/load.svg"
+                    data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/14/3c75c8f6-0685-4edf-8829-b06e2286868e.png"
+                    alt="award-ico"
+                  />
+                  <noscript>
+                    <img
+                      src="uploads/2020/09/14/3c75c8f6-0685-4edf-8829-b06e2286868e.png"
+                      alt="award-ico"
+                    />
+                  </noscript>
+                </a>
+                <a
+                  href="#"
+                  class="award text-center col-xl-3 d-flex align-items-center px-3 mb-5"
+                >
+                  <img
+                    src="dist/images/load.svg"
+                    data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/01/f8372b4a-0f22-42fe-9bda-c259cfbc5736.png"
+                    alt="award-ico"
+                  />
+                  <noscript>
+                    <img
+                      src="uploads/2020/07/01/f8372b4a-0f22-42fe-9bda-c259cfbc5736.png"
+                      alt="award-ico"
+                    />
+                  </noscript>
+                </a>
+                <a
+                  href="#"
+                  class="award text-center col-xl-3 d-flex align-items-center px-3 mb-5"
+                >
+                  <img
+                    src="dist/images/load.svg"
+                    data-src="https://src.n-ix.com/uploads/2023/04/07/6eca7104-e8ea-40ec-89ce-f851107e0791.png"
+                    alt="award-ico"
+                  />
+                  <noscript>
+                    <img
+                      src="uploads/2023/04/07/6eca7104-e8ea-40ec-89ce-f851107e0791.png"
+                      alt="award-ico"
+                    />
+                  </noscript>
+                </a>
+                <a
+                  href="#"
+                  class="award text-center col-xl-3 d-flex align-items-center px-3 mb-5"
+                >
+                  <img
+                    src="dist/images/load.svg"
+                    data-src="https://src.n-ix.com/uploads/2022/04/11/8ed6fe92-0a9a-40fb-b920-e52dcd58d49d.png"
+                    alt="award-ico"
+                  />
+                  <noscript>
+                    <img
+                      src="uploads/2022/04/11/8ed6fe92-0a9a-40fb-b920-e52dcd58d49d.png"
+                      alt="award-ico"
+                    />
+                  </noscript>
+                </a>
+                <a
+                  href="#"
+                  class="award text-center col-xl-3 d-flex align-items-center px-3 mb-5"
+                >
+                  <img
+                    src="dist/images/load.svg"
+                    data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/12/16/7e6d8944-0090-4914-bf9c-bdb96ed419af.png"
+                    alt="award-ico"
+                  />
+                  <noscript>
+                    <img
+                      src="uploads/2020/12/16/7e6d8944-0090-4914-bf9c-bdb96ed419af.png"
+                      alt="award-ico"
+                    />
+                  </noscript>
+                </a>
+                <a
+                  href="#"
+                  class="award text-center col-xl-3 d-flex align-items-center px-3 mb-5"
+                >
+                  <img
+                    src="dist/images/load.svg"
+                    data-src="https://src.n-ix.com/uploads/2022/04/05/b645eed2-eaa3-4d1d-ab8c-e16392bb3b22.png"
+                    alt="award-ico"
+                  />
+                  <noscript>
+                    <img
+                      src="uploads/2022/04/05/b645eed2-eaa3-4d1d-ab8c-e16392bb3b22.png"
+                      alt="award-ico"
+                    />
+                  </noscript>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section
+      class="lazy connect-with-experts"
+      data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/10/29/95c6a985-92f6-4d71-af6c-a2de1f9bf599.jpg"
+    >
+      <div class="text-center">
+        <div class="title h2 text-white text-center">
+          Connect with our experts
+        </div>
+
+        <a
+          href="#"
+          class="nix-btn primary d-inline-flex"
+          onclick="gtag('event', 'Event_name', { 'event_category' : 'Contact', 'event_action' : 'Contact Button Click', 'event_label' : 'Connect With Our Experts' });"
+        >
+          Get in touch
+          <i class="ic-testimonial-right-arrow text-white ml-2"></i>
+        </a>
+      </div>
+    </section>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://www.AudiPsalm.com/",
+        "name": "AudiPsalm",
+        "description": "AudiPsalm is a global software solutions and engineering services company that helps world’s leading organizations achieve lasting business value using advanced technology.",
+        "logo": "https://d2m6ke2px6quvq.cloudfront.net/logos/AudiPsalm-dark.png",
+        "email": "contact@AudiPsalm.com",
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "telephone": "+17273415669",
+            "contactType": "customer service",
+            "areaServed": "US"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "UK"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Germany"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Canada"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Netherlands"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Israel"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Switzerland"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Sweden"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Belgium"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Austria"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+442037407669",
+            "contactType": "customer service",
+            "areaServed": "Denmark"
+          }
+        ]
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "url": "https://www.AudiPsalm.com/",
+        "name": "AudiPsalm",
+        "sameAs": [
+          "https://www.linkedin.com/company/AudiPsalm",
+          "https://www.facebook.com/N.iX.Company"
+        ]
+      }
+    </script>
+
+    <footer id="footer" class="pt-lg-5 pt-0 pb-4">
+      <div class="container-fluid pt-lg-0 column">
+        <div class="d-block d-lg-none mobile-logo-container text-center">
+          <a href="#" class="logo">
+            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="71" height="26">
+              <g fill="none">
+                <path
+                  fill="#ff6900"
+                  d="M0 .963C0 .446.432 0 .983 0H4.03c.528 0 1.391.094 1.919.211 0 0 .791.165 1.367 1.01l7.243 11.02c.288.447.743 1.175 1.031 1.622 0 0 1.463 2.42 2.782 5.568-.671-3.36-.863-4.934-.863-6.931V.963c0-.517.432-.963.983-.963h3.55c.527 0 .959.423.959.963v23.05a.973.973 0 0 1-.96.964h-3.07c-.527 0-1.39-.094-1.918-.212 0 0-.791-.164-1.367-1.01l-7.243-11.02c-.288-.446-.743-1.175-1.031-1.621 0 0-1.463-2.42-2.782-5.569.647 3.36.863 4.934.863 6.885v11.607A.978.978 0 0 1 4.51 25H.983C.456 25 0 24.577 0 24.037V.963z"
+                ></path>
+                <path
+                  fill="#FFF"
+                  class="logo-right-part"
+                  d="M26 14.105c0-.528.425-.985.967-.985h9.057c.518 0 .943.433.943.985v2.475c0 .53-.425.986-.943.986h-9.057A.98.98 0 0 1 26 16.58v-2.475zm13.892-4.661c0-.529.424-.986.966-.986h3.491a.98.98 0 0 1 .967.986v15.57c0 .53-.424.986-.967.986h-3.514a.98.98 0 0 1-.967-.985V9.444h.024zm5.377-6.705c0 1.514-1.203 2.74-2.689 2.74s-2.688-1.226-2.688-2.74C39.892 1.226 41.094 0 42.58 0c1.486 0 2.689 1.226 2.689 2.74zM46.802 26c1.792-3.22 4.387-7.521 6.698-11.054l.519-.793c.283-.456.613-.937.707-1.105a.623.623 0 0 0 0-.577c-.094-.168-.424-.648-.707-1.081 0 0-1.274-1.922-1.958-2.98a133.1 133.1 0 0 1-3.443-5.623l-.472-.84c-.26-.457-.566-.986-.66-1.178-.094-.168.236-.312.755-.312h4.952c.52 0 1.038.144 1.132.336.095.192.378.72.637 1.201 0 0 2.5 3.941 4.552 6.969.99 1.442 3.703 5.046 3.986 5.503 0 0 2.712 3.82 4.127 6.103.92 1.49 1.91 2.836 2.571 4.013.236.433.425.721.802 1.394h-6.014c-.519 0-1.156-.385-1.392-.865 0 0-.896-1.706-1.934-3.605-1.32-2.402-1.934-3.508-3.018-5.262l-.19.312c-.259.457-.707 1.226-.966 1.682 0 0-2.594 4.59-3.868 7.017-.189.385-.778.721-1.297.721H46.8V26zM60.34 7.45s2.028-3.485 3.537-6.32c.189-.385.779-.673 1.298-.673h4.386c.52 0 .873.144.755.312-.094.168-.424.697-.684 1.153l-5.024 8.074-1.06 1.778L60.34 7.45z"
+                ></path>
+              </g>
+            </svg> -->
+            <p>AudiPsalm</p>
+          </a>
+        </div>
+        <div class="row">
+          <div class="col-lg-2">
+            <div class="footer-menu">
+              <div class="d-none d-lg-block mb-4 text-left">
+                <a href="#" class="logo">
+                  <!-- <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="71"
+                    height="26"
+                  >
+                    <g fill="none">
+                      <path
+                        fill="#ff6900"
+                        d="M0 .963C0 .446.432 0 .983 0H4.03c.528 0 1.391.094 1.919.211 0 0 .791.165 1.367 1.01l7.243 11.02c.288.447.743 1.175 1.031 1.622 0 0 1.463 2.42 2.782 5.568-.671-3.36-.863-4.934-.863-6.931V.963c0-.517.432-.963.983-.963h3.55c.527 0 .959.423.959.963v23.05a.973.973 0 0 1-.96.964h-3.07c-.527 0-1.39-.094-1.918-.212 0 0-.791-.164-1.367-1.01l-7.243-11.02c-.288-.446-.743-1.175-1.031-1.621 0 0-1.463-2.42-2.782-5.569.647 3.36.863 4.934.863 6.885v11.607A.978.978 0 0 1 4.51 25H.983C.456 25 0 24.577 0 24.037V.963z"
+                      ></path>
+                      <path
+                        fill="#FFF"
+                        class="logo-right-part"
+                        d="M26 14.105c0-.528.425-.985.967-.985h9.057c.518 0 .943.433.943.985v2.475c0 .53-.425.986-.943.986h-9.057A.98.98 0 0 1 26 16.58v-2.475zm13.892-4.661c0-.529.424-.986.966-.986h3.491a.98.98 0 0 1 .967.986v15.57c0 .53-.424.986-.967.986h-3.514a.98.98 0 0 1-.967-.985V9.444h.024zm5.377-6.705c0 1.514-1.203 2.74-2.689 2.74s-2.688-1.226-2.688-2.74C39.892 1.226 41.094 0 42.58 0c1.486 0 2.689 1.226 2.689 2.74zM46.802 26c1.792-3.22 4.387-7.521 6.698-11.054l.519-.793c.283-.456.613-.937.707-1.105a.623.623 0 0 0 0-.577c-.094-.168-.424-.648-.707-1.081 0 0-1.274-1.922-1.958-2.98a133.1 133.1 0 0 1-3.443-5.623l-.472-.84c-.26-.457-.566-.986-.66-1.178-.094-.168.236-.312.755-.312h4.952c.52 0 1.038.144 1.132.336.095.192.378.72.637 1.201 0 0 2.5 3.941 4.552 6.969.99 1.442 3.703 5.046 3.986 5.503 0 0 2.712 3.82 4.127 6.103.92 1.49 1.91 2.836 2.571 4.013.236.433.425.721.802 1.394h-6.014c-.519 0-1.156-.385-1.392-.865 0 0-.896-1.706-1.934-3.605-1.32-2.402-1.934-3.508-3.018-5.262l-.19.312c-.259.457-.707 1.226-.966 1.682 0 0-2.594 4.59-3.868 7.017-.189.385-.778.721-1.297.721H46.8V26zM60.34 7.45s2.028-3.485 3.537-6.32c.189-.385.779-.673 1.298-.673h4.386c.52 0 .873.144.755.312-.094.168-.424.697-.684 1.153l-5.024 8.074-1.06 1.778L60.34 7.45z"
+                      ></path>
+                    </g>
+                  </svg> -->
+                  <p>AudiPsalm</p>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 d-none d-lg-block">
+            <div class="footer-menu">
+              <div class="footer-action">
+                <div class="text-small pb-2">
+                  <a href="mailto:connect@audipsalm.com" class="mobile-wrapper">
+                    connect@audipsalm.com
+                  </a>
+                </div>
+                <div class="social-list d-inline-flex">
+                  <a href="#" title="Linkedin" target="_blank" class="icon">
+                    <img
+                      loading="lazy"
+                      src="dist/images/load.svg"
+                      data-src="https://www.n-ix.com/dist/images/social/linkedin.png"
+                      alt="Social icon"
+                    />
+                    <noscript>
+                      <img
+                        loading="lazy"
+                        src="dist/images/social/linkedin.png"
+                        alt="Social icon"
+                      />
+                    </noscript>
+                  </a>
+                  <a href="#" title="Youtube" target="_blank" class="icon">
+                    <img
+                      loading="lazy"
+                      src="dist/images/load.svg"
+                      data-src="https://www.n-ix.com/dist/images/social/youtube.png"
+                      alt="Social icon"
+                    />
+                    <noscript>
+                      <img
+                        loading="lazy"
+                        src="dist/images/social/youtube.png"
+                        alt="Social icon"
+                      />
+                    </noscript>
+                  </a>
+                  <a href="#" title="Twitter" target="_blank" class="icon">
+                    <img
+                      loading="lazy"
+                      src="dist/images/load.svg"
+                      data-src="https://www.n-ix.com/dist/images/social/twitter.png"
+                      alt="Social icon"
+                    />
+                    <noscript>
+                      <img
+                        loading="lazy"
+                        src="dist/images/social/twitter.png"
+                        alt="Social icon"
+                      />
+                    </noscript>
+                  </a>
+                  <a href="#" title="Facebook" target="_blank" class="icon">
+                    <img
+                      loading="lazy"
+                      src="dist/images/load.svg"
+                      data-src="https://www.n-ix.com/dist/images/social/facebook.png"
+                      alt="Social icon"
+                    />
+                    <noscript>
+                      <img
+                        loading="lazy"
+                        src="dist/images/social/facebook.png"
+                        alt="Social icon"
+                      />
+                    </noscript>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row col-lg-7 d-none d-lg-flex">
+            <div class="col-lg-6">
+              <div class="footer-menu">
+                <div class="text-small px-0 pe-2 col-md-6 col-lg-12">
+                  <span class="d-block text-big w-100 pr-md-1"
+                    >USA office:</span
+                  >
+                  <span class="d-block w-100 pr-md-1 mt-2">Texas</span>
+                  <span class="d-block w-100 pr-md-1"
+                    >Dallas by Mr Tony AUdiPsalm</span
+                  >
+                  <div class="footer-action pt-3">
+                    <a
+                      href="tel:+596355535"
+                      class="mobile-wrapper office offline"
+                    >
+                      +1d77774774
+                      <span
+                        class="d-none office-status-wrapper d-lg-inline usa-office-status"
+                      >
+                        <span class="online">online</span>
+                        <span class="offline">offline</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-5">
+              <div class="footer-menu">
+                <div class="px-0 col-md-6 col-lg-12">
+                  <span class="d-block text-big w-100 pr-md-1"
+                    >Nigerian office:</span
+                  >
+                  <span class="d-block w-100 pr-md-1 mt-2">Lagos</span>
+                  <span class="d-block w-100 pr-md-1"
+                    >40 Abudu street, Ogudu</span
+                  >
+                  <div class="footer-action pt-3">
+                    <a href="tel:+645554554" class="mobile-wrapper office">
+                      +2348059522376
+                      <span
+                        class="d-none office-status-wrapper d-lg-inline hq-office-status"
+                      >
+                        <span class="online">online</span>
+                        <span class="offline">offline</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="d-block col-12 d-lg-none">
+            <div class="text-center">
+              <div class="footer-action">
+                <div class="text-small">
+                  <a href="mailto:connect@audipsalm.com" class="mobile-wrapper">
+                    connect@audipsalm.com
+                  </a>
+                </div>
+                <div class="row">
+                  <div class="text-small col-md-6 col-lg-12">
+                    <span class="d-inline-block w-100 d-md-inline pr-md-1"
+                      >UK office:</span
+                    >
+                    <a href="tel:+6564664646" class="mobile-wrapper office">
+                      +665664646
+                    </a>
+                  </div>
+                  <div class="text-small col-md-6 col-lg-12">
+                    <span class="d-inline-block w-100 d-md-inline pr-md-1"
+                      >USA office:
+                    </span>
+                    <a href="tel:+17273415669" class="mobile-wrapper office">
+                      +1757577333
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="footer-action">
+                <div class="social-list d-inline-flex">
+                  <a href="#" title="Linkedin" target="_blank" class="icon">
+                    <img
+                      loading="lazy"
+                      src="dist/images/load.svg"
+                      data-src="https://www.n-ix.com/dist/images/social/linkedin.png"
+                      alt="Social icon"
+                    />
+                    <noscript>
+                      <img
+                        loading="lazy"
+                        src="dist/images/social/linkedin.png"
+                        alt="Social icon"
+                      />
+                    </noscript>
+                  </a>
+                  <a href="#" title="Youtube" target="_blank" class="icon">
+                    <img
+                      loading="lazy"
+                      src="dist/images/load.svg"
+                      data-src="https://www.n-ix.com/dist/images/social/youtube.png"
+                      alt="Social icon"
+                    />
+                    <noscript>
+                      <img
+                        loading="lazy"
+                        src="dist/images/social/youtube.png"
+                        alt="Social icon"
+                      />
+                    </noscript>
+                  </a>
+                  <a href="#" title="Twitter" target="_blank" class="icon">
+                    <img
+                      loading="lazy"
+                      src="dist/images/load.svg"
+                      data-src="https://www.n-ix.com/dist/images/social/twitter.png"
+                      alt="Social icon"
+                    />
+                    <noscript>
+                      <img
+                        loading="lazy"
+                        src="dist/images/social/twitter.png"
+                        alt="Social icon"
+                      />
+                    </noscript>
+                  </a>
+                  <a href="#" title="Facebook" target="_blank" class="icon">
+                    <img
+                      loading="lazy"
+                      src="dist/images/load.svg"
+                      data-src="https://www.n-ix.com/dist/images/social/facebook.png"
+                      alt="Social icon"
+                    />
+                    <noscript>
+                      <img
+                        loading="lazy"
+                        src="dist/images/social/facebook.png"
+                        alt="Social icon"
+                      />
+                    </noscript>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="d-flex flex-lg-row flex-column-reverse justify-content-end copyright"
+        >
+          <div class="col-lg-3 text-center px-lg-1 text-lg-left">
+            Copyright &copy; 2024 AudiPsalm LTD
+          </div>
+          <div class="col-lg-7 px-lg-3 text-center">
+            <div class="text-center text-lg-left">
+              <div
+                class="w-100 d-flex flex-column flex-lg-row justify-content-between"
+              >
+                <div>
+                  <ul class="footer-links mb-0">
+                    <li>
+                      <a href="#" target="_blank"> Privacy Notice </a>
+                    </li>
+                    <li>
+                      <a href="#" target="_blank"> Terms & Conditions</a>
+                    </li>
+                    <li>
+                      <a href="#" target="_blank">Cookie Policy</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="cookie-block-wrapper" style="display: none">
+      <section class="cookiesBlock mx-3">
+        <div class="container-fluid column">
+          <div class="d-flex flex-column align-items-start cookies-container">
+            <div class="text px-3 mr-0">
+              <p class="mb-1">
+                We use cookies to improve your experience and our services.
+              </p>
+              <p class="mb-0">
+                By clicking Agree you accept our
+                <a href="#" target="_blank">Privacy</a>
+                and
+                <a href="#" target="_blank"> Cookies Policy</a>
+              </p>
+            </div>
+            <div class="pt-3 mx-auto pt-xl-5 px-3 d-flex flex-column">
+              <button class="nix-btn primary text-center small acceptAllCookie">
+                Accept all cookies
+              </button>
+              <button
+                class="nix-btn primary mt-4 text-center small acceptEssentialCookie"
+              >
+                Accept only essential cookies
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script defer="" src="ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script
+      defer=""
+      src="bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      defer=""
+      src="ajax/libs/slick-carousel/1.8.1/slick.min.js"
+      integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      defer=""
+      src="ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"
+      integrity="sha512-IsNh5E3eYy3tr/JiX2Yx4vsCujtkhwl7SLqgnwLNgf04Hrt9BT9SXlLlZlWx+OK4ndzAoALhsMNcCmkggjZB1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      defer=""
+      src="ajax/libs/js-cookie/2.2.0/js.cookie.min.js"
+      integrity="sha512-bVUSGs+VGUD9SwBk3C9K5PIGimiDwCOX2DWXXw8HgliEe/YtY/4gSmULr/Q3dHezota5YFMqUAV7wiaefMRBqA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      defer=""
+      src="ajax/libs/intl-tel-input/14.0.2/js/intlTelInput.min.js"
+      integrity="sha512-1pkhibaQ7waTBfn5VhCSVHQ781y6RrTzySLgVE5BzpsHj7UJ8hGI+RF/rnjoEduG1Xs/6YCWm/DlcudLt8+xFA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+
+    <script defer="" src="dist/js/bundle.js?v=3532303235"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        Website.init();
+        Website.initGtag("UA-34214022-1");
+      });
+    </script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        let visitInstance = new VisitAnalytics({
+          referenceUrl: "https://www.n-ix.com/api/v1/verify-reference",
+        });
+        visitInstance.process();
+      });
+    </script>
+  </body>
+</html>

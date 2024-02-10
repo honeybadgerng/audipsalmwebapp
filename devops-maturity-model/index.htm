@@ -1,0 +1,1273 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="preload" as="font" href="../s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" href="../s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" href="../s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2" type="font/woff2" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap-grid.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap-reboot.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link rel="preload stylesheet" as="style" href="https://www.n-ix.com/dist/v2/css/bundle.css?v=3637333134">
+    <link rel="preload stylesheet" as="style" href="https://www.n-ix.com/dist/v2/css/common.css?v=3238313532">
+            <link rel="preload stylesheet" as="style" href="../gui/lib/chatbot.min.css">
+    
+        <style>@font-face{font-family:icomoon;src:url('../dist/fonts/icomoon.eot');src:url('../dist/fonts/icomoon.eot') format('embedded-opentype'),url('../dist/fonts/icomoon.ttf') format('truetype'),url('../dist/fonts/icomoon.woff') format('woff'),url('../dist/fonts/icomoon.svg') format('svg');font-weight:400;font-style:normal;font-display:swap}</style>
+
+    
+            <style> @font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(../s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2) format('woff2');unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(../s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(../s/lato/v23/S6u9w4BMUTPHh6UVSwaPGR_p.woff2) format('woff2');unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(../s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(../s/lato/v23/S6u9w4BMUTPHh50XSwaPGR_p.woff2) format('woff2');unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(../s/lato/v23/S6u9w4BMUTPHh50XSwiPGQ.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style>
+    
+            <title>How to implement a DevOps maturity model - N-iX</title>
+    <meta name="description" content="Use a DevOps maturity model to assess your infrastructure and facilitate your transition into a fully-optimized organization.">
+    <meta name="keywords" content="devops maturity model">
+    <link rel="canonical" href="index.htm">
+    <meta property="og:title" content="Optimize your business with DevOps">
+    <meta property="og:description" content="A DevOps maturity model helps you evaluate your infrastructure to identify areas for improvement and optimize your business. Learn how to choose and use one.">
+    <meta property="og:image" content="https://src.n-ix.com/uploads/2023/11/07/1ed4193a-7251-45ea-af32-86b7921ea791.png">
+    <meta name="twitter:title" content="Optimize your business with DevOps">
+    <meta name="twitter:description" content="A DevOps maturity model helps you evaluate your infrastructure to identify areas for improvement and optimize your business. Learn how to choose and use one.">
+    <meta name="twitter:image" content="https://src.n-ix.com/uploads/2023/11/07/1f39a1a3-b560-4ad4-9cee-2af8117212eb.png">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.n-ix.com/devops-maturity-model/">
+    <meta property="og:site_name" content="Software Development Company - N-iX">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@N_iX">
+
+                
+    </head>
+<body>
+
+    <header id="header" class="">
+    <div class="header-wrapper white">
+        <div class="container-fluid column">
+            <div class="header-nav header-nav-new">
+                <div class="navTrigger"></div>
+                <a href="../index.htm" class="logo mr-3 me-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="74" height="28">
+                        <g fill="none">
+                            <path d="M1 2.44222C1 1.89859 1.44908 1.47314 1.96907 1.47314H5.0181C5.56173 1.47314 6.41262 1.56769 6.93261 1.68587C6.93261 1.68587 7.73623 1.87495 8.3035 2.72585L15.5597 14.0002C15.8434 14.4493 16.3161 15.2056 16.5761 15.6547C16.5761 15.6547 18.0415 18.1365 19.3651 21.3509C18.6797 17.9237 18.5142 16.3165 18.5142 14.2602V2.44222C18.5142 1.89859 18.9633 1.47314 19.4833 1.47314H23.0287C23.5723 1.47314 23.9977 1.92223 23.9977 2.44222V26.0309C23.9977 26.5745 23.5487 26.9999 23.0287 26.9999H20.0033C19.4596 26.9999 18.6088 26.9054 18.0888 26.7872C18.0888 26.7872 17.2851 26.5981 16.7179 25.7472L9.46166 14.4729C9.17802 14.0238 8.70531 13.2675 8.44531 12.8184C8.44531 12.8184 6.97989 10.3366 5.65627 7.12213C6.29444 10.5493 6.50717 12.1566 6.50717 14.1656V26.0309C6.50717 26.5745 6.05809 26.9999 5.53809 26.9999H1.99271C1.44908 26.9999 1.02364 26.5508 1.02364 26.0309V2.44222H1Z" fill="#FF6900"></path>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M42.3393 9.48529C41.8193 9.48529 41.3702 9.91074 41.3702 10.4544V26.0304C41.3702 26.5504 41.7957 26.9995 42.3393 26.9995H45.8847C46.4047 26.9995 46.8538 26.5741 46.8538 26.0304V10.4544C46.8538 9.93437 46.4283 9.48529 45.8847 9.48529H42.3393ZM44.112 6.48353C45.6247 6.48353 46.8538 5.25446 46.8538 3.74177C46.8538 2.22907 45.6247 1 44.112 1C42.5993 1 41.3702 2.22907 41.3702 3.74177C41.3702 5.25446 42.5993 6.48353 44.112 6.48353ZM28.1817 14.1179C27.6617 14.1179 27.2126 14.5434 27.2126 15.087V17.5688C27.2126 18.0888 27.6381 18.5378 28.1817 18.5378H37.4234C37.9434 18.5378 38.3924 18.1124 38.3924 17.5688V15.087C38.3924 14.567 37.967 14.1179 37.4234 14.1179H28.1817ZM48.437 26.9996C50.257 23.7851 52.9042 19.4833 55.2678 15.938L55.7878 15.1343C56.0006 14.8232 56.2135 14.4894 56.3557 14.2665C56.4187 14.1677 56.4678 14.0907 56.4969 14.0471C56.5914 13.8816 56.5914 13.6216 56.4969 13.4798C56.4239 13.3521 56.2102 13.0415 55.9752 12.7L55.9749 12.6995C55.9055 12.5986 55.8342 12.495 55.7641 12.3926C55.7641 12.3926 54.4642 10.4781 53.7787 9.41444C52.5969 7.61811 51.0606 5.15998 50.2806 3.7891L49.8079 2.96184C49.5479 2.48912 49.2406 1.96913 49.1225 1.80368C49.0043 1.63823 49.3588 1.47278 49.9024 1.47278H54.9605C55.5042 1.47278 56.0241 1.61459 56.1187 1.80368C56.1651 1.89659 56.263 2.0751 56.3785 2.28592C56.4981 2.50417 56.6366 2.75705 56.7569 2.98548C56.7569 2.98548 59.3095 6.93267 61.3895 9.95807C61.9506 10.773 63.0856 12.2827 64.0177 13.5225L64.0178 13.5225C64.7347 14.4761 65.3316 15.27 65.4549 15.4652C65.4549 15.4652 68.2203 19.2943 69.6621 21.5869C70.112 22.3253 70.5844 23.0185 71.0299 23.6723L71.03 23.6725C71.4972 24.358 71.9348 25.0001 72.2856 25.605C72.5275 26.0008 72.6875 26.2738 73.0321 26.8617L73.0327 26.8626L73.1129 26.9996H66.9676C66.4239 26.9996 65.7858 26.6214 65.5494 26.1487C65.5494 26.1487 64.6512 24.4469 63.564 22.5324L63.2284 21.9374C62.1061 19.9471 61.5056 18.8822 60.4913 17.2852L60.3022 17.5925C60.193 17.7745 60.0627 17.9987 59.9276 18.2312C59.7119 18.6022 59.4839 18.9945 59.3095 19.2706C59.3095 19.2706 56.6623 23.856 55.3623 26.2905C55.1732 26.6923 54.5587 26.9996 54.0387 26.9996H48.437ZM65.8332 2.13442C64.2969 4.94709 62.2169 8.4452 62.2169 8.4452L65.5023 12.7706L66.5896 10.9979L71.7186 2.93804C71.8524 2.7261 71.9915 2.4931 72.1136 2.28874C72.2501 2.06007 72.3652 1.86725 72.4276 1.77988C72.5222 1.59079 72.1913 1.44897 71.6476 1.44897H67.1568C66.6368 1.44897 66.0223 1.75624 65.8332 2.13442Z" fill="#54565A"></path>
+                        </g>
+                    </svg>
+                </a>
+                <nav class="new-menu nav ms-auto me-4 ml-auto mr-4">
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block toggled text-small text-uppercase" href="../expertise/index.htm">What we do <span class="d-none d-xl-inline icon arrow"></span></a>
+                        </div>
+                        <div class="hidden-menu services-intro">
+                            <div class="gray-background d-xl-block d-none">
+                            </div>
+                            <div class="container-fluid column">
+                                <div class="row">
+                                    <div class="col-xl-3 pt-xl-1 px-0 px-xl-3 services-list-wrapper">
+                                        <ul class="services-list">
+                                                                                            <li>
+                                                    <a href="../technology-consulting/index.htm">Technology consulting</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../digital-transformation/index.htm">Digital Transformation</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../custom-software-development/index.htm">Custom Solution Development</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../team-extension/index.htm">Team Extension</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                    <div class="col-xl-9 service-intro">
+                                        <div class="row services-nav justify-content-between">
+                                            <div class="col-xl-12 px-4 px-xl-3">
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                                                                                    <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../software-engineering-services/index.htm">
+                                                                            <div class="h3">Software engineering</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../software-testing/index.htm">Software QA &amp; Testing</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../mobile-development/index.htm">Mobile App development</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../ui-ux-design/index.htm">UI/UX</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../it-project-management-services/index.htm">Project Management</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../data-analytics-services/index.htm">
+                                                                            <div class="h3">Data Analytics</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../big-data/index.htm">Big Data</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../data-warehouse-consulting/index.htm">Data Warehouse Consulting</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../data-governance-services/index.htm">Data Governance</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../business-intelligence/index.htm">Business Intelligence</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../ai-ml-data-science/index.htm">
+                                                                            <div class="h3">AI, ML &amp; Data Science</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../data-science/index.htm">Data Science</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../machine-learning-ai/index.htm">AI &amp; Machine Learning</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../generative-ai-consulting/index.htm">Generative AI Consulting</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../mlops/index.htm">MLOps</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                        </div>
+                                                                                                    <div class="row px-1 px-xl-0 ">
+                                                                                                                                                                                    <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../cloud-solutions/index.htm">
+                                                                            <div class="h3">Cloud Solutions</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../cloud-migration-services/index.htm">Cloud Migration</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../devops/index.htm">DevOps</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../aws-development-services/index.htm">AWS</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../azure-consulting-services/index.htm">Azure</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../rpa-services/index.htm">
+                                                                            <div class="h3">Enterprise Platforms &amp; RPA</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../sap-consulting/index.htm">SAP</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../opentext-consulting-services/index.htm">OpenText</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../mendix-development-services/index.htm">Mendix</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../uipath-development-services/index.htm">UiPath</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="col-xl-4 main-item-wrapper">
+                                                                                                                                            <div class="main-item ">
+                                                                            <a href="../cybersecurity-services-provider/index.htm">
+                                                                                <div class="h3">Cybersecurity</div>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                            <div class="main-item mt-xl-4 pt-xl-1">
+                                                                            <a href="../internet-of-things-solutions/index.htm">
+                                                                                <div class="h3">Embedded Software &amp; IoT</div>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                            <div class="main-item mt-xl-4 pt-xl-1">
+                                                                            <a href="https://gamestudio.n-ix.com/">
+                                                                                <div class="h3">Game Development &amp; VR Studio</div>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block text-small toggled text-uppercase" href="../industries/index.htm">Industries <span class="d-none d-xl-inline icon arrow"></span></a>
+                        </div>
+                        <div class="hidden-menu expertise-intro">
+                            <div class="gray-background d-xl-block d-none">
+                            </div>
+                            <div class="container-fluid column">
+                                <div class="row">
+                                    <div class="col-xl-3 d-none d-xl-block">
+                                        <div class="article-preview col-8 ps-0 pl-0">
+                                            <a href="../conversational-ai-use-cases/index.htm">
+                                                <div class="article-img cover" style="background-image: url('../uploads/2023/09/20/8bf6b3d2-2474-4322-b93a-9c8415b61a2c.webp')"></div>
+                                                <p>5 conversational AI use cases that are reshaping industries</p>
+                                            </a>
+                                            <a href="../blog/index.htm" class="link-list">Featured insights</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-9 service-intro">
+                                        <div class="row px-1 px-xl-0 services-nav">
+                                            <div class="col-xl-12 px-4 px-xl-3">
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../financial-services-software-development/index.htm">
+                                                                        <div class="h3">Finance</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../manufacturing-software-development/index.htm">
+                                                                        <div class="h3">Manufacturing</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../logistics-supply-chain-software-development/index.htm">
+                                                                        <div class="h3">Logistics &amp; Supply Chain</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../retail-software-development/index.htm">
+                                                                        <div class="h3">Retail</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../telecom-software-development/index.htm">
+                                                                        <div class="h3">Telecom</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../automotive-software-development/index.htm">
+                                                                        <div class="h3">Automotive</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                                    <div class="row px-1 px-xl-0 ">
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../healthcare-software-development/index.htm">
+                                                                        <div class="h3">Healthcare</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../energy-software-development/index.htm">
+                                                                        <div class="h3">Energy &amp; Utilities</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../agritech-software-development/index.htm">
+                                                                        <div class="h3">Agritech</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block text-small text-uppercase toggled" href="../company-overview/index.htm">About us
+                                <span class="d-none d-xl-inline icon arrow"></span></a>
+                        </div>
+                        <div class="hidden-menu about-intro">
+                            <div class="gray-background d-xl-block d-none">
+                            </div>
+                            <div class="container-fluid column">
+                                <div class="row">
+                                    <div class="col-xl-3 d-none d-xl-block">
+                                        <div class="article-preview col-8 ps-0 pl-0">
+                                            <a href="../news/n-ix-issues-2021-2022-sustainability-report/index.htm">
+                                                <div class="article-img cover" style="background-image: url('../uploads/2022/09/26/66a6d098-f524-4e76-a12f-64335db5a097.jpg')"></div>
+                                                <p>N-iX issues 2021-2022 Sustainability Report</p>
+                                            </a>
+                                            <a href="../news/index.htm" class="link-list">Company news</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 service-intro">
+                                        <div class="row px-1 px-xl-0 services-nav justify-content-between">
+                                            <div class="col-xl-12 px-4 px-xl-3">
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../company-overview/index.htm">
+                                                                        <div class="h3">Company Overview</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../partnership-ecosystem/index.htm">
+                                                                        <div class="h3">Partnerships</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../our-people/index.htm">
+                                                                        <div class="h3">Leadership Team</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../clients/index.htm">
+                                                                        <div class="h3">Clients</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                                    <div class="row px-1 px-xl-0 ">
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../industry-recognition/index.htm">
+                                                                        <div class="h3">Industry Recognition</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-3 px-0 px-xl-3 position-relative services-list-wrapper">
+                                        <ul class="services-list">
+                                                                                            <li>
+                                                    <a href="../news/index.htm">News</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../events/index.htm">Events</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../corporate-responsibility-and-sustainability/index.htm">Sustainability</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://careers.n-ix.com/">Careers</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block text-small text-uppercase" href="../case-study/index.htm">
+                                SUCCESS STORIES
+                            </a>
+                        </div>
+                    </div>
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block text-small text-uppercase" href="../blog/index.htm">
+                                Insights
+                            </a>
+                        </div>
+                    </div>
+                    <div class="underline"></div>
+                </nav>
+                <a href="../contacts/index.htm" class="nix-btn primary">
+                    Contact Us
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="header-menu-overlay-new"></div>
+
+
+        <nav aria-label="breadcrumb" class="d-block header-breadcrumb ">
+        <div class="container-fluid column">
+            <ol class="breadcrumb bg-transparent px-0 mb-0 text-white" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                                    <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="../index.htm" class="text-white" itemprop="item">
+                            <span itemprop="name">  Home </span>
+                            <meta itemprop="position" content="1">
+                        </a>
+                    </li>
+                                    <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="../blog/index.htm" class="text-white" itemprop="item">
+                            <span itemprop="name">  N-iX insights </span>
+                            <meta itemprop="position" content="2">
+                        </a>
+                    </li>
+                                    <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="index.htm" class="text-white" itemprop="item">
+                            <span itemprop="name">  DevOps maturity model: types, steps, and evaluation metrics </span>
+                            <meta itemprop="position" content="3">
+                        </a>
+                    </li>
+                            </ol>
+        </div>
+    </nav>
+
+    <div id="blog-navigation-mobile" class="bg-grey category-dropdown-container d-lg-none">
+    <div class="dropdown-container">
+        <div class="filter-dropdown">
+            <div class="dropbtn mobile" tabindex="0">Table of contents</div>
+            <div class="dropdown-content">
+            </div>
+        </div>
+    </div>
+    <div class="progress-bar mobile"></div>
+
+</div>
+    <div class="progress-bar"></div>
+
+                                                                                                                                    <section class="header-banner d-flex">
+        <div class="banner-img ">
+                            <img src="https://src.n-ix.com/uploads/2023/11/07/01f334d6-b9e5-4729-b988-7ca867a3992d.webp" srcset="https://src.n-ix.com/uploads/2023/11/07/259c3bb9-920d-4d2c-a3a8-24685dada35e.webp,https://src.n-ix.com/uploads/2023/11/07/2a18fa4e-63ca-4d7e-8f09-3dba2d68e79a.webp,https://src.n-ix.com/uploads/2023/11/07/01f334d6-b9e5-4729-b988-7ca867a3992d.webp" alt="Optimize business with DevOps maturity model" title="" sizes="(max-width: 600px) 480px, (max-width: 992px) 800px, 1200px">
+                <noscript>
+                    <img src="https://src.n-ix.com/uploads/2023/11/07/01f334d6-b9e5-4729-b988-7ca867a3992d.webp" srcset="https://src.n-ix.com/uploads/2023/11/07/259c3bb9-920d-4d2c-a3a8-24685dada35e.webp,https://src.n-ix.com/uploads/2023/11/07/2a18fa4e-63ca-4d7e-8f09-3dba2d68e79a.webp,https://src.n-ix.com/uploads/2023/11/07/01f334d6-b9e5-4729-b988-7ca867a3992d.webp" alt="Optimize business with DevOps maturity model" title="" sizes="(max-width: 600px) 480px, (max-width: 992px) 800px, 1200px">
+                </noscript>
+                    </div>
+
+            </section>
+
+
+
+        
+<script type="application/ld+json">
+    {
+        "@context":"https://schema.org",
+        "@type":"Article",
+        "headline":"DevOps maturity model: types, steps, and evaluation metrics",
+        "datePublished":"2023-11-10T11:21:34+00:00",
+        "dateModified":"2023-11-10T18:14:26+00:00",
+        "mainEntityOfPage":{
+            "@type": "WebPage",
+            "@id":"https://www.n-ix.com/devops-maturity-model/"
+        },
+        "publisher":{
+            "@type": "Organization",
+            "@id":"https://www.n-ix.com/"
+        },
+        "image":{
+            "@type": "ImageObject",
+            "url":"https://src.n-ix.com/uploads/2023/11/07/01f334d6-b9e5-4729-b988-7ca867a3992d.webp"
+        },
+        "thumbnailUrl":"https://src.n-ix.com/uploads/2023/11/07/01f334d6-b9e5-4729-b988-7ca867a3992d.webp",
+        "author":{
+            "@type":"Person",
+            "name":"Andrii Denys"
+        },
+        "keywords":[    
+            "devops maturity model"
+    ]
+     }
+
+</script>
+
+<script type="application/ld+json">
+    {
+        "@context":"https://schema.org",
+        "@type":"WebPage",
+        "@id":"https://www.n-ix.com/devops-maturity-model/",
+        "url":"https://www.n-ix.com/devops-maturity-model/",
+        "name":"DevOps maturity model: types, steps, and evaluation metrics",
+        "primaryImageOfPage":{
+            "@id":"https://src.n-ix.com/uploads/2023/11/07/01f334d6-b9e5-4729-b988-7ca867a3992d.webp#primaryimage"
+        },
+        "image":{
+            "@id":"https://src.n-ix.com/uploads/2023/11/07/01f334d6-b9e5-4729-b988-7ca867a3992d.webp#primaryimage"
+        },
+        "thumbnailUrl":"https://src.n-ix.com/uploads/2023/11/07/48cf6e21-2fbd-42ff-91fd-c1c8de42cb81.webp",
+        "datePublished":"2023-11-10T11:21:34+00:00",
+        "dateModified":"2023-11-10T18:14:26+00:00",
+        "description":"Use a DevOps maturity model to assess your infrastructure and facilitate your transition into a fully-optimized organization."
+    }
+</script>
+        <section class="article-info-wrapper">
+    <div class="container-fluid column">
+        <div class="text-grey article-info">
+            By
+                            
+                                                                                <a href="/experts/422e72e5/">
+                        Andrii Denys, DevOps Competency Lead
+                        </a>
+                                                
+            <span class="text-primary px-3">&#8226;</span>
+                            November 10, 2023
+                                        <span class="text-primary px-3">&#8226;</span> 6 min read
+                        <h1>DevOps maturity model: types, steps, and evaluation metrics</h1>
+            <span class="article-info-decor"></span>
+        </div>
+    </div>
+</section>
+
+        <section class="section-pd">
+            <div class="container-fluid position-relative article-content-container column">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div>
+                            <article itemscope="" itemtype="https://schema.org/Article" class="nix-article">
+                                                                                                    
+                                
+                                <p>Introducing <a href="../devops/index.htm">DevOps</a> brings many benefits for businesses, from improved efficiency to faster time-to-market and optimized expenses. This causes more and more organizations to seek to incorporate DevOps into their operations. As a result, the DevOps market is booming, <strong>reaching $10.4B in 2023, with expected growth to an estimated $25.5B by 2028</strong>.&nbsp;</p>
+
+<p>However, adopting DevOps requires careful planning. A clear picture of how prepared your organization is for such an endeavor is fundamental to your success. That's where a DevOps maturity model comes in–a <strong>framework or set of guidelines designed to assess an organization's level of maturity in implementing DevOps practices and principles</strong>. But which model should you choose? How do you apply it? And which metrics do you need to evaluate? Read on to find out.</p>
+
+<p><img alt="DevOps market size" src="https://src.n-ix.com/uploads/2023/11/07/9d612f69-1f2f-4134-a99f-9be98105ab56.webp"></p>
+
+<h2 itemprop="alternativeHeadline">What is the importance of a DevOps maturity model for a business?</h2>
+
+<p>The model evaluates multiple aspects of your DevOps practices, such as the presence of silos, the speed and quality of releases, adherence to principles, collaboration levels, automation adoption, tool stacks, and more. This evaluation serves several purposes for organizations:</p>
+
+<ul>
+	<li><strong>Evaluate and compare</strong> existing DevOps capabilities and practices;</li>
+	<li><strong>Determine</strong> the target level of maturity you aim to achieve;</li>
+	<li><strong>Prioritize</strong> areas that require improvement;</li>
+	<li><strong>Develop</strong> a strategic roadmap for advancing to higher maturity levels;</li>
+	<li><strong>Get more insight</strong> into DevOps best practices, security protocols, and relevant performance metrics.</li>
+</ul>
+
+<h2 itemprop="alternativeHeadline">Which DevOps maturity model should you choose?</h2>
+
+<p>There are quite a few models businesses use to assess and improve their DevOps practices. However, not all have shown consistent results or been sufficiently validated. Therefore, sticking with the well-established and commonly used ones is highly recommended. Let's take a brief look at what these are.&nbsp;</p>
+
+<h3>Capability Maturity Model Integration (CMMI)</h3>
+
+<p>CMMI is widely recognized and accepted as a maturity model for assessing organizational capabilities. It covers various organizational capabilities beyond DevOps, making it helpful in assessing the overall operational maturity of your business. Additionally, <strong>CMMI provides a structured framework for maturity assessment, making it easier for organizations to identify areas for improvement</strong>.</p>
+
+<p>The main drawback of this model is that, due to its broad coverage, it may not provide a precise assessment of DevOps maturity.</p>
+
+<p>Additionally, the model itself is rather complex, and implementing it can be difficult and resource-intensive, which might be especially challenging for smaller organizations or teams. However, this can be remedied by acquiring assistance from a tech partner specializing in <a href="/devops-consulting-companies/">DevOps consulting</a>.</p>
+
+<h3>CALMS Model (Culture, Automation, Lean, Measurement, Sharing)</h3>
+
+<p>CALMS provides a holistic view of DevOps maturity, <strong>covering cultural, automation, lean practices, measurement, and sharing aspects</strong>. It closely aligns with DevOps principles, making it a practical choice for assessing DevOps maturity. Furthermore, it emphasizes the importance of collaboration and cultural aspects, which are fundamental to success with DevOps.</p>
+
+<p>However, the model has its challenges. Firstly, it is less structured as compared to other models like CMMI. This can make it more difficult to implement, especially if your organization is new to DevOps assessments. Secondly, some aspects of CALMS, such as culture and sharing, are highly subjective and may be challenging to assess objectively. Nevertheless, similarly to the CMMI model, experienced <a href="/devops-infrastructure-engineer/">DevOps engineers</a> can help you overcome these challenges relatively easily.</p>
+
+<h3>IBM DevOps Maturity Model</h3>
+
+<p>This model is designed to assess an organization's DevOps capabilities, ensuring relevance. It <strong>offers a detailed evaluation of various DevOps dimensions, such as planning, development, testing, and delivery</strong>. What's more, it is highly customizable, allowing you to tailor your assessment to your business's specific goals and needs.</p>
+
+<p>This model has close ties to IBM's DevOps tools and practices, which could limit its suitability for organizations not using IBM's solutions. Because of this, it does not have the same level of recognition and industry-wide adoption as the previously mentioned models.</p>
+
+<h2 itemprop="alternativeHeadline">DevOps maturity assessment: step-by-step process</h2>
+
+<p>Applying a model to assess an organization's DevOps maturity is a straightforward process divided into several steps. Let's use the approach of N-iX–a global software solutions and engineering company–as an example.</p>
+
+<ul>
+	<li><strong>Preparation:</strong> we get everything ready for kick-off, including determining the target audience and identifying key assessment questions.&nbsp;</li>
+	<li><strong>Assessment:</strong> this is where the main portion of our work takes place, as our experts perform qualitative analysis according to the industry's best practices to identify risks, issues, and improvement opportunities.</li>
+	<li><strong>Report creation:</strong> after the assessment is complete, we create a report with a detailed description of our findings, their impact on the business, mitigation strategies, their priority, and complexity.</li>
+	<li><strong>Improvement roadmap:</strong> finally, we deliver an improvement roadmap with clearly defined objectives, prioritized tasks, and identified dependencies, as well as an ability to allocate the resources and monitor the progress.</li>
+</ul>
+
+<p><img alt="DevOps maturity assessment process" src="https://src.n-ix.com/uploads/2023/11/07/ed31360d-105c-49d2-9a59-3b03dd99359b.webp"></p>
+
+<h2 itemprop="alternativeHeadline">Key metrics for evaluating DevOps maturity</h2>
+
+<p>So, what specific aspects are evaluated regarding processes and protocols when determining your current DevOps maturity level? Let's find out.&nbsp;</p>
+
+<h3>Culture</h3>
+
+<p>Evaluating the cultural transformation and alignment within the organization is crucial. This involves assessing factors like collaboration, communication, knowledge sharing, education, planning processes, and the willingness of teams to work together towards shared DevOps goals.</p>
+
+<h3>Leadership and commitment</h3>
+
+<p>Leadership plays a pivotal role in driving DevOps adoption. Assessing leadership commitment to DevOps initiatives, their involvement, and their ability to foster a DevOps culture is essential. This also includes analyzing aspects such as innovation, flexibility, identifying and clearly communicating goals and strategies for achieving them, and more.&nbsp;</p>
+
+<h3>Technical Practices</h3>
+
+<p>This aspect delves into the technical capabilities and practices of the organization. This includes adopting DevOps best practices, software development methodologies, quality assurance processes, pipeline automation, systems and practices for source code control, tools and technologies selection, etc.</p>
+
+<h3>Infrastructure</h3>
+
+<p>Assessing the infrastructure involves evaluating the readiness of the IT environment, including the Infrastructure as Code approach, self-healing design, AI integration, chatOps, and cloud implementation and integration.</p>
+
+<h3>Security</h3>
+
+<p>Last but certainly not least, you need to ensure the security of your software development lifecycle. Amid the competitive landscape, it's easy to overlook security measures, potentially leaving vulnerabilities. DevOps aims to mitigate this risk by prioritizing strict security standards throughout all phases of software development. Implementing Security as Code and DevSecOps maturity assessment can be a valuable consideration to enhance security practices.</p>
+
+<h2 itemprop="alternativeHeadline">The 5 levels of DevOps maturity</h2>
+
+<p>Typically, a DevOps maturity model consists of several levels or stages, each representing a different level of your organization's maturity or proficiency in DevOps practices. These levels can vary in terminology and specifics but often follow a progression from initial, ad-hoc practices to more advanced, automated, and optimized processes. They include:</p>
+
+<h3>Stage 1: Initial</h3>
+
+<p>At this stage, minimal DevOps practices are in place, and the development and operations teams work in silos with little collaboration. Changes and deployments are manual and infrequent.</p>
+
+<h3>Stage 2: Managed</h3>
+
+<p>The organization starts formalizing and documenting some of its processes in this stage. There is an awareness of the need for collaboration between teams, and basic automation begins to emerge.</p>
+
+<h3>Stage 3: Defined</h3>
+
+<p>Your organization establishes well-defined and documented development, testing, and deployment processes. Collaboration between your teams is encouraged and supported, and automation is expanded.</p>
+
+<h3>Stage 4: Quantitatively Managed</h3>
+
+<p>At this level, there is a strong emphasis on metrics and monitoring to track performance and quality. Continuous integration and continuous delivery (CI/CD) pipelines are established, and you focus on proactive problem-solving.</p>
+
+<h3>Stage 5: Optimized</h3>
+
+<p>This is the highest level of maturity, where DevOps practices are fully integrated into your organization's culture. A strong focus is on continuous improvement, automation, and self-service capabilities. Your business is agile and can quickly adapt to changes and challenges.</p>
+
+<p><img alt="DevOps maturity stages" src="https://src.n-ix.com/uploads/2023/11/07/580f9e17-0473-45df-9ccf-0fd4481b1937.webp"></p>
+
+<h2 itemprop="alternativeHeadline">Wrap up</h2>
+
+<p>A DevOps maturity model is crucial in helping businesses evaluate their infrastructure and adopt practices to facilitate their transition into fully optimized organizations. Since choosing the most fitting model and evaluating all the necessary metrics can be hard work, <strong>partnering with tech consultants who specialize in that is highly recommended</strong>. This will allow you to achieve improved efficiency, better resource allocation, faster time to market, and other benefits of effective DevOps adoption.</p>
+
+<p><a href="../contacts/index.htm"><img alt="Facilitate your DevOps optimization" src="https://src.n-ix.com/uploads/2023/11/07/26d95644-17fb-4b7c-9fd7-bf37dd67c6c6.webp"></a></p>
+
+<h2 itemprop="alternativeHeadline">What makes N-iX an ideal partner for evaluating your DevOps maturity?</h2>
+
+<ul>
+	<li>N-iX has over <strong>60 DevOps engineers</strong> who will assess your organization's DevOps maturity and provide their expertise to help you reach the desired level of optimization;&nbsp;</li>
+	<li>With <strong>21&nbsp;years of experience and 50+ successfully delivered DevOps projects</strong>, N-iX is more than capable of matching all your optimization needs;</li>
+	<li>N-iX is well-versed in all <a href="../cloud-solutions/index.htm">cloud technologies</a>, being an AWS Advanced Tier Service Partner, a Microsoft Solutions Partner, and a Google Cloud partner;</li>
+	<li>We comply with ISO 9001, ISO 27001, PCI DSS, and GDPR data protection standards, ensuring your sensitive data remains protected.</li>
+</ul>
+
+<p><div class="pdf-form-wrapper content-pdf-form d-block">
+    <div class="opened-form-wrapper visible">
+        <p class="title">GUIDE</p>
+        <div class="row mx-0">
+            <div class="col-md-7 px-0">
+                <h4>Get your guide to building an effective CI/CD pipeline!</h4>
+                                <div class="d-block d-md-none report-img-wrapper text-right"><img alt="report img" src="https://src.n-ix.com/uploads/2023/12/28/d35ce15a-6b36-4b02-ba96-a716a6507e59.png"></div>
+                                <form action="/contacts/process-whitepaper" class="pdfForm" method="post">
+                    <div class="form-fields-container">
+                        <div class="form-group">
+                            <label>Full name<span class="color-orange">*</span></label>
+                            <input class="form-control fullNameInput" data-storage="fullNamePdfInput" maxlength="250" name="your-info" type="text">
+                            <input name="name" type="hidden" value="">
+                            <div class="name-error-message"></div>
+                        </div>
+                        <div class="form-group position-relative">
+                            <label>Business Email<span class="color-orange">*</span></label>
+                            <input class="form-control emailInput" data-storage="emailPdfInput" maxlength="250" name="sender" required="" type="text">
+                            <input name="email" type="hidden" value="">
+                            <div class="email-error-message"></div>
+                        </div>
+                        <p class="privacy-text">By clicking the "Download" button, you are agreeing to the N-iX <a href="../terms-and-conditions/index.htm" target="_blank">Terms &amp; Conditions</a> and <a href="../privacy-policy/index.htm" target="_blank">Privacy Policy*</a></p>
+                        <div class="error-message-container text-danger text-small pb-3 d-none"></div>
+                    </div>
+                    <div class="submit-button-container pt-2">
+                        <button class="nix-btn primary mr-md-3 order-md-1" type="submit">DOWNLOAD</button>
+                    </div>
+                </form>
+            </div>
+                        <div class="col-md-5 pr-0 d-none d-md-flex align-items-center">
+                <img alt="report img" src="https://src.n-ix.com/uploads/2023/12/28/d35ce15a-6b36-4b02-ba96-a716a6507e59.png">
+            </div>
+                    </div>
+    </div>
+    <div class="opened-form-success-wrapper">
+        <div class="row mx-0">
+            <div class="col-md-7 px-0">
+                <h4>Success!</h4>
+                <p class="text-small">We are always happy to share our expertise with you! If you have any questions, don't hesitate to contact us.</p>
+            </div>
+                        <div class="d-block pt-5 pt-md-0 col-md-5 pr-0 d-md-flex align-items-center text-center">
+                <img alt="report img" src="https://src.n-ix.com/uploads/2023/12/28/d35ce15a-6b36-4b02-ba96-a716a6507e59.png">
+            </div>
+                    </div>
+    </div>
+</div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 form-container">
+                        <div class="bg-grey ask-expert-form">
+    <h4 class="font-weight-normal">
+        Have a question?
+    </h4>
+    <span class="more show-form">
+        Speak to an expert
+    </span>
+        <div class="expert">
+                <img src="https://src.n-ix.com/uploads/2022/08/16/88eab773-a1b7-43c7-9fea-5390c36a8884.png" alt="N-iX Staff" class="img-rounded">
+                <div class="expert-info-container">
+            <div class="name">Dmytro Ovcharenko</div>
+            <div class="position">Director of Technology Office</div>
+        </div>
+    </div>
+    
+
+    <form id="mainForm" action="/contacts/process" method="post" data-type="contact-page">
+
+        <div class="form-group">
+            <label for="fullNameInput">Full name<span class="color-orange">*</span></label>
+            <input name="your-info" type="text" class="form-control fieldToSave fullNameInput" data-storage="fullNameInput" id="fullNameInput" maxlength="250">
+            <input type="hidden" name="name" value="">
+            <div class="name-error-message"></div>
+        </div>
+
+        <div class="form-group position-relative">
+            <label for="emailInput">Business Email<span class="color-orange">*</span></label>
+            <input name="sender" type="text" class="form-control fieldToSave emailInput" data-storage="emailInput" id="emailInput" maxlength="250" required="">
+            <input type="hidden" name="email" value="">
+            <div class="email-error-message"></div>
+        </div>
+
+        <input type="hidden" id="phoneCode">
+
+        <div class="form-group mb-1 pb-3">
+            <label for="tellUsTextarea">Message<span class="color-orange">*</span></label>
+            <textarea name="info" class="form-control fieldToSave" data-storage="tellUsTextarea" id="tellUsTextarea" rows="6"></textarea>
+            <input type="hidden" name="message" value="">
+            <div class="hello-error-message"></div>
+        </div>
+
+        <p class="text-right">Required fields<span class="color-orange">*</span></p>
+
+        <div class="d-block">
+
+            <div id="privacyPolicyCheckContainer" class="pb-3 mt-3 mb-1">
+                <div class="form-check">
+                    <input id="privacyCheck" type="checkbox" class="form-check-input" required="">
+                    <label class="form-check-label" for="privacyCheck">
+                        I have read and accepted N-iX
+                        <a href="../privacy-policy/index.htm" target="_blank">Privacy Policy<span class="color-orange">*</span></a>
+                    </label>
+                </div>
+                <div class="privacy-error-message"></div>
+            </div>
+
+            <button type="submit" class="nix-btn primary mr-md-3 order-md-1 submitButton">
+                Send Message
+            </button>
+        </div>
+
+        <div class="responseMessageContainer"></div>
+    </form>
+</div>
+                        <div id="blog-navigation" class="blog-nav-wrapper bg-grey">
+    <h3 class="mb-4 pb-1">Table of contents</h3>
+    <div class="blog-navigation-container">
+
+    </div>
+</div>
+                        
+<div class="bg-grey all-related-container">
+    <h4 class="text-left mb-1">
+        Related Expertise and Services
+    </h4>
+                    <div class="related-item">
+            <h6 class="category"> Expertise </h6>
+            <a href="../devops/index.htm" class="related-link">
+                <h3 class="title"> DevOps  </h3>
+            </a>
+            <a href="../devops/index.htm" class="related-link">
+                <p class="description">  Streamline your software delivery and deployment with a reliable DevOps [...] </p>
+            </a>
+        </div>
+                    <div class="related-item">
+            <h6 class="category"> Case study </h6>
+            <a href="../case-study/digital-experience-platform-for-telecom/index.htm" class="related-link">
+                <h3 class="title"> Design and development of Digital Experience Platform for telecom </h3>
+            </a>
+            <a href="../case-study/digital-experience-platform-for-telecom/index.htm" class="related-link">
+                <p class="description">  Our client provides leading integrated Information and Communications [...] </p>
+            </a>
+        </div>
+                    <div class="related-item">
+            <h6 class="category"> Case study </h6>
+            <a href="../case-study/streamlining-operations-optimizing-costs-energy/index.htm" class="related-link">
+                <h3 class="title"> Streamlining operations and optimizing costs in energy </h3>
+            </a>
+            <a href="../case-study/streamlining-operations-optimizing-costs-energy/index.htm" class="related-link">
+                <p class="description">  Our client is one of the UK’s largest energy suppliers powering nearly 5 [...] </p>
+            </a>
+        </div>
+    </div>
+                                           </div>
+                </div>
+                <hr class="hr">
+                    <div class="article-tags">
+                    <span class="article-tag-utility-item">Business and technology</span>
+            </div>
+                <div class="fixed-social-container">
+                   <!-- AddToAny BEGIN -->
+<div class="social-list">
+    <div class="mb-1 preview">
+        <b class="text-small text-grey">
+            Share:
+        </b>
+    </div>
+    <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="transparent,#fff">
+        <div class="icon linkedin"><a class="a2a_button_linkedin"></a></div>
+        <div class="icon facebook"><a class="a2a_button_facebook"></a></div>
+        <div class="icon x"><a class="a2a_button_x"></a></div>
+    </div>
+</div>
+<script src="https://static.addtoany.com/menu/page.js" async=""></script>
+<!-- AddToAny END -->
+
+                </div>
+            </div>
+            <a href="" id="back-to-top"></a>
+                <div class="pdf-form-wrapper hidden article-pdf-form">
+        <div class="opened-text-wrapper visible">
+            <p class="title">GUIDE</p>
+            <h4>Get your guide to building an effective CI/CD pipeline!</h4>
+            <div class="icon-close"></div>
+            <button class="nix-btn primary mr-md-3 order-md-1 open-form-btn">
+                DOWNLOAD
+            </button>
+        </div>
+        <div class="closed-form-wrapper">
+            <div class="download-icon"></div>
+        </div>
+        <div class="opened-form-wrapper">
+            <div class="form-text-container">
+                <p class="title">GUIDE</p>
+                <h4>Get your guide to building an effective CI/CD pipeline!</h4>
+                <p>Explore 5 best CI/CD development practices to streamline the software development process and accelerate your time to market.</p>
+            </div>
+            <div class="icon-hide"></div>
+            <form class="pdfForm" action="/contacts/process-whitepaper" method="post">
+                <div class="form-fields-container">
+                    <div class="form-group">
+                        <label>Full name<span class="color-orange">*</span></label>
+                        <input name="your-info" type="text" class="form-control fieldToSave fullNameInput" data-storage="fullNamePdfInput" maxlength="250">
+                        <input type="hidden" name="name" value="">
+                        <div class="name-error-message"></div>
+                    </div>
+                    <div class="form-group position-relative">
+                        <label>Business Email<span class="color-orange">*</span></label>
+                        <input name="sender" type="text" class="form-control fieldToSave emailInput" data-storage="emailPdfInput" maxlength="250" required="">
+                        <input type="hidden" name="email" value="">
+                        <div class="email-error-message"></div>
+                    </div>
+                    <p class="privacy-text">By clicking the "Download" button, you are agreeing to the N-iX <a href="../terms-and-conditions/index.htm" target="_blank">Terms & Conditions</a> and <a href="../privacy-policy/index.htm" target="_blank">Privacy
+                            Policy*</a></p>
+                    <div class="error-message-container text-danger text-small pb-3 d-none"></div>
+                </div>
+                <div class="submit-button-container">
+                    <button type="submit" class="nix-btn primary mr-md-3 order-md-1">
+                        DOWNLOAD
+                    </button>
+                </div>
+            </form>
+        </div>
+        <div class="opened-form-success-wrapper">
+            <h4>Success!</h4>
+            <div class="icon-close"></div>
+            <p class="text-small">We are always happy to share our expertise with you! If you have any questions, don't hesitate to contact us.</p>
+        </div>
+    </div>
+        </section>
+
+               <section class="section-pd pt-0 related-articles-slider">
+            <div class="container-fluid column">
+                <div class="text-center">
+                    <h2 class="title text-center mb-4 pb-md-3 mb-md-5">
+    Related Articles
+
+    </h2>
+                </div>
+                <section class="section-pd pt-0">
+    <div class="article-list">
+        <div class="row grid-gap">
+                            <div class="col-md-6 col-lg-4">
+                    <article class="nix-card-blog">
+    <div class="banner">
+        <a href="../devops-trends/index.htm" class="wrapper">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://src.n-ix.com/uploads/2024/02/05/50dcd5d5-dd95-493a-8cce-35d16488fe09.webp" alt="">
+            <noscript>
+                <img src="../uploads/2024/02/05/50dcd5d5-dd95-493a-8cce-35d16488fe09.webp" alt="">
+            </noscript>
+        </a>
+    </div>
+    <div class="content">
+        <a href="../devops-trends/index.htm" class="wrapper">
+            <div class="d-flex align-items-center text-grey mb-3">
+                                    <div class="text-tiny text-uppercase">
+                        06 February 2024
+                    </div>
+                                            </div>
+            <div class="h4 font-weight-bold">
+                Key DevOps trends you should know about in 2024
+            </div>
+            <div class="text text-small description">
+                DevOps is expected to grow substantially in the coming years, with an anticipated annual increase of 25% between 2024 and 2032. Integrating AI and ML into the software development life cycle is a majo...
+            </div>
+        </a>
+    </div>
+    <div class="tags">
+        
+            </div>
+    <a rel="nofollow" href="../devops-trends/index.htm" class="wrapper">
+        <p class="text-tiny text-grey bottom-text">READ MORE</p>
+    </a>
+</article>
+                </div>
+                            <div class="col-md-6 col-lg-4">
+                    <article class="nix-card-blog">
+    <div class="banner">
+        <a href="../hire-vmware-engineers/index.htm" class="wrapper">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://src.n-ix.com/uploads/2023/10/10/499a86b5-1ec5-4c92-ae7b-b018c203c358.webp" alt="">
+            <noscript>
+                <img src="../uploads/2023/10/10/499a86b5-1ec5-4c92-ae7b-b018c203c358.webp" alt="">
+            </noscript>
+        </a>
+    </div>
+    <div class="content">
+        <a href="../hire-vmware-engineers/index.htm" class="wrapper">
+            <div class="d-flex align-items-center text-grey mb-3">
+                                    <div class="text-tiny text-uppercase">
+                        11 October 2023
+                    </div>
+                                            </div>
+            <div class="h4 font-weight-bold">
+                How to find and hire top VMware engineers?
+            </div>
+            <div class="text text-small description">
+                VMware offers solutions to virtualize and manage almost every aspect of modern IT infrastructures. Its core features include server and network virtualization as well as management of the hybrid and o...
+            </div>
+        </a>
+    </div>
+    <div class="tags">
+        
+            </div>
+    <a rel="nofollow" href="../hire-vmware-engineers/index.htm" class="wrapper">
+        <p class="text-tiny text-grey bottom-text">READ MORE</p>
+    </a>
+</article>
+                </div>
+                            <div class="col-md-6 col-lg-4">
+                    <article class="nix-card-blog">
+    <div class="banner">
+        <a href="https://www.n-ix.com/devops-vs-sre/" class="wrapper">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://src.n-ix.com/uploads/2023/06/02/e05e32dc-0ce9-43cd-8c74-ee2a4e53e921.webp" alt="">
+            <noscript>
+                <img src="https://src.n-ix.com/uploads/2023/06/02/e05e32dc-0ce9-43cd-8c74-ee2a4e53e921.webp" alt="">
+            </noscript>
+        </a>
+    </div>
+    <div class="content">
+        <a href="https://www.n-ix.com/devops-vs-sre/" class="wrapper">
+            <div class="d-flex align-items-center text-grey mb-3">
+                                    <div class="text-tiny text-uppercase">
+                        06 June 2023
+                    </div>
+                                            </div>
+            <div class="h4 font-weight-bold">
+                DevOps vs SRE: Which approach is right for your business?
+            </div>
+            <div class="text text-small description">
+                Companies constantly seek methods to optimize their software development and operations processes in the modern technological landscape. Two approaches that have gained significant traction in recent ...
+            </div>
+        </a>
+    </div>
+    <div class="tags">
+        
+            </div>
+    <a rel="nofollow" href="https://www.n-ix.com/devops-vs-sre/" class="wrapper">
+        <p class="text-tiny text-grey bottom-text">READ MORE</p>
+    </a>
+</article>
+                </div>
+                    </div>
+    </div>
+</section>
+            </div>
+        </section>
+        
+    <footer id="footer" class="pt-lg-5 pt-0 pb-4">
+    <div class="container-fluid pt-lg-0 column">
+        <div class="d-block d-lg-none mobile-logo-container text-center">
+            <a href="../index.htm" class="logo">
+                <svg xmlns="http://www.w3.org/2000/svg" width="71" height="26">
+                    <g fill="none">
+                        <path fill="#ff6900" d="M0 .963C0 .446.432 0 .983 0H4.03c.528 0 1.391.094 1.919.211 0 0 .791.165 1.367 1.01l7.243 11.02c.288.447.743 1.175 1.031 1.622 0 0 1.463 2.42 2.782 5.568-.671-3.36-.863-4.934-.863-6.931V.963c0-.517.432-.963.983-.963h3.55c.527 0 .959.423.959.963v23.05a.973.973 0 0 1-.96.964h-3.07c-.527 0-1.39-.094-1.918-.212 0 0-.791-.164-1.367-1.01l-7.243-11.02c-.288-.446-.743-1.175-1.031-1.621 0 0-1.463-2.42-2.782-5.569.647 3.36.863 4.934.863 6.885v11.607A.978.978 0 0 1 4.51 25H.983C.456 25 0 24.577 0 24.037V.963z"></path>
+                        <path fill="#FFF" class="logo-right-part" d="M26 14.105c0-.528.425-.985.967-.985h9.057c.518 0 .943.433.943.985v2.475c0 .53-.425.986-.943.986h-9.057A.98.98 0 0 1 26 16.58v-2.475zm13.892-4.661c0-.529.424-.986.966-.986h3.491a.98.98 0 0 1 .967.986v15.57c0 .53-.424.986-.967.986h-3.514a.98.98 0 0 1-.967-.985V9.444h.024zm5.377-6.705c0 1.514-1.203 2.74-2.689 2.74s-2.688-1.226-2.688-2.74C39.892 1.226 41.094 0 42.58 0c1.486 0 2.689 1.226 2.689 2.74zM46.802 26c1.792-3.22 4.387-7.521 6.698-11.054l.519-.793c.283-.456.613-.937.707-1.105a.623.623 0 0 0 0-.577c-.094-.168-.424-.648-.707-1.081 0 0-1.274-1.922-1.958-2.98a133.1 133.1 0 0 1-3.443-5.623l-.472-.84c-.26-.457-.566-.986-.66-1.178-.094-.168.236-.312.755-.312h4.952c.52 0 1.038.144 1.132.336.095.192.378.72.637 1.201 0 0 2.5 3.941 4.552 6.969.99 1.442 3.703 5.046 3.986 5.503 0 0 2.712 3.82 4.127 6.103.92 1.49 1.91 2.836 2.571 4.013.236.433.425.721.802 1.394h-6.014c-.519 0-1.156-.385-1.392-.865 0 0-.896-1.706-1.934-3.605-1.32-2.402-1.934-3.508-3.018-5.262l-.19.312c-.259.457-.707 1.226-.966 1.682 0 0-2.594 4.59-3.868 7.017-.189.385-.778.721-1.297.721H46.8V26zM60.34 7.45s2.028-3.485 3.537-6.32c.189-.385.779-.673 1.298-.673h4.386c.52 0 .873.144.755.312-.094.168-.424.697-.684 1.153l-5.024 8.074-1.06 1.778L60.34 7.45z"></path>
+                    </g>
+                </svg>
+            </a>
+        </div>
+        <div class="row">
+            <div class="col-lg-2">
+                <div class="footer-menu">
+                    <div class="d-none d-lg-block mb-4 text-left">
+                        <a href="../index.htm" class="logo">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="71" height="26">
+                                <g fill="none">
+                                    <path fill="#ff6900" d="M0 .963C0 .446.432 0 .983 0H4.03c.528 0 1.391.094 1.919.211 0 0 .791.165 1.367 1.01l7.243 11.02c.288.447.743 1.175 1.031 1.622 0 0 1.463 2.42 2.782 5.568-.671-3.36-.863-4.934-.863-6.931V.963c0-.517.432-.963.983-.963h3.55c.527 0 .959.423.959.963v23.05a.973.973 0 0 1-.96.964h-3.07c-.527 0-1.39-.094-1.918-.212 0 0-.791-.164-1.367-1.01l-7.243-11.02c-.288-.446-.743-1.175-1.031-1.621 0 0-1.463-2.42-2.782-5.569.647 3.36.863 4.934.863 6.885v11.607A.978.978 0 0 1 4.51 25H.983C.456 25 0 24.577 0 24.037V.963z"></path>
+                                    <path fill="#FFF" class="logo-right-part" d="M26 14.105c0-.528.425-.985.967-.985h9.057c.518 0 .943.433.943.985v2.475c0 .53-.425.986-.943.986h-9.057A.98.98 0 0 1 26 16.58v-2.475zm13.892-4.661c0-.529.424-.986.966-.986h3.491a.98.98 0 0 1 .967.986v15.57c0 .53-.424.986-.967.986h-3.514a.98.98 0 0 1-.967-.985V9.444h.024zm5.377-6.705c0 1.514-1.203 2.74-2.689 2.74s-2.688-1.226-2.688-2.74C39.892 1.226 41.094 0 42.58 0c1.486 0 2.689 1.226 2.689 2.74zM46.802 26c1.792-3.22 4.387-7.521 6.698-11.054l.519-.793c.283-.456.613-.937.707-1.105a.623.623 0 0 0 0-.577c-.094-.168-.424-.648-.707-1.081 0 0-1.274-1.922-1.958-2.98a133.1 133.1 0 0 1-3.443-5.623l-.472-.84c-.26-.457-.566-.986-.66-1.178-.094-.168.236-.312.755-.312h4.952c.52 0 1.038.144 1.132.336.095.192.378.72.637 1.201 0 0 2.5 3.941 4.552 6.969.99 1.442 3.703 5.046 3.986 5.503 0 0 2.712 3.82 4.127 6.103.92 1.49 1.91 2.836 2.571 4.013.236.433.425.721.802 1.394h-6.014c-.519 0-1.156-.385-1.392-.865 0 0-.896-1.706-1.934-3.605-1.32-2.402-1.934-3.508-3.018-5.262l-.19.312c-.259.457-.707 1.226-.966 1.682 0 0-2.594 4.59-3.868 7.017-.189.385-.778.721-1.297.721H46.8V26zM60.34 7.45s2.028-3.485 3.537-6.32c.189-.385.779-.673 1.298-.673h4.386c.52 0 .873.144.755.312-.094.168-.424.697-.684 1.153l-5.024 8.074-1.06 1.778L60.34 7.45z"></path>
+                                </g>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 d-none d-lg-block">
+                <div class="footer-menu">
+                    <div class="footer-action">
+                        <div class="text-small pb-2">
+                            <a href="mailto:contact@n-ix.com" class="mobile-wrapper">
+                                contact@n-ix.com
+                            </a>
+                        </div>
+                        <div class="social-list d-inline-flex">
+            <a href="https://www.linkedin.com/company/n-ix" title="Linkedin" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/linkedin.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/linkedin.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://www.youtube.com/@NixSoftwareDevelopment" title="Youtube" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/youtube.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/youtube.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://twitter.com/N_iX" title="Twitter" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/twitter.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/twitter.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://www.facebook.com/N.iX.Company" title="Facebook" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/facebook.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/facebook.png" alt="Social icon">
+            </noscript>
+        </a>
+    </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row col-lg-7 d-none d-lg-flex">
+                <div class="col-lg-6">
+                    <div class="footer-menu">
+                        <div class="text-small px-0 pe-2 col-md-6 col-lg-12">
+                            <span class="d-block text-big w-100 pr-md-1">USA office:</span>
+                            <span class="d-block w-100 pr-md-1 mt-2">Florida</span>
+                            <span class="d-block w-100 pr-md-1">15805 Biscayne Blvd. Unit 207 North Miami Beach</span>
+                            <div class="footer-action pt-3">
+                                <a href="tel:+17273415669" class="mobile-wrapper office offline">
+                                    +17273415669
+                                    <span class="d-none office-status-wrapper d-lg-inline usa-office-status">
+                                        <span class="online">online</span>
+                                        <span class="offline">offline</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="footer-menu">
+                        <div class="px-0 col-md-6 col-lg-12">
+                            <span class="d-block text-big w-100 pr-md-1">UK office:</span>
+                            <span class="d-block w-100 pr-md-1 mt-2">London</span>
+                            <span class="d-block w-100 pr-md-1">EC2 4YJ, Office 06-133 8, Devonshire Square</span>
+                            <div class="footer-action pt-3">
+                                <a href="tel:+442037407669" class="mobile-wrapper office">
+                                    +442037407669
+                                    <span class="d-none office-status-wrapper d-lg-inline hq-office-status">
+                                       <span class="online">online</span>
+                                        <span class="offline">offline</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-block col-12 d-lg-none">
+                <div class="text-center">
+                    <div class="footer-action">
+    <div class="text-small">
+        <a href="mailto:contact@n-ix.com" class="mobile-wrapper">
+            contact@n-ix.com
+        </a>
+    </div>
+    <div class="row">
+        <div class="text-small col-md-6 col-lg-12">
+            <span class="d-inline-block w-100 d-md-inline pr-md-1">UK office:</span>
+            <a href="tel:+442037407669" class="mobile-wrapper office">
+                +442037407669
+            </a>
+        </div>
+        <div class="text-small col-md-6 col-lg-12">
+            <span class="d-inline-block w-100 d-md-inline pr-md-1">USA office: </span>
+            <a href="tel:+17273415669" class="mobile-wrapper office">
+                +17273415669
+            </a>
+        </div>
+    </div>
+</div>
+<div class="footer-action">
+    <div class="social-list d-inline-flex">
+            <a href="https://www.linkedin.com/company/n-ix" title="Linkedin" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/linkedin.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/linkedin.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://www.youtube.com/@NixSoftwareDevelopment" title="Youtube" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/youtube.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/youtube.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://twitter.com/N_iX" title="Twitter" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/twitter.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/twitter.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://www.facebook.com/N.iX.Company" title="Facebook" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/facebook.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/facebook.png" alt="Social icon">
+            </noscript>
+        </a>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex flex-lg-row flex-column-reverse justify-content-end copyright">
+            <div class="col-lg-3 text-center px-lg-1 text-lg-left">
+                Copyright &copy; 2002 - 2024 N-iX LTD
+            </div>
+            <div class="col-lg-7 px-lg-3 text-center">
+                <div class="text-center text-lg-left">
+                    <div class="w-100 d-flex flex-column flex-lg-row justify-content-between">
+                        <div>
+                            <ul class="footer-links mb-0">
+                                <li><a href="../privacy-policy/index.htm" target="_blank"> Privacy Notice </a></li>
+                                <li><a href="../terms-and-conditions/index.htm" target="_blank"> Terms & Conditions</a></li>
+                                <li><a href="../cookie-policy/index.htm" target="_blank">Cookie Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+    <div class="cookie-block-wrapper" style="display: none">
+<section class="cookiesBlock mx-3">
+    <div class="container-fluid column">
+        <div class="d-flex flex-column align-items-start cookies-container">
+            <div class="text px-3 mr-0">
+                <p class="mb-1">We use cookies to improve your experience and our services.</p>
+                <p class="mb-0">By clicking Agree you accept our <a href="../privacy-policy/index.htm" target="_blank">Privacy</a> and  <a href="../cookie-policy/index.htm" target="_blank"> Cookies Policy</a></p>
+            </div>
+            <div class="pt-3 mx-auto pt-xl-5 px-3 d-flex flex-column">
+            <button class="nix-btn primary text-center small acceptAllCookie">
+               Accept all cookies
+            </button>
+            <button class="nix-btn primary mt-4 text-center small acceptEssentialCookie">
+                Accept only essential cookies
+            </button>
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+
+
+<script defer="" src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script defer="" src="../bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer="" src="../ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" integrity="sha512-IsNh5E3eYy3tr/JiX2Yx4vsCujtkhwl7SLqgnwLNgf04Hrt9BT9SXlLlZlWx+OK4ndzAoALhsMNcCmkggjZB1w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer="" src="../ajax/libs/js-cookie/2.2.0/js.cookie.min.js" integrity="sha512-bVUSGs+VGUD9SwBk3C9K5PIGimiDwCOX2DWXXw8HgliEe/YtY/4gSmULr/Q3dHezota5YFMqUAV7wiaefMRBqA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer="" src="../ajax/libs/intl-tel-input/14.0.2/js/intlTelInput.min.js" integrity="sha512-1pkhibaQ7waTBfn5VhCSVHQ781y6RrTzySLgVE5BzpsHj7UJ8hGI+RF/rnjoEduG1Xs/6YCWm/DlcudLt8+xFA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script defer="" src="../dist/js/bundle.js?v=3532303235"></script>
+<script defer="" src="https://www.n-ix.com/dist/v2/js/bundle.js?v=3532303235"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(){
+        Website.init();
+        Websitev2.init();
+                Website.initGtag('UA-34214022-1');
+            });
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        let visitInstance = new VisitAnalytics({'referenceUrl': 'https://www.n-ix.com/api/v1/verify-reference'});
+        visitInstance.process();
+    })
+</script>
+
+    
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        $('.nix-article a[href*="s3-eu-west-1"]').on('click', function (e) {
+            e.preventDefault();
+        });
+    })
+</script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const c = new ContactFormNew();
+            c.setSuccessMessage('Thank you for your inquiry. Our expert will contact you shortly.');
+            c.init();
+        })
+    </script>
+</body>
+</html>

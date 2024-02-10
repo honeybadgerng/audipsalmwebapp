@@ -1,0 +1,2924 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\npm\bootstrap@4.6.1\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ajax\libs\gsap\3.12.2\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ajax\libs\gsap\3.12.2\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/14.0.2/js/intlTelInput.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ajax\libs\intl-tel-input\14.0.2\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ajax\libs\js-cookie\2.2.0\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ajax\libs\magnific-popup.js\1.1.0\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ajax\libs\slick-carousel\1.8.1\slick.min.js
+Content Type: application/javascript
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/alien-vault.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\alien-vault.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/anoto.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\anoto.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/book2meet.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\book2meet.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/bycyklen.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\bycyklen.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/cardo.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\cardo.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/cure-forward.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\cure-forward.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/deuschepost.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\deuschepost.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/efficio.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\efficio.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/novell.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\novell.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/opentext.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\opentext.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/origin.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\origin.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/schibsted.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\schibsted.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/spotzer.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\spotzer.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/think-research.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\think-research.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/images/clients/logos/vable.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\images\clients\logos\vable.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/07/24/dcd76755-b9dc-43cd-89e9-aef2a1e284e2.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2019\07\24\dcd76755-b9dc-43cd-89e9-aef2a1e284e2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/10/29/4dc8342a-903c-4592-a26c-2b2c2410ab28.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2019\10\29\4dc8342a-903c-4592-a26c-2b2c2410ab28.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/10/29/c054ae24-2160-4c6c-b453-a5f04326e6e7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2019\10\29\c054ae24-2160-4c6c-b453-a5f04326e6e7.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/10/29/d2ac9bc8-bd36-4feb-8853-0887e908c114.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2019\10\29\d2ac9bc8-bd36-4feb-8853-0887e908c114.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2019/12/19/58c1eb1c-8cdc-432b-9498-0855e9fe3ded.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2019\12\19\58c1eb1c-8cdc-432b-9498-0855e9fe3ded.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/0cc4f61f-ccc9-4655-b1bd-955fe806447e.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\0cc4f61f-ccc9-4655-b1bd-955fe806447e.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/0ec74139-ecaf-4c7d-832f-44e91045d346.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\0ec74139-ecaf-4c7d-832f-44e91045d346.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/1876cbc7-d83a-4c2a-90d0-cdaa6086dba6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\1876cbc7-d83a-4c2a-90d0-cdaa6086dba6.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/4be9b20f-3e12-4d8a-850f-e075631fe835.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\4be9b20f-3e12-4d8a-850f-e075631fe835.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/4d9ab145-8c56-4cbe-98be-bb6d08ca61c7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\4d9ab145-8c56-4cbe-98be-bb6d08ca61c7.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/738a8f4c-fcfb-44e6-8a6e-a782d63718ca.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\738a8f4c-fcfb-44e6-8a6e-a782d63718ca.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/adc7570c-0915-4164-a4b3-13e652e42275.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\adc7570c-0915-4164-a4b3-13e652e42275.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/b58efc14-595a-42e3-8221-cecb78604ff3.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\b58efc14-595a-42e3-8221-cecb78604ff3.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/b86a1e36-6b85-444b-9823-20851fcb76ef.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\b86a1e36-6b85-444b-9823-20851fcb76ef.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/c3340760-7508-404a-b419-23fc9e57c3a7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\c3340760-7508-404a-b419-23fc9e57c3a7.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/cba3b491-897d-4e9f-a9f3-541452a4ae12.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\cba3b491-897d-4e9f-a9f3-541452a4ae12.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/d55fdecf-0036-4936-a712-ac092b87bdda.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\d55fdecf-0036-4936-a712-ac092b87bdda.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/d8ef413e-01a1-483a-8b6e-bcb5f734f216.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\d8ef413e-01a1-483a-8b6e-bcb5f734f216.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/f0001e67-4792-4c0a-a2f3-dc62533eab48.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\f0001e67-4792-4c0a-a2f3-dc62533eab48.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/f9ddc140-221b-40d8-aeb8-8da2c9d08bf9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\f9ddc140-221b-40d8-aeb8-8da2c9d08bf9.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/04/fdfb6f41-b85d-43d9-a798-7d74d85653b9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\04\fdfb6f41-b85d-43d9-a798-7d74d85653b9.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/13768163-6c65-4cad-9288-d3259eca7e3d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\13768163-6c65-4cad-9288-d3259eca7e3d.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/1a060b11-4c6c-4315-b38d-07c6115bc3b0.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\1a060b11-4c6c-4315-b38d-07c6115bc3b0.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/3f203f5a-6a35-4a64-a689-d11ef2fd8cb4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\3f203f5a-6a35-4a64-a689-d11ef2fd8cb4.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/8dfd01f4-ae69-4705-a852-f4ebe93246ba.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\8dfd01f4-ae69-4705-a852-f4ebe93246ba.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/9e251da9-df10-44e0-8477-be7c87f25e91.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\9e251da9-df10-44e0-8477-be7c87f25e91.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/a3049c17-9545-487c-b65c-1fa6003637c6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\a3049c17-9545-487c-b65c-1fa6003637c6.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/b16b88bf-4321-46b3-8eef-3f4510b96bc4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\b16b88bf-4321-46b3-8eef-3f4510b96bc4.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/b1b4a98f-a176-4b1b-9d89-32936a2eadb9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\b1b4a98f-a176-4b1b-9d89-32936a2eadb9.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/bbc288eb-448d-49c8-ace9-26b46f6697f2.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\bbc288eb-448d-49c8-ace9-26b46f6697f2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/05/d208e378-2ae8-4f84-85fa-a3d5bce07a0c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\05\d208e378-2ae8-4f84-85fa-a3d5bce07a0c.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/10/602d7017-5cca-4f9c-91f4-48664a0f92e5.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\10\602d7017-5cca-4f9c-91f4-48664a0f92e5.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/02/12/076eae28-db7d-4713-849f-9a21881a4c6f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\02\12\076eae28-db7d-4713-849f-9a21881a4c6f.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/06/23/36694e00-2d09-4d47-a647-7ecb55a2ad98.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\06\23\36694e00-2d09-4d47-a647-7ecb55a2ad98.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/01/c6ac703d-2bb7-490f-9cac-61ba8f52b4e9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\07\01\c6ac703d-2bb7-490f-9cac-61ba8f52b4e9.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/01/f8372b4a-0f22-42fe-9bda-c259cfbc5736.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\07\01\f8372b4a-0f22-42fe-9bda-c259cfbc5736.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/06/90263017-f4d3-414b-a1d0-18644d2ce059.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\07\06\90263017-f4d3-414b-a1d0-18644d2ce059.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/08/20/50c05e34-9280-45eb-bb3d-94b67b088d9d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\08\20\50c05e34-9280-45eb-bb3d-94b67b088d9d.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/08/20/be600f50-351a-41bc-98a4-8daa4d13ed84.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\08\20\be600f50-351a-41bc-98a4-8daa4d13ed84.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/14/3c75c8f6-0685-4edf-8829-b06e2286868e.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\09\14\3c75c8f6-0685-4edf-8829-b06e2286868e.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/14/9bb65278-5900-4ddb-81ac-3557ec5a85ae.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\09\14\9bb65278-5900-4ddb-81ac-3557ec5a85ae.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/29/091e0d58-329e-4d48-b1f2-31ed3ca17fbd.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\09\29\091e0d58-329e-4d48-b1f2-31ed3ca17fbd.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/29/16a01228-4f1f-4752-84c5-32d4758b73ae.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\09\29\16a01228-4f1f-4752-84c5-32d4758b73ae.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/29/83772f87-dba8-4ea3-9d14-1fbb61a96e20.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\09\29\83772f87-dba8-4ea3-9d14-1fbb61a96e20.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/29/bb3c4376-3cb9-4a8d-88e1-3373a9fcd610.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\09\29\bb3c4376-3cb9-4a8d-88e1-3373a9fcd610.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/29/bfa484ca-5072-478e-8366-44b4e874183b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\09\29\bfa484ca-5072-478e-8366-44b4e874183b.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/09/29/fbf2a337-ce30-47eb-a7e2-a70cae9f1785.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\09\29\fbf2a337-ce30-47eb-a7e2-a70cae9f1785.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/10/05/0435e82e-7fca-404c-98c3-9c9a9c1d9984.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\10\05\0435e82e-7fca-404c-98c3-9c9a9c1d9984.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/10/06/6cad20db-bcf9-4e0d-88d6-ac930dead1a7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\10\06\6cad20db-bcf9-4e0d-88d6-ac930dead1a7.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/11/16/0e391130-7935-4caf-8b5f-c9a8d4f25c49.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\11\16\0e391130-7935-4caf-8b5f-c9a8d4f25c49.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/12/16/7e6d8944-0090-4914-bf9c-bdb96ed419af.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2020\12\16\7e6d8944-0090-4914-bf9c-bdb96ed419af.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/01/19/86047804-068f-4448-a056-64246dcebb31.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\01\19\86047804-068f-4448-a056-64246dcebb31.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/04/28/0503ca55-537a-43f4-b020-461145225600.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\04\28\0503ca55-537a-43f4-b020-461145225600.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/04/28/5db99c8e-e457-431d-81cf-09f11c01a8e9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\04\28\5db99c8e-e457-431d-81cf-09f11c01a8e9.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/04/28/69585eac-8d97-4b04-b92a-c161015143a6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\04\28\69585eac-8d97-4b04-b92a-c161015143a6.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/04/28/69df6987-60f1-45d0-8af8-29221fd95088.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\04\28\69df6987-60f1-45d0-8af8-29221fd95088.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/04/28/92f83ebc-6144-4971-b91b-585d5d544347.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\04\28\92f83ebc-6144-4971-b91b-585d5d544347.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/04/28/b9a4e0d0-912d-4393-bfde-c717a608f19d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\04\28\b9a4e0d0-912d-4393-bfde-c717a608f19d.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/05/12/655812f9-c59f-456e-9c2e-4dfe8f56d20e.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\05\12\655812f9-c59f-456e-9c2e-4dfe8f56d20e.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/06/16/23acbead-9b9f-4a94-82f2-b42e970ed432.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\06\16\23acbead-9b9f-4a94-82f2-b42e970ed432.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/04/0c5579a0-8b30-4d5e-8d60-b9ccd798c69c.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\04\0c5579a0-8b30-4d5e-8d60-b9ccd798c69c.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/12/56de36fa-f992-4533-ab0a-64c58f6402ce.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\12\56de36fa-f992-4533-ab0a-64c58f6402ce.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/12/60a17085-4825-4e2e-8b24-7cfdcff33b31.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\12\60a17085-4825-4e2e-8b24-7cfdcff33b31.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/12/7d5318ea-ec3a-47fd-86b3-eb66ddf32f4c.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\12\7d5318ea-ec3a-47fd-86b3-eb66ddf32f4c.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/12/abd1ec07-9115-4be8-8f9d-e7c9598d2060.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\12\abd1ec07-9115-4be8-8f9d-e7c9598d2060.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/18/99bb1622-e3d2-49f9-9d9f-d77b016d03d7.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\18\99bb1622-e3d2-49f9-9d9f-d77b016d03d7.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/18/f6da163c-08c0-4e38-97ce-9256d78f3f05.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\18\f6da163c-08c0-4e38-97ce-9256d78f3f05.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/20/8cc08104-5b20-4166-bdc4-6eb74a7cdba3.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\20\8cc08104-5b20-4166-bdc4-6eb74a7cdba3.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/26/a03b146e-baf0-4958-99ad-6da44cd4bf97.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\26\a03b146e-baf0-4958-99ad-6da44cd4bf97.webp
+Content Type: text/plain
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/27/36fd75f9-2932-4379-9f0a-88f7b418f61c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\27\36fd75f9-2932-4379-9f0a-88f7b418f61c.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/27/47a462db-44dc-47d2-a6f4-170350581d6d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\27\47a462db-44dc-47d2-a6f4-170350581d6d.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/27/7e1014ed-b384-490a-9558-e5f89e171795.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\27\7e1014ed-b384-490a-9558-e5f89e171795.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/27/9bea8555-d4c7-4571-8ad5-e01d1b37cbb8.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\27\9bea8555-d4c7-4571-8ad5-e01d1b37cbb8.webp
+Content Type: text/plain
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/27/a54b965d-180f-4f66-a9c9-925e2c5ddf7a.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\27\a54b965d-180f-4f66-a9c9-925e2c5ddf7a.webp
+Content Type: text/plain
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/27/b32d42b2-a911-419a-80fe-2c600f4b47cf.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\27\b32d42b2-a911-419a-80fe-2c600f4b47cf.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/27/c41a386a-b3e4-4b38-9576-19b4c6b70d1d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\27\c41a386a-b3e4-4b38-9576-19b4c6b70d1d.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/30/3bf6e7bf-bd5e-4d63-b274-0b4737a1cef6.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\30\3bf6e7bf-bd5e-4d63-b274-0b4737a1cef6.webp
+Content Type: text/plain
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/30/6cf7ad3b-aa49-4d67-b34a-5580a2ac7e1d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\30\6cf7ad3b-aa49-4d67-b34a-5580a2ac7e1d.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/08/30/b2590c2b-a885-4846-adc5-9ffc123975bd.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\30\b2590c2b-a885-4846-adc5-9ffc123975bd.webp
+Content Type: text/plain
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/09/07/4baa0c4a-8155-461c-820e-4673f591520d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\09\07\4baa0c4a-8155-461c-820e-4673f591520d.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/09/07/957c467b-0e6c-4027-8175-310af16706f4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\09\07\957c467b-0e6c-4027-8175-310af16706f4.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/09/07/e4a6f9de-b1fc-4adb-ad93-ef6659be09fe.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\09\07\e4a6f9de-b1fc-4adb-ad93-ef6659be09fe.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/09/22/2948c227-9345-4888-8483-d698554ee9ff.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\09\22\2948c227-9345-4888-8483-d698554ee9ff.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/09/30/3238d16a-ba8e-432d-9c92-9f9bbb26f50d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\09\30\3238d16a-ba8e-432d-9c92-9f9bbb26f50d.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/09/30/eddf5ce8-c878-4e56-829a-649576917ae3.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\09\30\eddf5ce8-c878-4e56-829a-649576917ae3.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/551fe6af-1c1b-4e23-b385-5017c206e9fa.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\08\551fe6af-1c1b-4e23-b385-5017c206e9fa.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/6b524191-5762-4937-944b-ee5556fe0ee9.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\08\6b524191-5762-4937-944b-ee5556fe0ee9.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/845be7e9-3369-4026-96c3-fb3b6a389d51.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\08\845be7e9-3369-4026-96c3-fb3b6a389d51.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/8d7e7078-5050-4a9f-a334-a42c03be8eb6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\08\8d7e7078-5050-4a9f-a334-a42c03be8eb6.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/b647d4a3-38b6-4b4a-9c1b-37401a363999.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\08\b647d4a3-38b6-4b4a-9c1b-37401a363999.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/c5ff04b2-e452-4655-a9c0-a36215a0496b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\08\c5ff04b2-e452-4655-a9c0-a36215a0496b.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/daa0a36c-10f5-44d3-8fa8-1090bee9f3c2.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\08\daa0a36c-10f5-44d3-8fa8-1090bee9f3c2.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/e82777ef-bf59-4011-9068-0cff403ca07d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\08\e82777ef-bf59-4011-9068-0cff403ca07d.svg
+Content Type: image/svg+xml
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/09/a89ee671-3fdf-45f4-aef9-9af7c5826043.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\09\a89ee671-3fdf-45f4-aef9-9af7c5826043.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/11/46dcfd10-9340-4406-a124-59f88df81018.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\11\46dcfd10-9340-4406-a124-59f88df81018.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/11/efe707de-5741-4405-bfb0-a81f6b51628c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\11\efe707de-5741-4405-bfb0-a81f6b51628c.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/12/45f699be-32c4-41f9-870d-8bf485f5a444.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\12\45f699be-32c4-41f9-870d-8bf485f5a444.jpg
+Content Type: image/jpeg
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/13/d8baeb88-b3ce-4756-8504-9a4143444afa.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\13\d8baeb88-b3ce-4756-8504-9a4143444afa.png
+Content Type: image/png
+
+Uri: https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/6c4e8ee6-60c3-4fbe-b0b7-c946848ce655.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\10\21\6c4e8ee6-60c3-4fbe-b0b7-c946848ce655.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwaPGR_p.woff2
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\s\lato\v23\S6u9w4BMUTPHh50XSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPGQ.woff2
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\s\lato\v23\S6u9w4BMUTPHh50XSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\s\lato\v23\S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\s\lato\v23\S6u9w4BMUTPHh6UVSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\s\lato\v23\S6uyw4BMUTPHjx4wXg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\s\lato\v23\S6uyw4BMUTPHjxAwXjeu.woff2
+Content Type: font/woff2
+
+Uri: https://gptchat.n-ix.com/gui/lib/chatbot.min.css
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\gui\lib\chatbot.min.css
+Content Type: application/json
+
+Uri: https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2016/03/21085459/fluke-big.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\img3.n-ix.com\wp-content\uploads\2016\03\21085459\fluke-big.png
+Content Type: image/png
+
+Uri: https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2018/10/24161552/Logo-partner-page-576x480.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\img3.n-ix.com\wp-content\uploads\2018\10\24161552\Logo-partner-page-576x480.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09152125/TensorFlow_Logo_with_text-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09152125\TensorFlow_Logo_with_text-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173015/00b39080-1ddc-11ea-8710-59b484540700-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173015\00b39080-1ddc-11ea-8710-59b484540700-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173016/1_-ganvHfXEbn6oYk-krRpIg.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173016\1_-ganvHfXEbn6oYk-krRpIg.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173017/1_g-YZo7s0j46lDQfMmQ955A.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173017\1_g-YZo7s0j46lDQfMmQ955A.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173018/1280px-Scikit_learn_logo_small-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173018\1280px-Scikit_learn_logo_small-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173018/38-380146_supercharging-machine-learning-comet-ml-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173018\38-380146_supercharging-machine-learning-comet-ml-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173019/2560px-LightGBM_logo_black_text-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173019\2560px-LightGBM_logo_black_text-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173020/3981ea80-a62f-11e9-9815-cd3293dbdd22-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173020\3981ea80-a62f-11e9-9815-cd3293dbdd22-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173021/37641037-2398b4d0-2c53-11e8-9ea9-906fe8c57fbc.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173021\37641037-2398b4d0-2c53-11e8-9ea9-906fe8c57fbc.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173022/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f686561727465786c6162732f6c616265.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173022\68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f686561727465786c6162732f6c616265.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173022/68747470733a2f2f7374617469632e6974657261746976652e61692f696d672f636d6c2f7469746c655f73747269705f7472.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173022\68747470733a2f2f7374617469632e6974657261746976652e61692f696d672f636d6c2f7469746c655f73747269705f7472.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173023/AirflowLogo-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173023\AirflowLogo-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173024/amazon_sagemaker-min.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173024\amazon_sagemaker-min.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173025/Apache_Spark_logo-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173025\Apache_Spark_logo-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173026/bb006941-a5fe-4d4c-b13d-931f9b9c303f-1569362661885-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173026\bb006941-a5fe-4d4c-b13d-931f9b9c303f-1569362661885-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173027/bentoml-removebg-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173027\bentoml-removebg-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173028/Company_logo_of_Seldon-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173028\Company_logo_of_Seldon-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173029/cortex-horizontal-color-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173029\cortex-horizontal-color-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173030/CVAT-Logo-complet-300x83-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173030\CVAT-Logo-complet-300x83-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173031/Databricks_Logo.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173031\Databricks_Logo.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173032/doccano-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173032\doccano-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173033/download-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173033\download-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173034/download-2.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173034\download-2.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173035/dvc_icon-color-square_vector-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173035\dvc_icon-color-square_vector-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173036/fastai-1-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173036\fastai-1-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173038/Group-4908.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173038\Group-4908.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173039/Group-4909.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173039\Group-4909.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173041/hyperopt-new-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173041\hyperopt-new-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173042/MLflow-logo-pos-TM-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173042\MLflow-logo-pos-TM-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173042/mxnet_logo_2-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173042\mxnet_logo_2-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173043/optuna-logo-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173043\optuna-logo-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173044/prefect-logo-gradient-navy-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173044\prefect-logo-gradient-navy-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173045/Python-7-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173045\Python-7-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173045/Pytorch_logo-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173045\Pytorch_logo-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173046/ray_logo-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173046\ray_logo-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173047/SnorkelHeader-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173047\SnorkelHeader-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173047/tensorflow-extended-tfx-logo-social.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173047\tensorflow-extended-tfx-logo-social.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09173049/xgboost_logo-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09173049\xgboost_logo-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09174000/68747470733a2f2f6e657074756e652e61692f77702d636f6e74656e742f75706c6f6164732f6e657074756e652d6c6f676f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09174000\68747470733a2f2f6e657074756e652e61692f77702d636f6e74656e742f75706c6f6164732f6e657074756e652d6c6f676f.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09174716/h2o-logo-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09174716\h2o-logo-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/09175847/e7c5255f-e820-4f7c-afd9-acda79fcf49e-3x.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\09175847\e7c5255f-e820-4f7c-afd9-acda79fcf49e-3x.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10124002/image-143.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10124002\image-143.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10124332/neptuneml_4469_logo_1630472208_ez7m3-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10124332\neptuneml_4469_logo_1630472208_ez7m3-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10124644/image-150.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10124644\image-150.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125050/image-166.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125050\image-166.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125051/image-167.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125051\image-167.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125101/68747470733a2f2f7374617469632e6974657261746976652e61692f696d672f636d6c2f7469746c655f73747269705f7472-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125101\68747470733a2f2f7374617469632e6974657261746976652e61692f696d672f636d6c2f7469746c655f73747269705f7472-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125122/image-147.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125122\image-147.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125123/image-148.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125123\image-148.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125127/image-135.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125127\image-135.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125311/image-138.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125311\image-138.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125607/image-162.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125607\image-162.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125608/image-163.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125608\image-163.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125608/image-164.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125608\image-164.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/10125609/image-165.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\10125609\image-165.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163642/2560px-Scikit_learn_logo_small-2.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163642\2560px-Scikit_learn_logo_small-2.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163643/image-36.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163643\image-36.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163643/image-56.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163643\image-56.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163644/image-57.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163644\image-57.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163645/image-58.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163645\image-58.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163645/image-59.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163645\image-59.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163646/image-60.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163646\image-60.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163647/image-61.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163647\image-61.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163648/image-64.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163648\image-64.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163649/image-65.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163649\image-65.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163650/image-72.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163650\image-72.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163651/image-73.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163651\image-73.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163652/image-74.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163652\image-74.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163653/image-75.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163653\image-75.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163654/image-76.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163654\image-76.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163655/image-77.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163655\image-77.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163656/image-78.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163656\image-78.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163657/image-79.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163657\image-79.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163658/image-80.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163658\image-80.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163659/image-81.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163659\image-81.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11163700/Rectangle-537.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11163700\Rectangle-537.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/11/11164915/image-60-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\11\11164915\image-60-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/12/28103459/image-84.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\12\28103459\image-84.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2022/12/28103504/image-85.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2022\12\28103504\image-85.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005950/docker-swarm.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005950\docker-swarm.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005951/Hyper-V_Logo-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005951\Hyper-V_Logo-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005952/image-17.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005952\image-17.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005953/image-18.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005953\image-18.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005953/image-19.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005953\image-19.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005954/Kvmbanner-logo2_1-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005954\Kvmbanner-logo2_1-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005955/OpenStack®_Logo_2016-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005955\OpenStack®_Logo_2016-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005955/Screenshot-2022-06-17-at-14.19-2-non-optimized.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005955\Screenshot-2022-06-17-at-14.19-2-non-optimized.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005956/Screenshot-2022-06-17-at-14.19-3.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005956\Screenshot-2022-06-17-at-14.19-3.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005957/Screenshot-2022-06-17-at-14.19-4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005957\Screenshot-2022-06-17-at-14.19-4.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005958/Screenshot-2022-06-17-at-14.19-5.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005958\Screenshot-2022-06-17-at-14.19-5.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26005959/Screenshot-2022-06-17-at-14.19-6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26005959\Screenshot-2022-06-17-at-14.19-6.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010000/Screenshot-2022-06-17-at-14.19-7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010000\Screenshot-2022-06-17-at-14.19-7.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010002/Screenshot-2022-06-17-at-14.19-8.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010002\Screenshot-2022-06-17-at-14.19-8.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010004/Screenshot-2022-06-17-at-14.19-9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010004\Screenshot-2022-06-17-at-14.19-9.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010006/Screenshot-2022-06-17-at-14.19-10.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010006\Screenshot-2022-06-17-at-14.19-10.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010007/Screenshot-2022-06-17-at-14.33-2.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010007\Screenshot-2022-06-17-at-14.33-2.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010008/Screenshot-2022-06-17-at-14.33-3.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010008\Screenshot-2022-06-17-at-14.33-3.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010009/Screenshot-2022-06-17-at-14.33-4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010009\Screenshot-2022-06-17-at-14.33-4.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010010/Screenshot-2022-06-17-at-14.33-5.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010010\Screenshot-2022-06-17-at-14.33-5.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010011/Screenshot-2022-06-17-at-14.33-6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010011\Screenshot-2022-06-17-at-14.33-6.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010012/Screenshot-2022-06-17-at-14.33-7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010012\Screenshot-2022-06-17-at-14.33-7.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010013/Screenshot-2022-06-17-at-14.33-8.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010013\Screenshot-2022-06-17-at-14.33-8.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010014/Screenshot-2022-06-17-at-14.33-9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010014\Screenshot-2022-06-17-at-14.33-9.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010015/Screenshot-2022-06-17-at-14.33-10.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010015\Screenshot-2022-06-17-at-14.33-10.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010016/Screenshot-2022-06-17-at-15.15-2.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010016\Screenshot-2022-06-17-at-15.15-2.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010017/Screenshot-2022-06-17-at-15.15-3.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010017\Screenshot-2022-06-17-at-15.15-3.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010018/Screenshot-2022-06-17-at-15.15-4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010018\Screenshot-2022-06-17-at-15.15-4.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010019/Screenshot-2022-06-17-at-15.15-5.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010019\Screenshot-2022-06-17-at-15.15-5.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010020/Screenshot-2022-06-17-at-15.15-6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010020\Screenshot-2022-06-17-at-15.15-6.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010021/Screenshot-2022-06-17-at-15.15-7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010021\Screenshot-2022-06-17-at-15.15-7.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010022/Screenshot-2022-06-17-at-15.15-8.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010022\Screenshot-2022-06-17-at-15.15-8.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010023/Screenshot-2022-06-17-at-15.16-2.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010023\Screenshot-2022-06-17-at-15.16-2.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010024/Screenshot-2022-06-17-at-15.16-3.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010024\Screenshot-2022-06-17-at-15.16-3.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010025/Screenshot-2022-06-17-at-15.16-4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010025\Screenshot-2022-06-17-at-15.16-4.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010026/Screenshot-2022-06-17-at-15.16-5.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010026\Screenshot-2022-06-17-at-15.16-5.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010027/Screenshot-2022-06-17-at-15.16-6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010027\Screenshot-2022-06-17-at-15.16-6.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010028/Screenshot-2022-06-17-at-15.16-7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010028\Screenshot-2022-06-17-at-15.16-7.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010029/Screenshot-2022-06-17-at-15.16-8.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010029\Screenshot-2022-06-17-at-15.16-8.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010030/Screenshot-2022-06-17-at-15.16-9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010030\Screenshot-2022-06-17-at-15.16-9.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010031/Screenshot-2022-06-17-at-15.16-10.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010031\Screenshot-2022-06-17-at-15.16-10.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010032/VMware-Symbol-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010032\VMware-Symbol-1.png
+Content Type: image/png
+
+Uri: https://s3.eu-west-1.amazonaws.com/careers.n-ix.com/wp-content/uploads/2023/01/26010033/Xen_hypervisor_logo_black-1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\careers.n-ix.com\wp-content\uploads\2023\01\26010033\Xen_hypervisor_logo_black-1.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2021/08/26/9107987d-8e8b-4eb1-bdce-cce7fec20130.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\08\26\9107987d-8e8b-4eb1-bdce-cce7fec20130.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2021/12/03/c01319b5-4430-4ca0-8179-64835b3aca33.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2021\12\03\c01319b5-4430-4ca0-8179-64835b3aca33.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/02/07/0ea3250f-6dc3-482a-bf6b-79bd074b6f35.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\02\07\0ea3250f-6dc3-482a-bf6b-79bd074b6f35.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/02/07/0eecdec4-3b6b-4dd9-a5de-976ad5b63d91.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\02\07\0eecdec4-3b6b-4dd9-a5de-976ad5b63d91.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/02/07/9257d485-07ff-4943-a546-d1ed72067ee2.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\02\07\9257d485-07ff-4943-a546-d1ed72067ee2.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/02/07/bd38f5b2-fbe5-4896-b19a-43858cc9441c.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\02\07\bd38f5b2-fbe5-4896-b19a-43858cc9441c.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/02/28/954136fb-b020-441a-92c9-caa0ee142f01.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\02\28\954136fb-b020-441a-92c9-caa0ee142f01.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/03/01/560d1015-517b-464c-a768-af74fef8c9df.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\03\01\560d1015-517b-464c-a768-af74fef8c9df.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/03/14/3549516a-bea9-4217-8fe1-92fb8971204a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\03\14\3549516a-bea9-4217-8fe1-92fb8971204a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/03/22/0ae1d889-816a-4a39-8e09-a25445e3ad1c.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\03\22\0ae1d889-816a-4a39-8e09-a25445e3ad1c.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2022/04/05/b39c3406-21a2-467a-ae28-9c79105aed5b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\05\b39c3406-21a2-467a-ae28-9c79105aed5b.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/05/b645eed2-eaa3-4d1d-ab8c-e16392bb3b22.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\05\b645eed2-eaa3-4d1d-ab8c-e16392bb3b22.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/04/05/c534293b-e8c5-455e-b0ee-388736de5a8d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\05\c534293b-e8c5-455e-b0ee-388736de5a8d.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/05/d08b8665-0a16-4880-a7ce-41e62d702012.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\05\d08b8665-0a16-4880-a7ce-41e62d702012.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/05/ec1acc6b-6de5-4cce-838a-fd2f1ca22384.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\05\ec1acc6b-6de5-4cce-838a-fd2f1ca22384.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/06/9d368391-51da-465c-8cfc-e5558a26ae79.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\06\9d368391-51da-465c-8cfc-e5558a26ae79.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/04/11/8ed6fe92-0a9a-40fb-b920-e52dcd58d49d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\11\8ed6fe92-0a9a-40fb-b920-e52dcd58d49d.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/04/15/2d149650-4240-40eb-bc42-5c7414f3237d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\15\2d149650-4240-40eb-bc42-5c7414f3237d.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/21/1bb115e7-7fff-4130-9c19-1b4579853f89.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\21\1bb115e7-7fff-4130-9c19-1b4579853f89.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/25/eda0f939-c71b-48e1-910b-8177b5a9c249.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\25\eda0f939-c71b-48e1-910b-8177b5a9c249.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/26/0737c993-db0b-412c-ac4d-34cc9987b463.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\26\0737c993-db0b-412c-ac4d-34cc9987b463.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/26/f333d111-bbc4-41a8-b6d3-9ea7a6ec1015.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\26\f333d111-bbc4-41a8-b6d3-9ea7a6ec1015.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/04/27/5d223bad-be7f-48b8-aa24-49ad635e6dfc.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\27\5d223bad-be7f-48b8-aa24-49ad635e6dfc.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/04/27/b9982c8e-1309-4684-aa43-68fbf2438c85.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\04\27\b9982c8e-1309-4684-aa43-68fbf2438c85.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/05/3d7d30ef-9560-45d7-a97c-6df5e4a18084.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\05\3d7d30ef-9560-45d7-a97c-6df5e4a18084.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/12/3dff70fe-b265-431f-8e0e-dacc56d9f9b7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\12\3dff70fe-b265-431f-8e0e-dacc56d9f9b7.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/12/68b7f7ed-40a5-41c0-8958-757b340457e4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\12\68b7f7ed-40a5-41c0-8958-757b340457e4.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/12/78d84207-ec98-448e-9b19-a38527ab51f1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\12\78d84207-ec98-448e-9b19-a38527ab51f1.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/12/7b7a73b1-e96f-4332-80ac-4ec405e69b69.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\12\7b7a73b1-e96f-4332-80ac-4ec405e69b69.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/12/81aade77-2100-4c1a-84c1-1e074c48d9c0.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\12\81aade77-2100-4c1a-84c1-1e074c48d9c0.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/12/9726cc80-0a53-49d5-99f6-bf31895e02a9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\12\9726cc80-0a53-49d5-99f6-bf31895e02a9.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/12/ecc08d6a-b472-4ac8-b25d-ced35990b808.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\12\ecc08d6a-b472-4ac8-b25d-ced35990b808.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/05/17/0ee1da6d-cce8-4ce7-ae8b-a5bafeef281b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\05\17\0ee1da6d-cce8-4ce7-ae8b-a5bafeef281b.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/02/2064b7ae-3e2b-478c-9e2e-80e3e8e513ee.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\02\2064b7ae-3e2b-478c-9e2e-80e3e8e513ee.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/098dc003-79dc-4dba-bda4-e425f58e07e3.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\098dc003-79dc-4dba-bda4-e425f58e07e3.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/0a83625f-347c-4933-b344-d8944497dd14.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\0a83625f-347c-4933-b344-d8944497dd14.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/2b65efed-64ff-4df0-9b1b-f918594c6de3.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\2b65efed-64ff-4df0-9b1b-f918594c6de3.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/35986637-d8dd-4722-82a3-be14f135661b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\35986637-d8dd-4722-82a3-be14f135661b.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/84d878e0-45d4-44f2-9fcf-671567e476e7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\84d878e0-45d4-44f2-9fcf-671567e476e7.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/98595a09-9bc4-4af1-988b-ae36c05d9ca8.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\98595a09-9bc4-4af1-988b-ae36c05d9ca8.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/c5226d33-ca5e-4660-ab10-ba63818c1dbc.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\c5226d33-ca5e-4660-ab10-ba63818c1dbc.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/c6e85931-a451-4924-8697-e2ec4efa3903.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\c6e85931-a451-4924-8697-e2ec4efa3903.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/06/15/dd4b585a-f63c-4cac-be07-beb9449431fc.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\15\dd4b585a-f63c-4cac-be07-beb9449431fc.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/19e4c798-be0d-43ab-b753-4cabe07d62f7.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\19e4c798-be0d-43ab-b753-4cabe07d62f7.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/1c17be16-5bb1-4f72-a03f-8eb42e7f3db1.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\1c17be16-5bb1-4f72-a03f-8eb42e7f3db1.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/1d86c6e5-7995-4100-a86c-1072f20cb2be.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\1d86c6e5-7995-4100-a86c-1072f20cb2be.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/4a6d6d91-725a-431f-9022-c937b2820d73.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\4a6d6d91-725a-431f-9022-c937b2820d73.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/5c3b7f8e-dd57-4123-b328-75b6292b52e4.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\5c3b7f8e-dd57-4123-b328-75b6292b52e4.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/6c1b4486-0f6f-433f-9102-ed8b0e6dcae3.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\6c1b4486-0f6f-433f-9102-ed8b0e6dcae3.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/e4c02074-35b9-46e4-8303-4780f00f2c8f.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\e4c02074-35b9-46e4-8303-4780f00f2c8f.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/edd3a6b6-07bd-4adb-b3a9-34a91ed9acaa.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\edd3a6b6-07bd-4adb-b3a9-34a91ed9acaa.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/23/fce4dd92-8899-4b04-8755-55117c012665.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\23\fce4dd92-8899-4b04-8755-55117c012665.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/06/24/5837598b-5091-438e-8213-9b3df16debb9.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\24\5837598b-5091-438e-8213-9b3df16debb9.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/06/30/126e2621-3a66-4e3f-9ec6-9ea256b3333d.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\06\30\126e2621-3a66-4e3f-9ec6-9ea256b3333d.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2022/07/12/d204bbd9-4aab-4da1-a0ba-2142cb995008.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\07\12\d204bbd9-4aab-4da1-a0ba-2142cb995008.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2022/07/19/257035db-8f14-4176-aa54-e9f6292e2cdf.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\07\19\257035db-8f14-4176-aa54-e9f6292e2cdf.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/07/19/56f49128-0503-4285-b38b-56bd712ccc0f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\07\19\56f49128-0503-4285-b38b-56bd712ccc0f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/07/19/7253b31b-424a-41fa-a46c-d1a8da575d76.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\07\19\7253b31b-424a-41fa-a46c-d1a8da575d76.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/07/19/e16e7c6d-5a55-42b9-b34f-e07e64803316.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\07\19\e16e7c6d-5a55-42b9-b34f-e07e64803316.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/07/19/ea7af8be-b9ac-431a-9910-172f40ba7f8d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\07\19\ea7af8be-b9ac-431a-9910-172f40ba7f8d.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/07/22/5f262b9d-eacc-42a4-bdae-8fea262c782a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\07\22\5f262b9d-eacc-42a4-bdae-8fea262c782a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/07/22/b48c8dd1-4829-4b60-adad-752b90b2b24b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\07\22\b48c8dd1-4829-4b60-adad-752b90b2b24b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/08/08/bacbdb76-5f25-4fa0-9359-9abf6e3a8564.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\08\08\bacbdb76-5f25-4fa0-9359-9abf6e3a8564.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/08/08/f21b3d8d-0a09-40a9-a4c9-1c969ef161fa.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\08\08\f21b3d8d-0a09-40a9-a4c9-1c969ef161fa.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/08/29/0285bb11-14a8-4d42-8c86-d81722dff4b7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\08\29\0285bb11-14a8-4d42-8c86-d81722dff4b7.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/08/29/343ec9df-1e26-4267-a785-d37fc0895ff8.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\08\29\343ec9df-1e26-4267-a785-d37fc0895ff8.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/08/29/6a635e1a-0750-4c0c-96bb-665ecd0329c2.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\08\29\6a635e1a-0750-4c0c-96bb-665ecd0329c2.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/08/29/bf72f988-458d-4ef7-86f4-638743d236b3.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\08\29\bf72f988-458d-4ef7-86f4-638743d236b3.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/09/07/7260e177-3d22-4541-a8a8-b6eb13d809b6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\09\07\7260e177-3d22-4541-a8a8-b6eb13d809b6.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/09/23/85ddd0b3-aff9-4d4e-a6e5-15bdf9efb3fc.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\09\23\85ddd0b3-aff9-4d4e-a6e5-15bdf9efb3fc.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/09/23/d7c45eb4-36b5-4778-beda-83543c36609e.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\09\23\d7c45eb4-36b5-4778-beda-83543c36609e.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/09/26/66a6d098-f524-4e76-a12f-64335db5a097.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\09\26\66a6d098-f524-4e76-a12f-64335db5a097.jpg
+Content Type: image/jpeg
+
+Uri: https://src.n-ix.com/uploads/2022/09/27/08086ec7-80a1-4a46-b3b0-0ca961490750.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\09\27\08086ec7-80a1-4a46-b3b0-0ca961490750.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2022/09/27/6ef26ea8-e272-4c91-9eaa-a14b736eee93.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\09\27\6ef26ea8-e272-4c91-9eaa-a14b736eee93.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2022/09/28/a31dfa27-41de-4958-9360-83b2235c92c2.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\09\28\a31dfa27-41de-4958-9360-83b2235c92c2.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2022/10/10/4c4183d1-00f8-4729-87c2-2d726a5fe703.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\10\10\4c4183d1-00f8-4729-87c2-2d726a5fe703.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/10/10/668a0deb-b14b-40ad-b5a1-e3d9883348c0.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\10\10\668a0deb-b14b-40ad-b5a1-e3d9883348c0.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/10/10/ac7208fa-a56d-4022-b18d-e708997d03ec.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\10\10\ac7208fa-a56d-4022-b18d-e708997d03ec.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/10/10/b10007fe-019a-4031-be5e-583d7dd6aec2.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\10\10\b10007fe-019a-4031-be5e-583d7dd6aec2.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/10/10/b1128c15-f797-456b-8ca2-0a5ae9ca6d67.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\10\10\b1128c15-f797-456b-8ca2-0a5ae9ca6d67.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/10/18/abd46876-0bd0-44e9-9614-fdcf81762a17.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\10\18\abd46876-0bd0-44e9-9614-fdcf81762a17.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/10/21/57147260-b1c8-403f-8ef9-c84faa317e41.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\10\21\57147260-b1c8-403f-8ef9-c84faa317e41.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/11/10/e48d5a1f-7a4f-4a9d-a704-5af7ff27e131.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\11\10\e48d5a1f-7a4f-4a9d-a704-5af7ff27e131.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/11/11/5ce3424d-b7b4-4976-91cc-23adeb384022.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\11\11\5ce3424d-b7b4-4976-91cc-23adeb384022.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/11/16/b7b13980-1a5b-4a7f-aac1-53f217fede4c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\11\16\b7b13980-1a5b-4a7f-aac1-53f217fede4c.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/13/b1945f38-be11-445b-abcb-84542ca571e0.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\13\b1945f38-be11-445b-abcb-84542ca571e0.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2022/12/13/e02bb005-f23f-44d5-80ee-30e84ccc719f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\13\e02bb005-f23f-44d5-80ee-30e84ccc719f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/14/ddc37df1-4886-4e49-94e0-64d526de4119.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\14\ddc37df1-4886-4e49-94e0-64d526de4119.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/15/5296ca2a-aace-4e18-a6cf-0d3067a07af4.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\15\5296ca2a-aace-4e18-a6cf-0d3067a07af4.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/15/7009ff33-9d8d-41db-bfbf-ae7409dd5d73.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\15\7009ff33-9d8d-41db-bfbf-ae7409dd5d73.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/15/caf73271-96a3-4551-8893-8db72d660aad.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\15\caf73271-96a3-4551-8893-8db72d660aad.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/16/9736536f-e17f-41fb-9693-6ae05df6e5dc.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\16\9736536f-e17f-41fb-9693-6ae05df6e5dc.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/18/6da7f5fb-979b-45f7-951e-418ddbeab499.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\18\6da7f5fb-979b-45f7-951e-418ddbeab499.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/18/7de1346d-a126-4fdf-82e8-46b1edb1228e.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\18\7de1346d-a126-4fdf-82e8-46b1edb1228e.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/18/cb9a40dc-a172-4ca1-9bad-938f7f9e7f64.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\18\cb9a40dc-a172-4ca1-9bad-938f7f9e7f64.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/19/e0993203-0318-4a94-bcf1-c2ec952a3b36.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\19\e0993203-0318-4a94-bcf1-c2ec952a3b36.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/20/20359aea-8141-48dd-8b61-e34fc3e3c415.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\20\20359aea-8141-48dd-8b61-e34fc3e3c415.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/21/3cf0f43e-3874-40a8-b307-347e5272168f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\21\3cf0f43e-3874-40a8-b307-347e5272168f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/23/44708952-0d44-4622-95ff-04e86369ffd7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\23\44708952-0d44-4622-95ff-04e86369ffd7.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/23/7a1594c9-44c8-4db7-8c79-d162ba39572b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\23\7a1594c9-44c8-4db7-8c79-d162ba39572b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/27/53b880b7-c7c8-4c30-8acc-109a17f118b0.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\27\53b880b7-c7c8-4c30-8acc-109a17f118b0.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/1a45532e-d6da-499e-a17c-f25ba8331de2.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\1a45532e-d6da-499e-a17c-f25ba8331de2.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/3c0e419b-c7c8-4086-b1e4-067f190d1bca.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\3c0e419b-c7c8-4086-b1e4-067f190d1bca.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/40d62639-3b59-4b3e-b81a-1455f4a394cc.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\40d62639-3b59-4b3e-b81a-1455f4a394cc.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/444a716b-70c7-407a-b579-d62328259b9b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\444a716b-70c7-407a-b579-d62328259b9b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/47878bbc-cb55-406b-bb87-eb39a873374b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\47878bbc-cb55-406b-bb87-eb39a873374b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/47aa8490-bb58-4559-94d1-fcf7488a1a7e.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\47aa8490-bb58-4559-94d1-fcf7488a1a7e.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/a6abb1a4-94c6-4841-af41-27edc5b27858.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\a6abb1a4-94c6-4841-af41-27edc5b27858.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/c5b7848a-dff1-4bf4-bbcd-d38df9a91c5a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\c5b7848a-dff1-4bf4-bbcd-d38df9a91c5a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/28/ce783b9b-2d03-45de-9bcc-05567c2630ef.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\28\ce783b9b-2d03-45de-9bcc-05567c2630ef.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/29/4fceecda-454c-44b4-8de0-ee118bd6eeea.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\29\4fceecda-454c-44b4-8de0-ee118bd6eeea.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/29/5ea98307-c44d-48a5-b243-c00d28fa1a46.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\29\5ea98307-c44d-48a5-b243-c00d28fa1a46.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/29/664d09e7-6688-47bc-ad36-0b05049b9fb6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\29\664d09e7-6688-47bc-ad36-0b05049b9fb6.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/29/98408ac0-5a92-4b3e-a564-930031779e6d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\29\98408ac0-5a92-4b3e-a564-930031779e6d.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/29/a8e8ad39-41ae-45f1-bc6d-fc9b1961b055.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\29\a8e8ad39-41ae-45f1-bc6d-fc9b1961b055.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2022/12/29/b9f99ea7-e61f-4f7b-bb5d-3e1f3650c9d6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2022\12\29\b9f99ea7-e61f-4f7b-bb5d-3e1f3650c9d6.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/03/453d0bc3-6f22-4ca7-902a-fb25b9654ab6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\03\453d0bc3-6f22-4ca7-902a-fb25b9654ab6.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/04/f56382b0-73dc-4f91-b78f-f4f1f3037134.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\04\f56382b0-73dc-4f91-b78f-f4f1f3037134.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/11/2da6ee64-ed5c-4749-a775-4808fd1482d7.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\11\2da6ee64-ed5c-4749-a775-4808fd1482d7.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/01/11/8e2d9a60-67a8-49be-8269-e697cb84920e.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\11\8e2d9a60-67a8-49be-8269-e697cb84920e.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/01/11/c002f5da-bde4-4be7-a9d4-2c665998848f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\11\c002f5da-bde4-4be7-a9d4-2c665998848f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/24/54828dba-2aac-449f-be6e-9d6245deb639.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\24\54828dba-2aac-449f-be6e-9d6245deb639.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/24/76d83041-54ae-4ea8-8bfa-42c7e86429ba.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\24\76d83041-54ae-4ea8-8bfa-42c7e86429ba.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/24/8ee53dcd-9aa0-48e0-8980-c2273852a1b3.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\24\8ee53dcd-9aa0-48e0-8980-c2273852a1b3.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/24/ca9bd3e3-e4dc-41ea-ac7f-ac73d7a6bb0f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\24\ca9bd3e3-e4dc-41ea-ac7f-ac73d7a6bb0f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/24/cef3de1a-1285-43b9-b109-daa16b809f6a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\24\cef3de1a-1285-43b9-b109-daa16b809f6a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/01/25/4891e85a-d1a5-43cd-9f91-ceb42ec667f5.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\25\4891e85a-d1a5-43cd-9f91-ceb42ec667f5.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/01/26/f8044103-b035-41a9-b0e4-d1e5551f6570.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\01\26\f8044103-b035-41a9-b0e4-d1e5551f6570.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/07/cf71775a-2a76-4d2c-bfe3-f51fa92b1b8f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\07\cf71775a-2a76-4d2c-bfe3-f51fa92b1b8f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/13/c5e111ec-a211-480e-8711-0e7ff998720d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\13\c5e111ec-a211-480e-8711-0e7ff998720d.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/18/0d104290-024c-4586-8540-0becb3faf0ca.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\18\0d104290-024c-4586-8540-0becb3faf0ca.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/02/18/494ce3c8-f582-4e6a-962d-fed220508835.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\18\494ce3c8-f582-4e6a-962d-fed220508835.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/02/18/d95e850f-b79c-4cb4-a5c1-457fd03aa6c5.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\18\d95e850f-b79c-4cb4-a5c1-457fd03aa6c5.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/02/21/674e1916-9fb5-42a3-93ce-7d01ae659737.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\21\674e1916-9fb5-42a3-93ce-7d01ae659737.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/21/be588c87-d75f-44c2-9599-0497c53c3960.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\21\be588c87-d75f-44c2-9599-0497c53c3960.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/21/e413ca1f-e60b-4264-8752-a002a9fd9b2a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\21\e413ca1f-e60b-4264-8752-a002a9fd9b2a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/22/a6f6d889-87cd-4da7-b19b-a2f05a8671f0.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\22\a6f6d889-87cd-4da7-b19b-a2f05a8671f0.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/22/f5eecdd0-1275-4af2-ab1a-78acc6dfac35.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\22\f5eecdd0-1275-4af2-ab1a-78acc6dfac35.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/23/13a2b3c2-27ec-4377-a6b7-8a13ee315abb.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\23\13a2b3c2-27ec-4377-a6b7-8a13ee315abb.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/23/2dd36c6d-57ce-47a2-9c1b-08699e5502c7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\23\2dd36c6d-57ce-47a2-9c1b-08699e5502c7.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/02/23/afbc1298-92c1-474c-9aa6-10f967162c04.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\02\23\afbc1298-92c1-474c-9aa6-10f967162c04.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/03/14/ca9607d6-5072-4fb4-84b6-92ab7ac7b5a2.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\14\ca9607d6-5072-4fb4-84b6-92ab7ac7b5a2.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/03/15/2d4192e6-1f93-40ba-a8af-37c32e07b446.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\15\2d4192e6-1f93-40ba-a8af-37c32e07b446.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/03/15/331559e6-7f9d-4bc7-89d3-d568122724c6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\15\331559e6-7f9d-4bc7-89d3-d568122724c6.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/03/15/422a8cea-2830-4a68-b06a-f6adb4849824.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\15\422a8cea-2830-4a68-b06a-f6adb4849824.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/03/15/5e7b69c0-6366-41ba-8562-677a52d479c6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\15\5e7b69c0-6366-41ba-8562-677a52d479c6.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/03/15/76014a21-c339-460d-8dcd-011c748df4ba.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\15\76014a21-c339-460d-8dcd-011c748df4ba.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/03/15/77a16ce4-6aec-4b77-b93f-a7f11749658e.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\15\77a16ce4-6aec-4b77-b93f-a7f11749658e.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/03/15/80248e13-de9f-4e6f-8918-6d3ec05eb5ce.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\15\80248e13-de9f-4e6f-8918-6d3ec05eb5ce.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/03/15/c7f66b35-2b92-4535-9384-cc2d1475884a.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\03\15\c7f66b35-2b92-4535-9384-cc2d1475884a.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/06370116-19f2-41cc-a7d5-35cde972aaff.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\06370116-19f2-41cc-a7d5-35cde972aaff.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/3d7ac9ff-a826-49cb-87d3-eec18c99081c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\3d7ac9ff-a826-49cb-87d3-eec18c99081c.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/59c056fd-39da-4328-846a-6581a7de9b0c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\59c056fd-39da-4328-846a-6581a7de9b0c.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/9ae2baee-3f39-4e0e-a90b-2a7a9d895217.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\9ae2baee-3f39-4e0e-a90b-2a7a9d895217.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/aaa311cd-d1df-475b-ae89-b98e451fc9ca.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\aaa311cd-d1df-475b-ae89-b98e451fc9ca.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/b69e72d5-1c53-4b84-84e2-d328b619cb2f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\b69e72d5-1c53-4b84-84e2-d328b619cb2f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/ccfa2e42-3f60-4a23-8f6e-c29d317bce55.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\ccfa2e42-3f60-4a23-8f6e-c29d317bce55.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/d076f8ae-01b3-4ed0-a75e-935312e674fd.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\d076f8ae-01b3-4ed0-a75e-935312e674fd.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/ddc9d002-063e-4f52-aa77-fd38641420b8.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\ddc9d002-063e-4f52-aa77-fd38641420b8.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/ee0a8e1b-ff85-40d6-8fc5-65e799e72c2f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\ee0a8e1b-ff85-40d6-8fc5-65e799e72c2f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/04/f834c5df-00ec-4d56-a0dc-29377694e9f1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\04\f834c5df-00ec-4d56-a0dc-29377694e9f1.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/05/1b398564-f56a-4f53-843f-adb85e6dbade.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\05\1b398564-f56a-4f53-843f-adb85e6dbade.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/07/6eca7104-e8ea-40ec-89ce-f851107e0791.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\07\6eca7104-e8ea-40ec-89ce-f851107e0791.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/27/1b4ffb3f-5eb9-4f9c-b8ae-072ed74b9409.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\27\1b4ffb3f-5eb9-4f9c-b8ae-072ed74b9409.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/04/27/bc4be70d-491a-4197-b4e9-2e2689d3dc1d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\04\27\bc4be70d-491a-4197-b4e9-2e2689d3dc1d.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/06/07/afa64d28-1530-495f-8b47-2051957dd621.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\06\07\afa64d28-1530-495f-8b47-2051957dd621.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/06/08/649ace57-5077-4d60-afed-ab1f44d2e466.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\06\08\649ace57-5077-4d60-afed-ab1f44d2e466.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/06/13/7c27f179-7e4a-48af-86d2-43b62d0695c5.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\06\13\7c27f179-7e4a-48af-86d2-43b62d0695c5.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/06/15/f3a7f127-8fe2-4fd3-b247-66d798ce67a7.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\06\15\f3a7f127-8fe2-4fd3-b247-66d798ce67a7.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/06/16/06ec5c26-33aa-4f75-960c-9c2fea0ccc89.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\06\16\06ec5c26-33aa-4f75-960c-9c2fea0ccc89.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/07/03/ee1d3a4a-38bd-4f82-86d8-b4fe07cc758b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\07\03\ee1d3a4a-38bd-4f82-86d8-b4fe07cc758b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/07/24/f39e4b58-0148-4b19-9f8b-00a3079289af.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\07\24\f39e4b58-0148-4b19-9f8b-00a3079289af.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/07/26/d11c8497-ed20-4d2e-9789-2713ded62fdc.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\07\26\d11c8497-ed20-4d2e-9789-2713ded62fdc.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/03/004c6a09-b564-4a66-bc00-c732548f78c1.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\03\004c6a09-b564-4a66-bc00-c732548f78c1.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/0c972e7f-8740-47ad-a70a-cc44e3e3132b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\0c972e7f-8740-47ad-a70a-cc44e3e3132b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/20e549f4-3783-4422-a3fd-4fe78a867cb8.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\20e549f4-3783-4422-a3fd-4fe78a867cb8.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/2832c44f-bd7f-4444-a450-7a729112c847.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\2832c44f-bd7f-4444-a450-7a729112c847.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/4eb7a23f-5315-43a4-9c3e-560f5278056b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\4eb7a23f-5315-43a4-9c3e-560f5278056b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/5be043a6-511b-4e66-818b-d8b613b56115.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\5be043a6-511b-4e66-818b-d8b613b56115.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/67658362-eeaf-4171-a9d5-5a5273347434.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\67658362-eeaf-4171-a9d5-5a5273347434.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/694cadd0-4884-4acc-8a22-7db13e03387b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\694cadd0-4884-4acc-8a22-7db13e03387b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/8714fec7-b664-4970-9b10-65995e41d683.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\8714fec7-b664-4970-9b10-65995e41d683.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/b6d0ddb8-43f9-4641-8079-c9202e85a256.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\b6d0ddb8-43f9-4641-8079-c9202e85a256.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/10/ec6785a9-9823-495f-967c-bb5403f6a61b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\10\ec6785a9-9823-495f-967c-bb5403f6a61b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/11/0eef8538-9ccc-4fa9-8389-3a491722d636.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\11\0eef8538-9ccc-4fa9-8389-3a491722d636.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/11/6cb66484-5978-47c1-9485-23250a6312ba.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\11\6cb66484-5978-47c1-9485-23250a6312ba.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/11/d3d65393-bdc2-4574-970c-11d94fb026c0.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\11\d3d65393-bdc2-4574-970c-11d94fb026c0.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/08/11/d4e8f303-37ca-45c5-9709-a542527a9be3.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\08\11\d4e8f303-37ca-45c5-9709-a542527a9be3.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/09/13/b924198f-e2ac-4e79-8952-9a438599177a.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\09\13\b924198f-e2ac-4e79-8952-9a438599177a.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/09/20/089d2149-d133-453c-9af5-aeaa74dfeba6.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\09\20\089d2149-d133-453c-9af5-aeaa74dfeba6.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/09/20/8bf6b3d2-2474-4322-b93a-9c8415b61a2c.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\09\20\8bf6b3d2-2474-4322-b93a-9c8415b61a2c.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/09/21/8b56ec02-b24e-4682-b33f-9ab2710b242c.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\09\21\8b56ec02-b24e-4682-b33f-9ab2710b242c.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/10/05/01a4775d-66be-42b5-81a5-23940fac5f01.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\05\01a4775d-66be-42b5-81a5-23940fac5f01.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/05/4caa70b5-fcb4-4a13-8589-3a9225a13eb8.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\05\4caa70b5-fcb4-4a13-8589-3a9225a13eb8.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/05/c57fc599-5680-4d2b-aead-75d69bf11341.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\05\c57fc599-5680-4d2b-aead-75d69bf11341.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/05/d1698da6-ecae-4177-bdbf-f38af92095fe.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\05\d1698da6-ecae-4177-bdbf-f38af92095fe.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/09/87b09fc0-bf5e-4b31-8b06-be7d925cee33.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\09\87b09fc0-bf5e-4b31-8b06-be7d925cee33.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/10/499a86b5-1ec5-4c92-ae7b-b018c203c358.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\10\499a86b5-1ec5-4c92-ae7b-b018c203c358.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/10/17/0f0f0bf3-24e5-412a-8a9a-538707ff3eae.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\17\0f0f0bf3-24e5-412a-8a9a-538707ff3eae.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/18/119054eb-281f-467c-bcb6-716e0013b68c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\18\119054eb-281f-467c-bcb6-716e0013b68c.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/18/27622277-4534-49fd-a50d-7ae71997ccb6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\18\27622277-4534-49fd-a50d-7ae71997ccb6.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/18/34aa4391-c9e9-4421-8acf-69f94307b626.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\18\34aa4391-c9e9-4421-8acf-69f94307b626.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/18/67bdbe2c-4b4e-4b17-9b2d-9c0ce17ba74a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\18\67bdbe2c-4b4e-4b17-9b2d-9c0ce17ba74a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/18/ea447c21-9d1f-44fc-94fd-ff072d0de224.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\18\ea447c21-9d1f-44fc-94fd-ff072d0de224.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/19/350b17bf-1b89-4124-ad75-cf38c70e5fb6.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\19\350b17bf-1b89-4124-ad75-cf38c70e5fb6.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/10/30/d50446a9-c221-4d1d-be08-5dfa4543a13d.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\10\30\d50446a9-c221-4d1d-be08-5dfa4543a13d.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/11/07/48cf6e21-2fbd-42ff-91fd-c1c8de42cb81.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\07\48cf6e21-2fbd-42ff-91fd-c1c8de42cb81.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/11/09/bf91b8ae-5a8b-46a1-8e1f-2a9e0c8db13b.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\09\bf91b8ae-5a8b-46a1-8e1f-2a9e0c8db13b.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/11/10/1810a94d-856a-4f4d-b35d-23a0f1ac372c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\10\1810a94d-856a-4f4d-b35d-23a0f1ac372c.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/11/10/9f77e1db-e022-4846-a146-24673de1869a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\10\9f77e1db-e022-4846-a146-24673de1869a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/11/10/cd54d87a-b75f-411a-b724-72d0173c9896.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\10\cd54d87a-b75f-411a-b724-72d0173c9896.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/11/22/0b60001a-bcd9-4050-b6ab-685278ce8bf3.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\22\0b60001a-bcd9-4050-b6ab-685278ce8bf3.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/11/22/a37a9abe-61f8-4f28-ab62-11595535ce53.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\22\a37a9abe-61f8-4f28-ab62-11595535ce53.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/11/22/bf5cc760-6b0f-4ad2-9133-cc205bc2fac6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\22\bf5cc760-6b0f-4ad2-9133-cc205bc2fac6.svg
+Content Type: image/svg+xml
+
+Uri: https://src.n-ix.com/uploads/2023/11/27/76d60a2c-39ab-478c-971b-6ab43bf14c1a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\11\27\76d60a2c-39ab-478c-971b-6ab43bf14c1a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/12/05/1bf0fa5e-0ce9-40c8-99ce-c31b8c707913.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\12\05\1bf0fa5e-0ce9-40c8-99ce-c31b8c707913.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2023/12/12/8eca9408-fc72-4b1c-87b7-4d56b5e5ca3f.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\12\12\8eca9408-fc72-4b1c-87b7-4d56b5e5ca3f.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/12/28/b59571b9-3d86-4665-8483-33c1d024d04d.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\12\28\b59571b9-3d86-4665-8483-33c1d024d04d.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2023/12/28/c48a4e47-5f07-4705-b5ef-f0bbe4b43cc0.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2023\12\28\c48a4e47-5f07-4705-b5ef-f0bbe4b43cc0.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2024/01/03/a09b3383-24bc-4f5b-95b8-e1a20a0ddb7c.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2024\01\03\a09b3383-24bc-4f5b-95b8-e1a20a0ddb7c.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2024/01/03/d7d0a4ce-74ed-4eca-9fa1-3b68376491b2.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2024\01\03\d7d0a4ce-74ed-4eca-9fa1-3b68376491b2.webp
+Content Type: text/plain
+
+Uri: https://src.n-ix.com/uploads/2024/01/17/3a1734c0-a1ef-4bd3-951f-5621e820c33a.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2024\01\17\3a1734c0-a1ef-4bd3-951f-5621e820c33a.png
+Content Type: image/png
+
+Uri: https://src.n-ix.com/uploads/2024/02/05/50dcd5d5-dd95-493a-8cce-35d16488fe09.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uploads\2024\02\05\50dcd5d5-dd95-493a-8cce-35d16488fe09.webp
+Content Type: text/plain
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\bootstrap\4.1.3\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.n-ix.com/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/agritech-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\agritech-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/ai-ml-data-science/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ai-ml-data-science\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/android-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\android-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/automotive-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\automotive-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/aws-development-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\aws-development-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/aws-migration-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\aws-migration-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/aws-opensearch-service/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\aws-opensearch-service\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/aws-well-architected-review-partner/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\aws-well-architected-review-partner\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/azure-consulting-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\azure-consulting-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/azure-cost-optimization/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\azure-cost-optimization\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/big-data/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\big-data\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/blockchain-solutions/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\blockchain-solutions\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/blog/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/building-a-data-warehouse/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\building-a-data-warehouse\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/business-intelligence/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\business-intelligence\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/accelerating-digital-transformation-fashion-retail/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\accelerating-digital-transformation-fashion-retail\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/automation-cloud-migration-cost-optimization-for-global-tech-company/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\automation-cloud-migration-cost-optimization-for-global-tech-company\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/business-management-solution-uk-car-dealership-company/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\business-management-solution-uk-car-dealership-company\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/designing-ui-product-demand-forecasting-retail/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\designing-ui-product-demand-forecasting-retail\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/development-big-data-platform-gogo-inflight-internet-provider/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\development-big-data-platform-gogo-inflight-internet-provider\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/digital-experience-platform-for-telecom/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\digital-experience-platform-for-telecom\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/digitizing-warranty-management-leading-car-dealership-company/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\digitizing-warranty-management-leading-car-dealership-company\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/driving-logistics-efficiency-industrial-machine-learning/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\driving-logistics-efficiency-industrial-machine-learning\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/e-commerce-comprehensive-data-analytics-solution/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\e-commerce-comprehensive-data-analytics-solution\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/effective-traffic-management-computer-vision/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\effective-traffic-management-computer-vision\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/efficiency-finance-automation-cloud-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\efficiency-finance-automation-cloud-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/enhancing-the-performance-of-a-large-audio-streaming-platform/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\enhancing-the-performance-of-a-large-audio-streaming-platform\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/expanding-audience-with-cloud-based-data-analytics/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\expanding-audience-with-cloud-based-data-analytics\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/expanding-finance-services-gaining-scalability-aws/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\expanding-finance-services-gaining-scalability-aws\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/full-scale-digital-transformation-telecom/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\full-scale-digital-transformation-telecom\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/going-omnichannel-expand-market-reach/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\going-omnichannel-expand-market-reach\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/helping-automotive-leader-scale-digital-transformation-journey/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\helping-automotive-leader-scale-digital-transformation-journey\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/improving-brokerage-experience-expand-market-reach/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\improving-brokerage-experience-expand-market-reach\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/improving-product-pricing-strategies-retail-competitor-analysis/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\improving-product-pricing-strategies-retail-competitor-analysis\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/improving-service-quality-for-leading-energy-supplier/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\improving-service-quality-for-leading-energy-supplier\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/increasing-efficiency-automation-modernization-retailer/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\increasing-efficiency-automation-modernization-retailer\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/mobile-application-development-ui-ux-design-bitlog/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\mobile-application-development-ui-ux-design-bitlog\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/modernization-for-global-stock-image-and-media-platform/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\modernization-for-global-stock-image-and-media-platform\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/modernizing-embedded-solutions-for-vehicle-parking/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\modernizing-embedded-solutions-for-vehicle-parking\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/native-ios-android-application-development-ride-sharing-platform/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\native-ios-android-application-development-ride-sharing-platform\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/optimizing-costs-and-operations-for-iot-service-provider/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\optimizing-costs-and-operations-for-iot-service-provider\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/scalable-big-data-analytics-platform-leading-industrial-supply-company/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\scalable-big-data-analytics-platform-leading-industrial-supply-company\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/software-development-partnership-with-orbus-a-leading-provider-of-enterprise-architecture-software/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\software-development-partnership-with-orbus-a-leading-provider-of-enterprise-architecture-software\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/streamlining-operations-optimizing-costs-energy/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\streamlining-operations-optimizing-costs-energy\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/streamlining-transfer-pricing-automated-tax-calculation-entity-management/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\streamlining-transfer-pricing-automated-tax-calculation-entity-management\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/ui-ux-design-cure-forward-innovative-healthcare-platform/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\ui-ux-design-cure-forward-innovative-healthcare-platform\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/ux-design-bitlog-logistics-solution/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\ux-design-bitlog-logistics-solution\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/case-study/ux-design-book2meet-hospitality-solution/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\case-study\ux-design-book2meet-hospitality-solution\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/centers-of-excellence/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\centers-of-excellence\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/alienvault/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\alienvault\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/bitlog/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\bitlog\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/book2meet/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\book2meet\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/bycyklen/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\bycyklen\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/cardo-systems/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\cardo-systems\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/cleverbridge/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\cleverbridge\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/cure-forward/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\cure-forward\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/currency-cloud/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\currency-cloud\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/deutsche-post/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\deutsche-post\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/discovery-limited/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\discovery-limited\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/efficio/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\efficio\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/fluke/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\fluke\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/gogo/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\gogo\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/hotschedules/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\hotschedules\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/icabbi/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\icabbi\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/ktc/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\ktc\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/lebara/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\lebara\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/masmovil/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\masmovil\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/novell/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\novell\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/opentext/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\opentext\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/orbus-software/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\orbus-software\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/origin-enterprises/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\origin-enterprises\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/prettylittlething/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\prettylittlething\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/redflex/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\redflex\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/ringier/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\ringier\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/schibsted/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\schibsted\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/spotzer/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\spotzer\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/think-research/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\think-research\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/tunein/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\tunein\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/clients/vable/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\clients\vable\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/cloud-migration-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\cloud-migration-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/cloud-native-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\cloud-native-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/cloud-solutions/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\cloud-solutions\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/company-overview/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\company-overview\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/computer-vision-development-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\computer-vision-development-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/contacts/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\contacts\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/conversational-ai-use-cases/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\conversational-ai-use-cases\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/cookie-policy/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\cookie-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/corporate-responsibility-and-sustainability/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\corporate-responsibility-and-sustainability\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/custom-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\custom-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/customer-experience/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\customer-experience\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/cybersecurity-services-provider/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\cybersecurity-services-provider\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-analytics-partner/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-analytics-partner\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-analytics-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-analytics-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-analytics-strategy/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-analytics-strategy\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-driven-decision-making/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-driven-decision-making\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-governance-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-governance-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-lake-consulting/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-lake-consulting\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-mesh-all-you-need-to-know/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-mesh-all-you-need-to-know\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-migration-strategy-process/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-migration-strategy-process\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-science/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-science\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/data-warehouse-consulting/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\data-warehouse-consulting\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/dataops-case-studies-and-best-practices/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dataops-case-studies-and-best-practices\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/dedicated-development-team/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dedicated-development-team\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/devops-maturity-model/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\devops-maturity-model\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/devops-trends/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\devops-trends\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/devops/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\devops\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/digital-transformation/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\digital-transformation\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/dist/css/bundle.css?v=323036323731
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\css\bundle.css
+Content Type: text/css
+
+Uri: https://www.n-ix.com/dist/css/common.css?v=3336373734
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\css\common.css
+Content Type: text/css
+
+Uri: https://www.n-ix.com/dist/css/libs.css?v=3332363636
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\css\libs.css
+Content Type: text/css
+
+Uri: https://www.n-ix.com/dist/fonts/icomoon.eot
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.n-ix.com/dist/fonts/icomoon.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/fonts/icomoon.ttf
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.n-ix.com/dist/fonts/icomoon.woff
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://www.n-ix.com/dist/fonts/slick.eot
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.n-ix.com/dist/fonts/slick.eot?
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.n-ix.com/dist/fonts/slick.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/fonts/slick.ttf
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.n-ix.com/dist/fonts/slick.woff
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://www.n-ix.com/dist/images/20y-logo.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\20y-logo.webp
+Content Type: image/webp
+
+Uri: https://www.n-ix.com/dist/images/arrow-left.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\arrow-left.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/arrow-right.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\arrow-right.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/check-mark-big.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\check-mark-big.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/check-mark.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\check-mark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/flags.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\flags.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/flags@2x.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\flags@2x.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/footer-slider-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\footer-slider-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/form-error.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\form-error.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/form-success.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\form-success.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/gradient-bg.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\gradient-bg.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/icon-card-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icon-card-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-arrow-next.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-arrow-next.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-bracket-blue.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-bracket-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-bracket-green.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-bracket-green.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-bracket-orange.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-bracket-orange.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-bracket-purple.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-bracket-purple.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-bracket-red.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-bracket-red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-bracket-violet.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-bracket-violet.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-burger-close.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-burger-close.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-burger-open.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-burger-open.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-close.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-close.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-download.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-download.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-fire.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-fire.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-header-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-header-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-hide.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-hide.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-nav-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-nav-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-round-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-round-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/icon-white-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\icon-white-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/round-arrow-white.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\round-arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/round-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\round-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/icons/success.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\icons\success.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/ideation.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\ideation.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/list-tick.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\list-tick.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/load-tiny.gif
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\load-tiny.gif
+Content Type: image/gif
+
+Uri: https://www.n-ix.com/dist/images/load.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\load.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/map.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\map.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/mint-banner-background.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\mint-banner-background.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/office-map.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\office-map.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/orange-arrow-next.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\orange-arrow-next.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/orange-arrow.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\orange-arrow.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/orange-bullet.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\orange-bullet.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/play-button.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\play-button.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/prototyping.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\prototyping.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/quote.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\quote.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/quote.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\quote.webp
+Content Type: image/webp
+
+Uri: https://www.n-ix.com/dist/images/requirements.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\requirements.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/research.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\research.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/safety.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\safety.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/slider-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\slider-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/social/facebook.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\social\facebook.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/social/linkedin.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\social\linkedin.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/social/twitter.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\social\twitter.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/social/youtube.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\social\youtube.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/support.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\support.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/table-arrow.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\table-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/timeline-arrow-next.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\timeline-arrow-next.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/timeline-arrow-prev.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\timeline-arrow-prev.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/UI.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\UI.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/images/video-play-button.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\video-play-button.svg
+Content Type: image/svg+xml
+
+Uri: https://www.n-ix.com/dist/images/violet-banner-background.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\images\violet-banner-background.png
+Content Type: image/png
+
+Uri: https://www.n-ix.com/dist/js/bundle.js?v=3532303235
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\dist\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://www.n-ix.com/effective-knowledge-transfer-plan-move-it-outsourcing-new-vendor/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\effective-knowledge-transfer-plan-move-it-outsourcing-new-vendor\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/embedded-software/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\embedded-software\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/energy-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\energy-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/enterprise-mobility/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\enterprise-mobility\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/enterprise-virtual-reality-production/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\enterprise-virtual-reality-production\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/events/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\events\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/expertise/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\expertise\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/financial-services-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\financial-services-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/fintech-mobile-app-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\fintech-mobile-app-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/generative-ai-consulting/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\generative-ai-consulting\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/generative-ai-use-cases-and-applications/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\generative-ai-use-cases-and-applications\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/google-cloud-consulting-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\google-cloud-consulting-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/healthcare-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\healthcare-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/hire-vmware-engineers/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\hire-vmware-engineers\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/industries/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\industries\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/industry-recognition/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\industry-recognition\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/internet-of-things-solutions/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\internet-of-things-solutions\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/ios-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ios-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/it-outsourcing-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\it-outsourcing-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/it-project-management-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\it-project-management-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/logistics-supply-chain-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\logistics-supply-chain-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/machine-learning-ai/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\machine-learning-ai\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/manufacturing-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\manufacturing-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/mendix-development-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\mendix-development-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/mlops/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\mlops\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/mobile-app-development-competitive-advantage-telecom-market/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\mobile-app-development-competitive-advantage-telecom-market\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/mobile-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\mobile-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/crn-named-n-ix-to-2023-solution-provider-500-list/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\crn-named-n-ix-to-2023-solution-provider-500-list\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/get-ready-awsome-events-n-ix-becomes-aws-immersion-day-partner/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\get-ready-awsome-events-n-ix-becomes-aws-immersion-day-partner\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-achieves-amazon-dynamodb-designation/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-achieves-amazon-dynamodb-designation\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-achieves-aws-advanced-consulting-partner-status/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-achieves-aws-advanced-consulting-partner-status\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-achieves-aws-data-and-analytics-competency/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-achieves-aws-data-and-analytics-competency\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-achieves-aws-kinesis-designation/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-achieves-aws-kinesis-designation\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-amazon-rds-service-delivery-partner/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-amazon-rds-service-delivery-partner\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-becomes-aws-migration-competency-partner/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-becomes-aws-migration-competency-partner\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-issues-2021-2022-sustainability-report/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-issues-2021-2022-sustainability-report\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-receives-amazon-api-gateway-designation/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-receives-amazon-api-gateway-designation\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/news/n-ix-receives-aws-lambda-service-delivery-designation/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\news\n-ix-receives-aws-lambda-service-delivery-designation\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/offshore-development-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\offshore-development-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/opentext-consulting-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\opentext-consulting-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/our-people/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\our-people\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/partnership-ecosystem/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\partnership-ecosystem\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/pega-consulting-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\pega-consulting-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/privacy-policy/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/product-discovery-phase/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\product-discovery-phase\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/product-management-consulting-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\product-management-consulting-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/reduce-technical-debt/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\reduce-technical-debt\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/retail-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\retail-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/rise-agriculture-technology/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\rise-agriculture-technology\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/rpa-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\rpa-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/salesforce-development-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\salesforce-development-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/sap-consulting/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\sap-consulting\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/sap-on-aws/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\sap-on-aws\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/software-development-latin-america-market-report/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\software-development-latin-america-market-report\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/software-engineering-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\software-engineering-services\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/software-testing/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\software-testing\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/team-extension-bulgaria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\team-extension-bulgaria\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/team-extension-in-latin-america/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\team-extension-in-latin-america\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/team-extension-poland/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\team-extension-poland\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/team-extension-romania/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\team-extension-romania\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/team-extension/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\team-extension\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/technical-support/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\technical-support\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/technology-consulting/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\technology-consulting\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/telecom-software-development/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\telecom-software-development\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/terms-and-conditions/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\terms-and-conditions\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/ui-ux-design/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\ui-ux-design\index.htm
+Content Type: text/html
+
+Uri: https://www.n-ix.com/uipath-development-services/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\www.n-ix.com\uipath-development-services\index.htm
+Content Type: text/html
+

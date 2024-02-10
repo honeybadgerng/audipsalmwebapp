@@ -1,0 +1,1190 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="preload" as="font" href="../s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" href="../s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" href="../s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2" type="font/woff2" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap-grid.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap-reboot.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link rel="preload stylesheet" as="style" href="https://www.n-ix.com/dist/v2/css/bundle.css?v=3637333134">
+    <link rel="preload stylesheet" as="style" href="https://www.n-ix.com/dist/v2/css/common.css?v=3238313532">
+            <link rel="preload stylesheet" as="style" href="../gui/lib/chatbot.min.css">
+    
+        <style>@font-face{font-family:icomoon;src:url('../dist/fonts/icomoon.eot');src:url('../dist/fonts/icomoon.eot') format('embedded-opentype'),url('../dist/fonts/icomoon.ttf') format('truetype'),url('../dist/fonts/icomoon.woff') format('woff'),url('../dist/fonts/icomoon.svg') format('svg');font-weight:400;font-style:normal;font-display:swap}</style>
+
+    
+            <style> @font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(../s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2) format('woff2');unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;font-display: swap;src: url(../s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(../s/lato/v23/S6u9w4BMUTPHh6UVSwaPGR_p.woff2) format('woff2');unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 700;font-display: swap;src: url(../s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(../s/lato/v23/S6u9w4BMUTPHh50XSwaPGR_p.woff2) format('woff2');unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face {font-family: 'Lato';font-style: normal;font-weight: 900;font-display: swap;src: url(../s/lato/v23/S6u9w4BMUTPHh50XSwiPGQ.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style>
+    
+            <title>DataOps: Case studies, best practices, and more - N-iX</title>
+    <meta name="description" content="Take a look at some best practices, as well as DataOps case studies that can help you make use of your data. ">
+    <meta name="keywords" content="dataops case studies">
+    <link rel="canonical" href="index.htm">
+    <meta property="og:title" content="How DataOps can help you take full advantage of your data">
+    <meta property="og:description" content="Data is one of the most valuable assets of any modern organization. Interested in learning how DataOps can help you benefit from your data? Head over to our blog post">
+    <meta property="og:image" content="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/4e01f5c1-8a0f-4e6d-9959-d4c5b5c5f8ba.jpg">
+    <meta name="twitter:title" content="How DataOps can help you take full advantage of your data">
+    <meta name="twitter:description" content="Data is one of the most valuable assets of any modern organization. Interested in learning how DataOps can help you benefit from your data? Head over to our blog post">
+    <meta name="twitter:image" content="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/7c8ed1c4-c1ba-48c6-9cc5-b86d14335885.jpg">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.n-ix.com/dataops-case-studies-and-best-practices/">
+    <meta property="og:site_name" content="Software Development Company - N-iX">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@N_iX">
+
+                
+    </head>
+<body>
+
+    <header id="header" class="">
+    <div class="header-wrapper white">
+        <div class="container-fluid column">
+            <div class="header-nav header-nav-new">
+                <div class="navTrigger"></div>
+                <a href="../index.htm" class="logo mr-3 me-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="74" height="28">
+                        <g fill="none">
+                            <path d="M1 2.44222C1 1.89859 1.44908 1.47314 1.96907 1.47314H5.0181C5.56173 1.47314 6.41262 1.56769 6.93261 1.68587C6.93261 1.68587 7.73623 1.87495 8.3035 2.72585L15.5597 14.0002C15.8434 14.4493 16.3161 15.2056 16.5761 15.6547C16.5761 15.6547 18.0415 18.1365 19.3651 21.3509C18.6797 17.9237 18.5142 16.3165 18.5142 14.2602V2.44222C18.5142 1.89859 18.9633 1.47314 19.4833 1.47314H23.0287C23.5723 1.47314 23.9977 1.92223 23.9977 2.44222V26.0309C23.9977 26.5745 23.5487 26.9999 23.0287 26.9999H20.0033C19.4596 26.9999 18.6088 26.9054 18.0888 26.7872C18.0888 26.7872 17.2851 26.5981 16.7179 25.7472L9.46166 14.4729C9.17802 14.0238 8.70531 13.2675 8.44531 12.8184C8.44531 12.8184 6.97989 10.3366 5.65627 7.12213C6.29444 10.5493 6.50717 12.1566 6.50717 14.1656V26.0309C6.50717 26.5745 6.05809 26.9999 5.53809 26.9999H1.99271C1.44908 26.9999 1.02364 26.5508 1.02364 26.0309V2.44222H1Z" fill="#FF6900"></path>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M42.3393 9.48529C41.8193 9.48529 41.3702 9.91074 41.3702 10.4544V26.0304C41.3702 26.5504 41.7957 26.9995 42.3393 26.9995H45.8847C46.4047 26.9995 46.8538 26.5741 46.8538 26.0304V10.4544C46.8538 9.93437 46.4283 9.48529 45.8847 9.48529H42.3393ZM44.112 6.48353C45.6247 6.48353 46.8538 5.25446 46.8538 3.74177C46.8538 2.22907 45.6247 1 44.112 1C42.5993 1 41.3702 2.22907 41.3702 3.74177C41.3702 5.25446 42.5993 6.48353 44.112 6.48353ZM28.1817 14.1179C27.6617 14.1179 27.2126 14.5434 27.2126 15.087V17.5688C27.2126 18.0888 27.6381 18.5378 28.1817 18.5378H37.4234C37.9434 18.5378 38.3924 18.1124 38.3924 17.5688V15.087C38.3924 14.567 37.967 14.1179 37.4234 14.1179H28.1817ZM48.437 26.9996C50.257 23.7851 52.9042 19.4833 55.2678 15.938L55.7878 15.1343C56.0006 14.8232 56.2135 14.4894 56.3557 14.2665C56.4187 14.1677 56.4678 14.0907 56.4969 14.0471C56.5914 13.8816 56.5914 13.6216 56.4969 13.4798C56.4239 13.3521 56.2102 13.0415 55.9752 12.7L55.9749 12.6995C55.9055 12.5986 55.8342 12.495 55.7641 12.3926C55.7641 12.3926 54.4642 10.4781 53.7787 9.41444C52.5969 7.61811 51.0606 5.15998 50.2806 3.7891L49.8079 2.96184C49.5479 2.48912 49.2406 1.96913 49.1225 1.80368C49.0043 1.63823 49.3588 1.47278 49.9024 1.47278H54.9605C55.5042 1.47278 56.0241 1.61459 56.1187 1.80368C56.1651 1.89659 56.263 2.0751 56.3785 2.28592C56.4981 2.50417 56.6366 2.75705 56.7569 2.98548C56.7569 2.98548 59.3095 6.93267 61.3895 9.95807C61.9506 10.773 63.0856 12.2827 64.0177 13.5225L64.0178 13.5225C64.7347 14.4761 65.3316 15.27 65.4549 15.4652C65.4549 15.4652 68.2203 19.2943 69.6621 21.5869C70.112 22.3253 70.5844 23.0185 71.0299 23.6723L71.03 23.6725C71.4972 24.358 71.9348 25.0001 72.2856 25.605C72.5275 26.0008 72.6875 26.2738 73.0321 26.8617L73.0327 26.8626L73.1129 26.9996H66.9676C66.4239 26.9996 65.7858 26.6214 65.5494 26.1487C65.5494 26.1487 64.6512 24.4469 63.564 22.5324L63.2284 21.9374C62.1061 19.9471 61.5056 18.8822 60.4913 17.2852L60.3022 17.5925C60.193 17.7745 60.0627 17.9987 59.9276 18.2312C59.7119 18.6022 59.4839 18.9945 59.3095 19.2706C59.3095 19.2706 56.6623 23.856 55.3623 26.2905C55.1732 26.6923 54.5587 26.9996 54.0387 26.9996H48.437ZM65.8332 2.13442C64.2969 4.94709 62.2169 8.4452 62.2169 8.4452L65.5023 12.7706L66.5896 10.9979L71.7186 2.93804C71.8524 2.7261 71.9915 2.4931 72.1136 2.28874C72.2501 2.06007 72.3652 1.86725 72.4276 1.77988C72.5222 1.59079 72.1913 1.44897 71.6476 1.44897H67.1568C66.6368 1.44897 66.0223 1.75624 65.8332 2.13442Z" fill="#54565A"></path>
+                        </g>
+                    </svg>
+                </a>
+                <nav class="new-menu nav ms-auto me-4 ml-auto mr-4">
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block toggled text-small text-uppercase" href="../expertise/index.htm">What we do <span class="d-none d-xl-inline icon arrow"></span></a>
+                        </div>
+                        <div class="hidden-menu services-intro">
+                            <div class="gray-background d-xl-block d-none">
+                            </div>
+                            <div class="container-fluid column">
+                                <div class="row">
+                                    <div class="col-xl-3 pt-xl-1 px-0 px-xl-3 services-list-wrapper">
+                                        <ul class="services-list">
+                                                                                            <li>
+                                                    <a href="../technology-consulting/index.htm">Technology consulting</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../digital-transformation/index.htm">Digital Transformation</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../custom-software-development/index.htm">Custom Solution Development</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../team-extension/index.htm">Team Extension</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                    <div class="col-xl-9 service-intro">
+                                        <div class="row services-nav justify-content-between">
+                                            <div class="col-xl-12 px-4 px-xl-3">
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                                                                                    <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../software-engineering-services/index.htm">
+                                                                            <div class="h3">Software engineering</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../software-testing/index.htm">Software QA &amp; Testing</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../mobile-development/index.htm">Mobile App development</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../ui-ux-design/index.htm">UI/UX</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../it-project-management-services/index.htm">Project Management</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../data-analytics-services/index.htm">
+                                                                            <div class="h3">Data Analytics</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../big-data/index.htm">Big Data</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../data-warehouse-consulting/index.htm">Data Warehouse Consulting</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../data-governance-services/index.htm">Data Governance</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../business-intelligence/index.htm">Business Intelligence</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../ai-ml-data-science/index.htm">
+                                                                            <div class="h3">AI, ML &amp; Data Science</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../data-science/index.htm">Data Science</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../machine-learning-ai/index.htm">AI &amp; Machine Learning</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../generative-ai-consulting/index.htm">Generative AI Consulting</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../mlops/index.htm">MLOps</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                        </div>
+                                                                                                    <div class="row px-1 px-xl-0 ">
+                                                                                                                                                                                    <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../cloud-solutions/index.htm">
+                                                                            <div class="h3">Cloud Solutions</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../cloud-migration-services/index.htm">Cloud Migration</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../devops/index.htm">DevOps</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../aws-development-services/index.htm">AWS</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../azure-consulting-services/index.htm">Azure</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="col-xl-4 pe-xl-0 pr-xl-0 main-item-wrapper">
+                                                                    <div class="main-item toggled">
+                                                                        <a href="../rpa-services/index.htm">
+                                                                            <div class="h3">Enterprise Platforms &amp; RPA</div>
+                                                                        </a>
+                                                                    </div>
+                                                                                                                                            <div class="header-title-subitems">
+                                                                            <ul class="rounded-bullet">
+                                                                                                                                                                    <li>
+                                                                                        <a href="../sap-consulting/index.htm">SAP</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../opentext-consulting-services/index.htm">OpenText</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../mendix-development-services/index.htm">Mendix</a>
+                                                                                    </li>
+                                                                                                                                                                    <li>
+                                                                                        <a href="../uipath-development-services/index.htm">UiPath</a>
+                                                                                    </li>
+                                                                                                                                                            </ul>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="col-xl-4 main-item-wrapper">
+                                                                                                                                            <div class="main-item ">
+                                                                            <a href="../cybersecurity-services-provider/index.htm">
+                                                                                <div class="h3">Cybersecurity</div>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                            <div class="main-item mt-xl-4 pt-xl-1">
+                                                                            <a href="../internet-of-things-solutions/index.htm">
+                                                                                <div class="h3">Embedded Software &amp; IoT</div>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                            <div class="main-item mt-xl-4 pt-xl-1">
+                                                                            <a href="https://gamestudio.n-ix.com/">
+                                                                                <div class="h3">Game Development &amp; VR Studio</div>
+                                                                            </a>
+                                                                        </div>
+                                                                                                                                    </div>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block text-small toggled text-uppercase" href="../industries/index.htm">Industries <span class="d-none d-xl-inline icon arrow"></span></a>
+                        </div>
+                        <div class="hidden-menu expertise-intro">
+                            <div class="gray-background d-xl-block d-none">
+                            </div>
+                            <div class="container-fluid column">
+                                <div class="row">
+                                    <div class="col-xl-3 d-none d-xl-block">
+                                        <div class="article-preview col-8 ps-0 pl-0">
+                                            <a href="../conversational-ai-use-cases/index.htm">
+                                                <div class="article-img cover" style="background-image: url('../uploads/2023/09/20/8bf6b3d2-2474-4322-b93a-9c8415b61a2c.webp')"></div>
+                                                <p>5 conversational AI use cases that are reshaping industries</p>
+                                            </a>
+                                            <a href="../blog/index.htm" class="link-list">Featured insights</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-9 service-intro">
+                                        <div class="row px-1 px-xl-0 services-nav">
+                                            <div class="col-xl-12 px-4 px-xl-3">
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../financial-services-software-development/index.htm">
+                                                                        <div class="h3">Finance</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../manufacturing-software-development/index.htm">
+                                                                        <div class="h3">Manufacturing</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../logistics-supply-chain-software-development/index.htm">
+                                                                        <div class="h3">Logistics &amp; Supply Chain</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../retail-software-development/index.htm">
+                                                                        <div class="h3">Retail</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../telecom-software-development/index.htm">
+                                                                        <div class="h3">Telecom</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../automotive-software-development/index.htm">
+                                                                        <div class="h3">Automotive</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                                    <div class="row px-1 px-xl-0 ">
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../healthcare-software-development/index.htm">
+                                                                        <div class="h3">Healthcare</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../energy-software-development/index.htm">
+                                                                        <div class="h3">Energy &amp; Utilities</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-4 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../agritech-software-development/index.htm">
+                                                                        <div class="h3">Agritech</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block text-small text-uppercase toggled" href="../company-overview/index.htm">About us
+                                <span class="d-none d-xl-inline icon arrow"></span></a>
+                        </div>
+                        <div class="hidden-menu about-intro">
+                            <div class="gray-background d-xl-block d-none">
+                            </div>
+                            <div class="container-fluid column">
+                                <div class="row">
+                                    <div class="col-xl-3 d-none d-xl-block">
+                                        <div class="article-preview col-8 ps-0 pl-0">
+                                            <a href="../news/n-ix-issues-2021-2022-sustainability-report/index.htm">
+                                                <div class="article-img cover" style="background-image: url('../uploads/2022/09/26/66a6d098-f524-4e76-a12f-64335db5a097.jpg')"></div>
+                                                <p>N-iX issues 2021-2022 Sustainability Report</p>
+                                            </a>
+                                            <a href="../news/index.htm" class="link-list">Company news</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 service-intro">
+                                        <div class="row px-1 px-xl-0 services-nav justify-content-between">
+                                            <div class="col-xl-12 px-4 px-xl-3">
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../company-overview/index.htm">
+                                                                        <div class="h3">Company Overview</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../partnership-ecosystem/index.htm">
+                                                                        <div class="h3">Partnerships</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                                    <div class="row px-1 px-xl-0 pb-xl-5">
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../our-people/index.htm">
+                                                                        <div class="h3">Leadership Team</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../clients/index.htm">
+                                                                        <div class="h3">Clients</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                                    <div class="row px-1 px-xl-0 ">
+                                                                                                                    <div class="col-xl-6 pe-1 pr-1 main-item-wrapper">
+                                                                <div class="main-item">
+                                                                    <a href="../industry-recognition/index.htm">
+                                                                        <div class="h3">Industry Recognition</div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                                                                            </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-3 px-0 px-xl-3 position-relative services-list-wrapper">
+                                        <ul class="services-list">
+                                                                                            <li>
+                                                    <a href="../news/index.htm">News</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../events/index.htm">Events</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="../corporate-responsibility-and-sustainability/index.htm">Sustainability</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://careers.n-ix.com/">Careers</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block text-small text-uppercase" href="../case-study/index.htm">
+                                SUCCESS STORIES
+                            </a>
+                        </div>
+                    </div>
+                    <div class="nav-item">
+                        <div class="nav-link-wrapper">
+                            <a class="nav-link d-block text-small text-uppercase" href="../blog/index.htm">
+                                Insights
+                            </a>
+                        </div>
+                    </div>
+                    <div class="underline"></div>
+                </nav>
+                <a href="../contacts/index.htm" class="nix-btn primary">
+                    Contact Us
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="header-menu-overlay-new"></div>
+
+
+        <nav aria-label="breadcrumb" class="d-block header-breadcrumb ">
+        <div class="container-fluid column">
+            <ol class="breadcrumb bg-transparent px-0 mb-0 text-white" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                                    <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="../index.htm" class="text-white" itemprop="item">
+                            <span itemprop="name">  Home </span>
+                            <meta itemprop="position" content="1">
+                        </a>
+                    </li>
+                                    <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="../blog/index.htm" class="text-white" itemprop="item">
+                            <span itemprop="name">  N-iX insights </span>
+                            <meta itemprop="position" content="2">
+                        </a>
+                    </li>
+                                    <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="index.htm" class="text-white" itemprop="item">
+                            <span itemprop="name">  DataOps case studies and best practices to help you make use of your data  </span>
+                            <meta itemprop="position" content="3">
+                        </a>
+                    </li>
+                            </ol>
+        </div>
+    </nav>
+
+    <div id="blog-navigation-mobile" class="bg-grey category-dropdown-container d-lg-none">
+    <div class="dropdown-container">
+        <div class="filter-dropdown">
+            <div class="dropbtn mobile" tabindex="0">Table of contents</div>
+            <div class="dropdown-content">
+            </div>
+        </div>
+    </div>
+    <div class="progress-bar mobile"></div>
+
+</div>
+    <div class="progress-bar"></div>
+
+                                                                                                                                    <section class="header-banner d-flex">
+        <div class="banner-img ">
+                            <img src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/08c8d440-3041-4f5c-876d-6cfb00a9910c.jpg" srcset="https://src.n-ix.com/uploads/2021/10/21/3758d140-3a5b-48e5-8c0b-ea37994be2f7.jpg,https://src.n-ix.com/uploads/2021/10/21/e7c5562f-cf94-4d2b-b318-3aad0660efe7.jpg,https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/08c8d440-3041-4f5c-876d-6cfb00a9910c.jpg" alt="" title="" sizes="(max-width: 600px) 480px, (max-width: 992px) 800px, 1200px">
+                <noscript>
+                    <img src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/08c8d440-3041-4f5c-876d-6cfb00a9910c.jpg" srcset="https://src.n-ix.com/uploads/2021/10/21/3758d140-3a5b-48e5-8c0b-ea37994be2f7.jpg,https://src.n-ix.com/uploads/2021/10/21/e7c5562f-cf94-4d2b-b318-3aad0660efe7.jpg,https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/08c8d440-3041-4f5c-876d-6cfb00a9910c.jpg" alt="" title="" sizes="(max-width: 600px) 480px, (max-width: 992px) 800px, 1200px">
+                </noscript>
+                    </div>
+
+            </section>
+
+
+
+        
+<script type="application/ld+json">
+    {
+        "@context":"https://schema.org",
+        "@type":"Article",
+        "headline":"DataOps case studies and best practices to help you make use of your data ",
+        "datePublished":"2021-10-19T11:03:52+00:00",
+        "dateModified":"2021-10-19T19:47:54+00:00",
+        "mainEntityOfPage":{
+            "@type": "WebPage",
+            "@id":"https://www.n-ix.com/dataops-case-studies-and-best-practices/"
+        },
+        "publisher":{
+            "@type": "Organization",
+            "@id":"https://www.n-ix.com/"
+        },
+        "image":{
+            "@type": "ImageObject",
+            "url":"https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/08c8d440-3041-4f5c-876d-6cfb00a9910c.jpg"
+        },
+        "thumbnailUrl":"https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/08c8d440-3041-4f5c-876d-6cfb00a9910c.jpg",
+        "author":{
+            "@type":"Person",
+            "name":"Iryna Boliubakh"
+        },
+        "keywords":[    
+            "dataops case studies"
+    ]
+     }
+
+</script>
+
+<script type="application/ld+json">
+    {
+        "@context":"https://schema.org",
+        "@type":"WebPage",
+        "@id":"https://www.n-ix.com/dataops-case-studies-and-best-practices/",
+        "url":"https://www.n-ix.com/dataops-case-studies-and-best-practices/",
+        "name":"DataOps case studies and best practices to help you make use of your data ",
+        "primaryImageOfPage":{
+            "@id":"https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/08c8d440-3041-4f5c-876d-6cfb00a9910c.jpg#primaryimage"
+        },
+        "image":{
+            "@id":"https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/08c8d440-3041-4f5c-876d-6cfb00a9910c.jpg#primaryimage"
+        },
+        "thumbnailUrl":"https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/6c4e8ee6-60c3-4fbe-b0b7-c946848ce655.jpg",
+        "datePublished":"2021-10-19T11:03:52+00:00",
+        "dateModified":"2021-10-19T19:47:54+00:00",
+        "description":"Take a look at some best practices, as well as DataOps case studies that can help you make use of your data. "
+    }
+</script>
+        <section class="article-info-wrapper">
+    <div class="container-fluid column">
+        <div class="text-grey article-info">
+            By
+                            
+                                                                                Iryna Boliubakh, Technical Writing Competence Lead
+                                                
+            <span class="text-primary px-3">&#8226;</span>
+                            October 19, 2021
+                                        <span class="text-primary px-3">&#8226;</span> 9 min read
+                        <h1>DataOps case studies and best practices to help you make use of your data </h1>
+            <span class="article-info-decor"></span>
+        </div>
+    </div>
+</section>
+
+        <section class="section-pd">
+            <div class="container-fluid position-relative article-content-container column">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div>
+                            <article itemscope="" itemtype="https://schema.org/Article" class="nix-article">
+                                                                                                    
+                                
+                                <p>The benefits of DataOps implementation are one of the main drivers of the fast-growing enterprise data management market. It is expected to grow <strong>from $9B in 2020 to $122.9B in 2025</strong>, according to Reportlinker. Poor data quality, lack of experts, and the inability to scale Big Data activities cause many&nbsp; data projects to fail.</p>
+
+<p>How can DataOps methodology help you overcome these challenges and succeed with your <a href="../big-data/index.htm">Big Data</a> project? And what is the right way to implement such a project? Let&rsquo;s use one of N-iX&#39;s DataOps case studies as a real-life example, and find out.</p>
+
+<h2 itemprop="alternativeHeadline">DataOps as a key enabler of your data transformation journey</h2>
+
+<p>Data is probably one of the most important assets any organization has nowadays. However, even though most companies collect tons of data, many struggle to make proper use of it. This is usually caused by having to deal with vast amounts of raw data and lacking the appropriate tools to clean, structure, and apply it.</p>
+
+<p>This is where DataOps services come in. It provides the necessary practices and methodologies that automate and streamline data flows within an organization. As a result, you get access to relevant data that you can apply in a variety of ways, from improving the services that you provide to increasing the efficiency of internal business processes.&nbsp;</p>
+
+<p><img alt="A DataOps process" src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/00daf6b4-77e9-46a1-b5f7-1b3727a7fde8.jpg"></p>
+
+<h2 itemprop="alternativeHeadline">DataOps case studies: A success story of global in-flight connectivity provider</h2>
+
+<p><a href="../case-study/development-big-data-platform-gogo-inflight-internet-provider/index.htm">Gogo</a>&nbsp;is one of the world&rsquo;s leading in-flight connectivity and entertainment providers with 16 commercial airline clients.&nbsp;</p>
+
+<h3>The challenge: vast amounts of unstructured data</h3>
+
+<p>Gogo&rsquo;s connectivity equipment is installed aboard over 2,900 commercial aircraft. This equipment constantly provides data that the company uses to monitor and analyze the quality of services they provide.&nbsp;</p>
+
+<p>Unfortunately, the sheer amount of data and the fact that it was received from different sources made analysis quite inefficient. In some cases, even impossible.&nbsp;</p>
+
+<p>Furthermore, Gogo often received no-fault-found (NFF) equipment maintenance requests that led to significant losses in both time and costs. Without structured and consistent data, the company was unable to prove their hypothesis of what caused such requests.&nbsp;</p>
+
+<p><strong>Main takeaway.</strong> If your company collects vast amounts of data on a daily basis, you need powerful analytical tools to properly refine and utilize it.&nbsp;</p>
+
+<h3>The solution: a single unified DataOps platform</h3>
+
+<p>The DataOps journey of Gogo began back in 2017 when they approached N-iX to expand their capabilities for data development and support.&nbsp;</p>
+
+<p>N-iX engineers provided the DataOps services to build a single unified cloud-based platform that collects and stores all data obtained from Gogo&rsquo;s equipment. To achieve this, the team created an end-to-end delivery pipeline that orchestrated the full cycle of data analysis, from receiving equipment logs to analyzing, processing and storing the data in a cloud-based <a href="https://www.n-ix.com/data-lake-vs-data-warehouse/">data lake</a>.&nbsp;</p>
+
+<p>Furthermore, the platform allowed N-iX engineers to apply Data Science and Machine Learning algorithms to create models for monitoring and predicting equipment malfunctions.</p>
+
+<p><strong>Main takeaway.</strong> DataOps services&nbsp;improve the structure of data flow within an organization and provide the capabilities necessary to effectively analyze and interpret data.&nbsp;</p>
+
+<h3>The benefit: saved costs and better-quality service</h3>
+
+<p>DataOps implementation provided Gogo with several significant tangible benefits. Firstly, the company can monitor and analyze their equipment more effectively. Access to comprehensive data from each installed piece of equipment allows Gogo to find patterns in its performance. As a result, the company can easily discover gaps and improve the overall quality of their services (speed, connection quality, etc.), making them even more appealing to customers.&nbsp;</p>
+
+<p>Secondly, Gogo was able to greatly decrease their operational expenses. The improved quality of connectivity services reduced the number of penalties for ill-performing equipment that the company had to pay to the airlines.&nbsp;</p>
+
+<p>Finally, the DataOps solution enabled Gogo to apply such advanced technologies as <a href="../machine-learning-ai/index.htm">Machine Learning and AI</a>. This boosted their analytical capabilities even further and allowed the company to discover and predict the causes of equipment malfunctions. This also led to a significant reduction in maintenance costs that were spent on handling no-fault-found requests.&nbsp;</p>
+
+<p><strong>Main takeaway.</strong> DataOps implementation streamlines data analysis and makes it more effective. It can help you find gaps and improve the services that you provide. This, in turn, can have many benefits, from more loyal customers to an expanded market reach and saved costs.</p>
+
+<p><img alt="DataOps enables effective data transformation" src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/ee9074db-0deb-4319-bd99-e1c5decf0f1f.jpg"></p>
+
+<h2 itemprop="alternativeHeadline">How to succeed in DataOps implementation</h2>
+
+<p>One of the key aspects that put Gogo in the list of successful DataOps case studies was a solid foundation that the company had prepared before starting the development. Preparation for implementing and taking advantage of the benefits of DataOps in your organization can be divided into three main components.</p>
+
+<h3>Understand the architecture of your data flow</h3>
+
+<p>If you are considering starting a DataOps project, it means that your business already has certain data pipeline architecture in place. To make full use of it, you must have a clear understanding of which data is collected, where it is coming from, where it is stored, and what happens to it afterward. Only then you can apply the DataOps methodologies to streamline and improve this process.</p>
+
+<p>This task may prove to be challenging for many organizations. However, you can always find a reliable tech partner that will support you along the way. Consulting and <a href="../product-discovery-phase/index.htm">Discovery Phases</a> are particularly useful in such cases.&nbsp;</p>
+
+<p><img alt="Data flow architecture example" src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/a1bf1451-ebb6-4f7e-8fdf-769bb1268ac1.jpg"></p>
+
+<h3>Clearly define end-goals</h3>
+
+<p>Data analysis for the sake of data analysis will not yield any substantial results. Before starting the DataOps project (or any project, for that matter), it is crucial to establish clear end goals that you are trying to achieve.</p>
+
+<p>In the case of DataOps, this not only means knowing how to apply the results of your data analysis. You also have to be aware of how these results were found, and which results to expect.&nbsp;</p>
+
+<h3>Build a dedicated data engineering team</h3>
+
+<p>Any Big Data project requires a <a href="../dedicated-development-team/index.htm">dedicated team</a> of experts who would oversee it. It is crucial not to cut corners when it comes to forming your data engineering team. Providing it with enough capacity will prove to be invaluable for the success of your DataOps project.</p>
+
+<p>Moreover, you have to make sure that the team covers all roles and responsibilities that the project requires. This includes data architects, business analysts, test engineers, etc.</p>
+
+<h2 itemprop="alternativeHeadline">Top 5 DataOps&nbsp;best practices for successful implementation</h2>
+
+<p>Years of experience with Big Data helped us find several DataOps best practices that significantly improve the chances of successful delivery of such projects. Let&rsquo;s take a closer look.</p>
+
+<h3>1. Single Source of Truth (SSOT) for data</h3>
+
+<p>When data is received from multiple sources, it becomes unstructured and disjointed. Not only does this make analysis problematic, even accessing the necessary data becomes a challenge.</p>
+
+<p>Therefore, it is highly recommended to establish a unified environment (also known as a Single Source of Truth - SSOT) where all data will be collected. In addition to making data access easier, this will also ensure that everyone within your organization uses the same data - something equally as important.&nbsp;</p>
+
+<p><img alt="Data distribution with and without SSOT" src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/21/453c7a35-3a28-48f0-b643-73c8e7a19f56.jpg"></p>
+
+<h3>2. Clear responsibility and response definition</h3>
+
+<p>Next on the list of DataOps best practices is clear allocation and documentation of&nbsp;all project roles and activities. These include but are not limited to:</p>
+
+<ul>
+	<li>What the responsibilities of each DataOps team member are</li>
+	<li>Which types of data are used for analysis</li>
+	<li>How quickly and frequently the data should be analyzed</li>
+	<li>Which data has more priority and should be analyzed first</li>
+	<li>How to respond to bigger or lower amounts of data</li>
+	<li>What to do if no data is received</li>
+</ul>
+
+<p>This will ensure that the process of applying the DataOps methodology stays efficient even under unforeseen circumstances.&nbsp;</p>
+
+<h3>3. Effective communication between the team and project stakeholders</h3>
+
+<p>To be truly effective, your DataOps team must be fully aware of what they are working towards, i.e. project end-goals. Effective communication and feedback from the stakeholders are some of the best ways of achieving this. Planning discussions, knowledge-sharing sessions, and update reports can go a long way. If you are working with an outsourced team, business trips can also be quite useful. However, in times of the pandemic, they became less relevant.&nbsp;</p>
+
+<p>We would like to draw particular attention to story mapping workshops, which are especially&nbsp;useful. These are meetings where project stakeholders share more insight and provide context for the entire engineering team about the upcoming development plans. These workshops can be organized by not only the stakeholders but the engineering team as well. In fact, such cases should be encouraged, as they show the team&rsquo;s investment in your project.</p>
+
+<h3>4. Proper use of automation</h3>
+
+<p>Analyzing vast amounts of data involves many repetitive resource-intensive tasks. Clever use of automation in the DataOps strategy will free up your resources and bring about many benefits. These are as follows:</p>
+
+<ul>
+	<li>Saved time and costs;</li>
+	<li>Increased efficiency and speed of data analysis;</li>
+	<li>Fewer errors caused by the human factor;</li>
+	<li>Better data security and protection.</li>
+</ul>
+
+<p>It is important to remember that automation may be a tricky process in itself and requires careful planning. Here are a few tips to keep in mind that will help with implementing it correctly.&nbsp;</p>
+
+<ul>
+	<li>Prioritize automating tasks that require the least skill and the most time to complete;</li>
+	<li>Do not try to automate everything, as it can lead to lower productivity;</li>
+	<li>Put high emphasis on flexibility with a clever combination of open-source and third-party technologies;</li>
+	<li>Make a long-term plan with clear end goals for your automation projects.</li>
+</ul>
+
+<h3>5. Knowledge retention</h3>
+
+<p>Becoming one of the successful DataOps case studies&nbsp;takes time. Naturally, over the course of development, they accumulate a lot of information (feature development plans, technological decisions, knowledge sharing notes, etc.). It is crucial not to lose this information and keep it organized since you might have to refer to it later.</p>
+
+<p>Therefore, it is highly recommended that your engineering team keeps up-to-date documentation about their development activities. It does not have to be extremely comprehensive since creating such documentation would take up much of your team&rsquo;s time. As long as it is clear and informative, even a bare minimum will suffice.</p>
+
+<p><a href="../contacts/index.htm" target=""><img alt="Start your data transformation" src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2021/10/08/16987144-3ad2-4dba-a69d-e85b4dd029fb.png"></a></p>
+
+<h2 itemprop="alternativeHeadline">How N-iX DataOps services can help you make the best use of your data</h2>
+
+<ul>
+	<li>N-iX has vast experience in providing Big Data&nbsp;services with many successful DataOps case studies of large enterprises, including <a href="../clients/gogo/index.htm">Gogo</a> and a global MVNO <a href="../clients/lebara/index.htm">Lebara</a>;</li>
+	<li>N-iX engineers have extensive expertise in some of the most popular Big Data technologies, including Hadoop and Apache Spark;</li>
+	<li>We make sure that your data is always protected by complying with PCI DSS, ISO 9001, ISO 27001, and GDPR standards;</li>
+	<li>Our company is a recognized and trusted name in the tech market, being included in various top software developer lists on platforms such as Clutch.co, GoodFirms.co, and others.</li>
+</ul>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 form-container">
+                        <div class="bg-grey ask-expert-form">
+    <h4 class="font-weight-normal">
+        Have a question?
+    </h4>
+    <span class="more show-form">
+        Speak to an expert
+    </span>
+    
+
+    <form id="mainForm" action="/contacts/process" method="post" data-type="contact-page">
+
+        <div class="form-group">
+            <label for="fullNameInput">Full name<span class="color-orange">*</span></label>
+            <input name="your-info" type="text" class="form-control fieldToSave fullNameInput" data-storage="fullNameInput" id="fullNameInput" maxlength="250">
+            <input type="hidden" name="name" value="">
+            <div class="name-error-message"></div>
+        </div>
+
+        <div class="form-group position-relative">
+            <label for="emailInput">Business Email<span class="color-orange">*</span></label>
+            <input name="sender" type="text" class="form-control fieldToSave emailInput" data-storage="emailInput" id="emailInput" maxlength="250" required="">
+            <input type="hidden" name="email" value="">
+            <div class="email-error-message"></div>
+        </div>
+
+        <input type="hidden" id="phoneCode">
+
+        <div class="form-group mb-1 pb-3">
+            <label for="tellUsTextarea">Message<span class="color-orange">*</span></label>
+            <textarea name="info" class="form-control fieldToSave" data-storage="tellUsTextarea" id="tellUsTextarea" rows="6"></textarea>
+            <input type="hidden" name="message" value="">
+            <div class="hello-error-message"></div>
+        </div>
+
+        <p class="text-right">Required fields<span class="color-orange">*</span></p>
+
+        <div class="d-block">
+
+            <div id="privacyPolicyCheckContainer" class="pb-3 mt-3 mb-1">
+                <div class="form-check">
+                    <input id="privacyCheck" type="checkbox" class="form-check-input" required="">
+                    <label class="form-check-label" for="privacyCheck">
+                        I have read and accepted N-iX
+                        <a href="../privacy-policy/index.htm" target="_blank">Privacy Policy<span class="color-orange">*</span></a>
+                    </label>
+                </div>
+                <div class="privacy-error-message"></div>
+            </div>
+
+            <button type="submit" class="nix-btn primary mr-md-3 order-md-1 submitButton">
+                Send Message
+            </button>
+        </div>
+
+        <div class="responseMessageContainer"></div>
+    </form>
+</div>
+                        <div id="blog-navigation" class="blog-nav-wrapper bg-grey">
+    <h3 class="mb-4 pb-1">Table of contents</h3>
+    <div class="blog-navigation-container">
+
+    </div>
+</div>
+                        
+<div class="bg-grey all-related-container">
+    <h4 class="text-left mb-1">
+        Related Expertise and Services
+    </h4>
+                    <div class="related-item">
+            <h6 class="category"> Expertise </h6>
+            <a href="../data-science/index.htm" class="related-link">
+                <h3 class="title"> Data Science </h3>
+            </a>
+            <a href="../data-science/index.htm" class="related-link">
+                <p class="description">  N-iX delivers Data Science as a Service (DSaaS) and develops complex [...] </p>
+            </a>
+        </div>
+                    <div class="related-item">
+            <h6 class="category"> Expertise </h6>
+            <a href="../big-data/index.htm" class="related-link">
+                <h3 class="title"> Big Data </h3>
+            </a>
+            <a href="../big-data/index.htm" class="related-link">
+                <p class="description">  N-iX big data developers and analysts help enterprises unlock the power of [...] </p>
+            </a>
+        </div>
+                    <div class="related-item">
+            <h6 class="category"> Expertise </h6>
+            <a href="../data-analytics-partner/index.htm" class="related-link">
+                <h3 class="title"> Data Analytics </h3>
+            </a>
+            <a href="../data-analytics-partner/index.htm" class="related-link">
+                <p class="description">  Be ahead of the game with an effective data management strategy, [...] </p>
+            </a>
+        </div>
+    </div>
+                                           </div>
+                </div>
+                <hr class="hr">
+                    <div class="article-tags">
+                    <span class="article-tag-utility-item">Business and technology</span>
+            </div>
+                <div class="fixed-social-container">
+                   <!-- AddToAny BEGIN -->
+<div class="social-list">
+    <div class="mb-1 preview">
+        <b class="text-small text-grey">
+            Share:
+        </b>
+    </div>
+    <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="transparent,#fff">
+        <div class="icon linkedin"><a class="a2a_button_linkedin"></a></div>
+        <div class="icon facebook"><a class="a2a_button_facebook"></a></div>
+        <div class="icon x"><a class="a2a_button_x"></a></div>
+    </div>
+</div>
+<script src="https://static.addtoany.com/menu/page.js" async=""></script>
+<!-- AddToAny END -->
+
+                </div>
+            </div>
+            <a href="" id="back-to-top"></a>
+                    </section>
+
+               <section class="section-pd pt-0 related-articles-slider">
+            <div class="container-fluid column">
+                <div class="text-center">
+                    <h2 class="title text-center mb-4 pb-md-3 mb-md-5">
+    Related Articles
+
+    </h2>
+                </div>
+                <section class="section-pd pt-0">
+    <div class="article-list">
+        <div class="row grid-gap">
+                            <div class="col-md-6 col-lg-4">
+                    <article class="nix-card-blog">
+    <div class="banner">
+        <a href="https://www.n-ix.com/top-big-data-companies-europe/" class="wrapper">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/08/27/0b9bd0de-230a-4c2a-a873-bff429fca3fc.png" alt="">
+            <noscript>
+                <img src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/08/27/0b9bd0de-230a-4c2a-a873-bff429fca3fc.png" alt="">
+            </noscript>
+        </a>
+    </div>
+    <div class="content">
+        <a href="https://www.n-ix.com/top-big-data-companies-europe/" class="wrapper">
+            <div class="d-flex align-items-center text-grey mb-3">
+                                    <div class="text-tiny text-uppercase">
+                        10 May 2023
+                    </div>
+                                            </div>
+            <div class="h4 font-weight-bold">
+                The best Big Data companies in Europe
+            </div>
+            <div class="text text-small description">
+                According to Accenture, data-driven organizations generate more significant annual growth as opposed to those that don&rsquo;t use data-based insights. However, it is not that simple to integrate a da...
+            </div>
+        </a>
+    </div>
+    <div class="tags">
+        
+            </div>
+    <a rel="nofollow" href="https://www.n-ix.com/top-big-data-companies-europe/" class="wrapper">
+        <p class="text-tiny text-grey bottom-text">READ MORE</p>
+    </a>
+</article>
+                </div>
+                            <div class="col-md-6 col-lg-4">
+                    <article class="nix-card-blog">
+    <div class="banner">
+        <a href="https://www.n-ix.com/rise-data-science-aviation-unlock-hidden-value/" class="wrapper">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/14/0c673a8e-e598-4f80-b482-2e4bdd7e4178.jpg" alt="">
+            <noscript>
+                <img src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/14/0c673a8e-e598-4f80-b482-2e4bdd7e4178.jpg" alt="">
+            </noscript>
+        </a>
+    </div>
+    <div class="content">
+        <a href="https://www.n-ix.com/rise-data-science-aviation-unlock-hidden-value/" class="wrapper">
+            <div class="d-flex align-items-center text-grey mb-3">
+                                    <div class="text-tiny text-uppercase">
+                        13 February 2019
+                    </div>
+                                            </div>
+            <div class="h4 font-weight-bold">
+                The rise of Data Science in aviation: how to unlock hidden value
+            </div>
+            <div class="text text-small description">
+                Data Science is developing at a breakneck pace, and many companies contact Big Data specialists and Data scientists for making vital decisions and business insights. According to IBM predictions, the ...
+            </div>
+        </a>
+    </div>
+    <div class="tags">
+        
+            </div>
+    <a rel="nofollow" href="https://www.n-ix.com/rise-data-science-aviation-unlock-hidden-value/" class="wrapper">
+        <p class="text-tiny text-grey bottom-text">READ MORE</p>
+    </a>
+</article>
+                </div>
+                            <div class="col-md-6 col-lg-4">
+                    <article class="nix-card-blog">
+    <div class="banner">
+        <a href="https://www.n-ix.com/using-big-data-analytics-predictive-maintenance-enterprises-slash-downtime/" class="wrapper">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/14/73e09bd8-6fd7-4c50-809a-237cebba587e.jpg" alt="">
+            <noscript>
+                <img src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/14/73e09bd8-6fd7-4c50-809a-237cebba587e.jpg" alt="">
+            </noscript>
+        </a>
+    </div>
+    <div class="content">
+        <a href="https://www.n-ix.com/using-big-data-analytics-predictive-maintenance-enterprises-slash-downtime/" class="wrapper">
+            <div class="d-flex align-items-center text-grey mb-3">
+                                    <div class="text-tiny text-uppercase">
+                        18 October 2018
+                    </div>
+                                            </div>
+            <div class="h4 font-weight-bold">
+                Using big data analytics for predictive maintenance: how enterprises slash downtime
+            </div>
+            <div class="text text-small description">
+                
+Recent studies indicate that because of downtime industrial manufacturers lose an estimated $50 billion each year. For example, in auto manufacturing, downtime can cost a staggering $1.3M per hour, ...
+            </div>
+        </a>
+    </div>
+    <div class="tags">
+        
+            </div>
+    <a rel="nofollow" href="https://www.n-ix.com/using-big-data-analytics-predictive-maintenance-enterprises-slash-downtime/" class="wrapper">
+        <p class="text-tiny text-grey bottom-text">READ MORE</p>
+    </a>
+</article>
+                </div>
+                    </div>
+    </div>
+</section>
+            </div>
+        </section>
+        
+    <footer id="footer" class="pt-lg-5 pt-0 pb-4">
+    <div class="container-fluid pt-lg-0 column">
+        <div class="d-block d-lg-none mobile-logo-container text-center">
+            <a href="../index.htm" class="logo">
+                <svg xmlns="http://www.w3.org/2000/svg" width="71" height="26">
+                    <g fill="none">
+                        <path fill="#ff6900" d="M0 .963C0 .446.432 0 .983 0H4.03c.528 0 1.391.094 1.919.211 0 0 .791.165 1.367 1.01l7.243 11.02c.288.447.743 1.175 1.031 1.622 0 0 1.463 2.42 2.782 5.568-.671-3.36-.863-4.934-.863-6.931V.963c0-.517.432-.963.983-.963h3.55c.527 0 .959.423.959.963v23.05a.973.973 0 0 1-.96.964h-3.07c-.527 0-1.39-.094-1.918-.212 0 0-.791-.164-1.367-1.01l-7.243-11.02c-.288-.446-.743-1.175-1.031-1.621 0 0-1.463-2.42-2.782-5.569.647 3.36.863 4.934.863 6.885v11.607A.978.978 0 0 1 4.51 25H.983C.456 25 0 24.577 0 24.037V.963z"></path>
+                        <path fill="#FFF" class="logo-right-part" d="M26 14.105c0-.528.425-.985.967-.985h9.057c.518 0 .943.433.943.985v2.475c0 .53-.425.986-.943.986h-9.057A.98.98 0 0 1 26 16.58v-2.475zm13.892-4.661c0-.529.424-.986.966-.986h3.491a.98.98 0 0 1 .967.986v15.57c0 .53-.424.986-.967.986h-3.514a.98.98 0 0 1-.967-.985V9.444h.024zm5.377-6.705c0 1.514-1.203 2.74-2.689 2.74s-2.688-1.226-2.688-2.74C39.892 1.226 41.094 0 42.58 0c1.486 0 2.689 1.226 2.689 2.74zM46.802 26c1.792-3.22 4.387-7.521 6.698-11.054l.519-.793c.283-.456.613-.937.707-1.105a.623.623 0 0 0 0-.577c-.094-.168-.424-.648-.707-1.081 0 0-1.274-1.922-1.958-2.98a133.1 133.1 0 0 1-3.443-5.623l-.472-.84c-.26-.457-.566-.986-.66-1.178-.094-.168.236-.312.755-.312h4.952c.52 0 1.038.144 1.132.336.095.192.378.72.637 1.201 0 0 2.5 3.941 4.552 6.969.99 1.442 3.703 5.046 3.986 5.503 0 0 2.712 3.82 4.127 6.103.92 1.49 1.91 2.836 2.571 4.013.236.433.425.721.802 1.394h-6.014c-.519 0-1.156-.385-1.392-.865 0 0-.896-1.706-1.934-3.605-1.32-2.402-1.934-3.508-3.018-5.262l-.19.312c-.259.457-.707 1.226-.966 1.682 0 0-2.594 4.59-3.868 7.017-.189.385-.778.721-1.297.721H46.8V26zM60.34 7.45s2.028-3.485 3.537-6.32c.189-.385.779-.673 1.298-.673h4.386c.52 0 .873.144.755.312-.094.168-.424.697-.684 1.153l-5.024 8.074-1.06 1.778L60.34 7.45z"></path>
+                    </g>
+                </svg>
+            </a>
+        </div>
+        <div class="row">
+            <div class="col-lg-2">
+                <div class="footer-menu">
+                    <div class="d-none d-lg-block mb-4 text-left">
+                        <a href="../index.htm" class="logo">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="71" height="26">
+                                <g fill="none">
+                                    <path fill="#ff6900" d="M0 .963C0 .446.432 0 .983 0H4.03c.528 0 1.391.094 1.919.211 0 0 .791.165 1.367 1.01l7.243 11.02c.288.447.743 1.175 1.031 1.622 0 0 1.463 2.42 2.782 5.568-.671-3.36-.863-4.934-.863-6.931V.963c0-.517.432-.963.983-.963h3.55c.527 0 .959.423.959.963v23.05a.973.973 0 0 1-.96.964h-3.07c-.527 0-1.39-.094-1.918-.212 0 0-.791-.164-1.367-1.01l-7.243-11.02c-.288-.446-.743-1.175-1.031-1.621 0 0-1.463-2.42-2.782-5.569.647 3.36.863 4.934.863 6.885v11.607A.978.978 0 0 1 4.51 25H.983C.456 25 0 24.577 0 24.037V.963z"></path>
+                                    <path fill="#FFF" class="logo-right-part" d="M26 14.105c0-.528.425-.985.967-.985h9.057c.518 0 .943.433.943.985v2.475c0 .53-.425.986-.943.986h-9.057A.98.98 0 0 1 26 16.58v-2.475zm13.892-4.661c0-.529.424-.986.966-.986h3.491a.98.98 0 0 1 .967.986v15.57c0 .53-.424.986-.967.986h-3.514a.98.98 0 0 1-.967-.985V9.444h.024zm5.377-6.705c0 1.514-1.203 2.74-2.689 2.74s-2.688-1.226-2.688-2.74C39.892 1.226 41.094 0 42.58 0c1.486 0 2.689 1.226 2.689 2.74zM46.802 26c1.792-3.22 4.387-7.521 6.698-11.054l.519-.793c.283-.456.613-.937.707-1.105a.623.623 0 0 0 0-.577c-.094-.168-.424-.648-.707-1.081 0 0-1.274-1.922-1.958-2.98a133.1 133.1 0 0 1-3.443-5.623l-.472-.84c-.26-.457-.566-.986-.66-1.178-.094-.168.236-.312.755-.312h4.952c.52 0 1.038.144 1.132.336.095.192.378.72.637 1.201 0 0 2.5 3.941 4.552 6.969.99 1.442 3.703 5.046 3.986 5.503 0 0 2.712 3.82 4.127 6.103.92 1.49 1.91 2.836 2.571 4.013.236.433.425.721.802 1.394h-6.014c-.519 0-1.156-.385-1.392-.865 0 0-.896-1.706-1.934-3.605-1.32-2.402-1.934-3.508-3.018-5.262l-.19.312c-.259.457-.707 1.226-.966 1.682 0 0-2.594 4.59-3.868 7.017-.189.385-.778.721-1.297.721H46.8V26zM60.34 7.45s2.028-3.485 3.537-6.32c.189-.385.779-.673 1.298-.673h4.386c.52 0 .873.144.755.312-.094.168-.424.697-.684 1.153l-5.024 8.074-1.06 1.778L60.34 7.45z"></path>
+                                </g>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 d-none d-lg-block">
+                <div class="footer-menu">
+                    <div class="footer-action">
+                        <div class="text-small pb-2">
+                            <a href="mailto:contact@n-ix.com" class="mobile-wrapper">
+                                contact@n-ix.com
+                            </a>
+                        </div>
+                        <div class="social-list d-inline-flex">
+            <a href="https://www.linkedin.com/company/n-ix" title="Linkedin" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/linkedin.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/linkedin.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://www.youtube.com/@NixSoftwareDevelopment" title="Youtube" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/youtube.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/youtube.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://twitter.com/N_iX" title="Twitter" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/twitter.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/twitter.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://www.facebook.com/N.iX.Company" title="Facebook" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/facebook.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/facebook.png" alt="Social icon">
+            </noscript>
+        </a>
+    </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row col-lg-7 d-none d-lg-flex">
+                <div class="col-lg-6">
+                    <div class="footer-menu">
+                        <div class="text-small px-0 pe-2 col-md-6 col-lg-12">
+                            <span class="d-block text-big w-100 pr-md-1">USA office:</span>
+                            <span class="d-block w-100 pr-md-1 mt-2">Florida</span>
+                            <span class="d-block w-100 pr-md-1">15805 Biscayne Blvd. Unit 207 North Miami Beach</span>
+                            <div class="footer-action pt-3">
+                                <a href="tel:+17273415669" class="mobile-wrapper office offline">
+                                    +17273415669
+                                    <span class="d-none office-status-wrapper d-lg-inline usa-office-status">
+                                        <span class="online">online</span>
+                                        <span class="offline">offline</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="footer-menu">
+                        <div class="px-0 col-md-6 col-lg-12">
+                            <span class="d-block text-big w-100 pr-md-1">UK office:</span>
+                            <span class="d-block w-100 pr-md-1 mt-2">London</span>
+                            <span class="d-block w-100 pr-md-1">EC2 4YJ, Office 06-133 8, Devonshire Square</span>
+                            <div class="footer-action pt-3">
+                                <a href="tel:+442037407669" class="mobile-wrapper office">
+                                    +442037407669
+                                    <span class="d-none office-status-wrapper d-lg-inline hq-office-status">
+                                       <span class="online">online</span>
+                                        <span class="offline">offline</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-block col-12 d-lg-none">
+                <div class="text-center">
+                    <div class="footer-action">
+    <div class="text-small">
+        <a href="mailto:contact@n-ix.com" class="mobile-wrapper">
+            contact@n-ix.com
+        </a>
+    </div>
+    <div class="row">
+        <div class="text-small col-md-6 col-lg-12">
+            <span class="d-inline-block w-100 d-md-inline pr-md-1">UK office:</span>
+            <a href="tel:+442037407669" class="mobile-wrapper office">
+                +442037407669
+            </a>
+        </div>
+        <div class="text-small col-md-6 col-lg-12">
+            <span class="d-inline-block w-100 d-md-inline pr-md-1">USA office: </span>
+            <a href="tel:+17273415669" class="mobile-wrapper office">
+                +17273415669
+            </a>
+        </div>
+    </div>
+</div>
+<div class="footer-action">
+    <div class="social-list d-inline-flex">
+            <a href="https://www.linkedin.com/company/n-ix" title="Linkedin" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/linkedin.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/linkedin.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://www.youtube.com/@NixSoftwareDevelopment" title="Youtube" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/youtube.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/youtube.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://twitter.com/N_iX" title="Twitter" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/twitter.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/twitter.png" alt="Social icon">
+            </noscript>
+        </a>
+            <a href="https://www.facebook.com/N.iX.Company" title="Facebook" target="_blank" class="icon">
+            <img loading="lazy" src="../dist/images/load.svg" data-src="https://www.n-ix.com/dist/images/social/facebook.png" alt="Social icon">
+            <noscript>
+                <img loading="lazy" src="../dist/images/social/facebook.png" alt="Social icon">
+            </noscript>
+        </a>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex flex-lg-row flex-column-reverse justify-content-end copyright">
+            <div class="col-lg-3 text-center px-lg-1 text-lg-left">
+                Copyright &copy; 2002 - 2024 N-iX LTD
+            </div>
+            <div class="col-lg-7 px-lg-3 text-center">
+                <div class="text-center text-lg-left">
+                    <div class="w-100 d-flex flex-column flex-lg-row justify-content-between">
+                        <div>
+                            <ul class="footer-links mb-0">
+                                <li><a href="../privacy-policy/index.htm" target="_blank"> Privacy Notice </a></li>
+                                <li><a href="../terms-and-conditions/index.htm" target="_blank"> Terms & Conditions</a></li>
+                                <li><a href="../cookie-policy/index.htm" target="_blank">Cookie Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+    <div class="cookie-block-wrapper" style="display: none">
+<section class="cookiesBlock mx-3">
+    <div class="container-fluid column">
+        <div class="d-flex flex-column align-items-start cookies-container">
+            <div class="text px-3 mr-0">
+                <p class="mb-1">We use cookies to improve your experience and our services.</p>
+                <p class="mb-0">By clicking Agree you accept our <a href="../privacy-policy/index.htm" target="_blank">Privacy</a> and  <a href="../cookie-policy/index.htm" target="_blank"> Cookies Policy</a></p>
+            </div>
+            <div class="pt-3 mx-auto pt-xl-5 px-3 d-flex flex-column">
+            <button class="nix-btn primary text-center small acceptAllCookie">
+               Accept all cookies
+            </button>
+            <button class="nix-btn primary mt-4 text-center small acceptEssentialCookie">
+                Accept only essential cookies
+            </button>
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+
+
+<script defer="" src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script defer="" src="../bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer="" src="../ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" integrity="sha512-IsNh5E3eYy3tr/JiX2Yx4vsCujtkhwl7SLqgnwLNgf04Hrt9BT9SXlLlZlWx+OK4ndzAoALhsMNcCmkggjZB1w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer="" src="../ajax/libs/js-cookie/2.2.0/js.cookie.min.js" integrity="sha512-bVUSGs+VGUD9SwBk3C9K5PIGimiDwCOX2DWXXw8HgliEe/YtY/4gSmULr/Q3dHezota5YFMqUAV7wiaefMRBqA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer="" src="../ajax/libs/intl-tel-input/14.0.2/js/intlTelInput.min.js" integrity="sha512-1pkhibaQ7waTBfn5VhCSVHQ781y6RrTzySLgVE5BzpsHj7UJ8hGI+RF/rnjoEduG1Xs/6YCWm/DlcudLt8+xFA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script defer="" src="../dist/js/bundle.js?v=3532303235"></script>
+<script defer="" src="https://www.n-ix.com/dist/v2/js/bundle.js?v=3532303235"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(){
+        Website.init();
+        Websitev2.init();
+                Website.initGtag('UA-34214022-1');
+            });
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        let visitInstance = new VisitAnalytics({'referenceUrl': 'https://www.n-ix.com/api/v1/verify-reference'});
+        visitInstance.process();
+    })
+</script>
+
+    
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        $('.nix-article a[href*="s3-eu-west-1"]').on('click', function (e) {
+            e.preventDefault();
+        });
+    })
+</script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const c = new ContactFormNew();
+            c.setSuccessMessage('Thank you for your inquiry. Our expert will contact you shortly.');
+            c.init();
+        })
+    </script>
+</body>
+</html>
